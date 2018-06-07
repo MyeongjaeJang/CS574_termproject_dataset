@@ -1,0 +1,4 @@
+
+Learn how to be a penetration tester, beside a good sysadmin. 
+You can read here about : 
+Penetration Testing, Linux Administration, Virtualization, Mysql, etc. Recent Posts 
