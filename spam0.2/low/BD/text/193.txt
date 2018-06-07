@@ -1,0 +1,90 @@
+Facebook’s Zuckerberg says his data was harvested Published on: 8:02   
+Currentnews.com.bd 
+Facebook’s chief executive has revealed that his data was among that harvested in a privacy scandal. 
+
+Mark Zuckerberg made the disclosure during his second day of being questioned in Washington. 
+
+In a related development, the political consultancy at the heart of the affair has announced its acting chief executive is stepping down. 
+
+He also revealed that his firm was exploring whether to take action against the University of Cambridge. 
+
+The institution is where the researcher Aleksandr Kogan, who had collected and sold personal data to Cambridge Analytica, was based. 
+
+“What we found now is that there’s a whole programme associated with Cambridge University where… there were a number of other researchers building similar apps,” Mr Zuckerberg said. 
+
+“So, we do need to understand whether there was something bad going on at Cambridge University overall that will require a stronger reaction from us.” 
+
+The university has reacted by saying it would be “surprised” if Mr Zuckerberg was only now aware of the work. 
+
+“Our researchers have been publishing such research since 2013 in major peer-reviewed scientific journals, and these studies have been reported widely in international media,” it added. 
+
+“These have included one study in 2015 led by Dr Aleksandr Spectre (Kogan) and co-authored by two Facebook employees. 
+
+“We have found no evidence that University researchers are improperly gathering personal data.” 
+
+Mr Zuckerberg had earlier apologised for having failed to check in 2015 that Cambridge Analytica had deleted information gathered about millions of Facebook users. 
+
+Instead Facebook let the political consultancy self-certify that it had destroyed the records, which it said had been acquired in violation of the social network’s rules. 
+
+“We have a responsibility to make sure what happened with [app developer] Kogan and Cambridge Analytica doesn’t happen again,” Mr Zuckerberg said. 
+
+The 33-year-old added that Facebook’s audit of other apps would take many months to complete. 
+But he said that the firm had seen no evidence as yet that Russia or China had attempted to scrape people’s information. 
+
+Cambridge Analytica has denied breaking the law and said it did indeed delete the data. 
+
+The company has also announced that its acting chief executive Dr Alexander Tayler is stepping down from the post to resume his previous position as its chief data officer. 
+
+Alexander Nix, who had been in charge until March, remains suspended. 
+
+Mr Zuckerberg’s four hour appearance before the House Committee on Energy and Commerce followed a five hour session in front of two Senate committees yesterday. 
+
+During a testy early exchange, he declined to give a commitment to change all users’ default privacy settings to collect the minimum amount of personal information. 
+
+“This is a complex issue,” Mr Zuckerberg said. 
+
+“That’s disappointing to me,” responded Democratic congressman Frank Pallone. 
+
+Elsewhere in the hearing, Mr Zuckerberg acknowledged that he believed it was “inevitable” that the internet would need new regulations. 
+
+“My position is not that there should be no regulation, but I also think you have to be careful about what regulation you put in place,” he said. 
+
+The Facebook chief also faced fresh accusations from Republican congressman Steve Scalise that the News Feed’s algorithm was discriminating against conservative news and content in favour of liberal posts. 
+
+“There is absolutely no directive in any of the changes that we make to have a bias,” responded Mr Zuckerberg. 
+
+“To the contrary our goal is to be a platform for all ideas.” 
+
+Another Republican pulled a surprise by displaying photos of illegal adverts for opioid drugs that he said had been live on Facebook yesterday. 
+
+“Facebook is actually enabling an illegal activity and in so doing you are hurting people,” said congressman David McKinley. 
+
+“There are a number of areas of content that we need to do a better job of policing,” Mr Zuckerberg replied, adding that he believed artificial intelligence tools would make this possible in the future. 
+
+However, several of the politicians urged Facebook to be more proactive about the matter. 
+
+Mr Zuckerberg also faced questions about the illegal trade of ivory in closed Facebook groups. 
+
+In another combative exchange, the business leader was questioned about the data his firm collected on people who had never signed up to his service. 
+
+Mr Zuckerberg said this was done for security purposes. 
+
+But he professed not to be familiar with the term “shadow profiles” despite it having been used widely by the media during a past Facebook data privacy controversy. 
+
+And he was unable to say how many types of data were being gathered about non-members. 
+
+“You said everyone controls their data,” said Democratic congressman Ben Ray Lujan. 
+
+“But you are collecting data on people that are not even Facebook users, that have never signed a consent or privacy agreement. 
+
+“When you go to Facebook’s ‘I don’t have a Facebook account page and would like to request all my personal data stored by Facebook’, it takes you to a form that says go to your Facebook page and then on your account settings you can download your data. 
+
+“We’ve got to fix that” 
+
+Other developments over the past day include: 
+
+The European Commissioner for consumers and justice has told the Guardian she may propose new regulations to tackle a “loss of trust” in Facebook, and would raise the matter with the tech firm’s chief operating officer Sheryl Sandberg later this week 
+
+Cambridge Analytica has sent letters to publishers including the BBC warning that it will treat any misleading or inaccurate reports about itself with the “utmost seriousness” 
+
+The UK Culture Secretary Matt Hancock has met with Facebook officials in London Recent Updates

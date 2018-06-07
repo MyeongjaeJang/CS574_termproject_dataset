@@ -1,0 +1,95 @@
+A portion of NASA’s Kennedy Space Center in Cape Canaveral, Florida, from where Bangabandhu-1 will be launched by SpaceX. (Image: Space X) 
+
+Time was when space was considered the ‘final frontier’ for the human species. Then we went and conquered it, or more precisely the two great superpowers of the 20th century, the Soviet Union and the United States did. But the entire planet went along for the ride. In time, others (Europe, China, and perhaps most impressively, India) joined them on the intergalactic highway. Space exploration represented the height of human endeavour and aspiration. And the US and Russia, in just over a decade of furious, unrelenting competition, drove each other to go further and further, and then some more. Indeed, to “boldly go where no man has gone before.” 
+
+History changed on October 4, 1957, when the Soviet Union successfully launched Sputnik from the Baikonur Cosmodrome in Kazakhstan. The world’s first artificial satellite was about the size of a beach ball, about 23 inches in diameter and weighing less than 190 pounds. It took about 98 minutes to orbit the Earth on its elliptical path. And its launch ushered in new political, military, technological, and scientific developments. Among other things, it marked the start of the Space Age and the US-Soviet “space race”. 
+
+Two years earlier, the Soviet Union had responded to a US announcement of intent to launch artificial satellites for the International Geophysical Year, by declaring they would also launch a satellite “in the near future”. The Soviet Union beat the US to this, with the orbiting of Sputnik 1, and later beat the US to the first human in space, Yuri Gagarin, on April 12, 1961. The “race” peaked with the July 20, 1969, US landing of the first humans on the Moon with Apollo 11. 
+
+The world was enthralled, and the US astronauts went on a world tour, including Bangladesh. Ultimately the rivalry gave way to cooperation and collaboration. Sixty years later, Americans and Russians work alongside each other and astronauts from many other countries aboard the International Space Station. 
+
+The end of the Space Race is harder to pinpoint than its beginning, but it was over by the December 1991 dissolution of the Soviet Union, after which “true spaceflight cooperation between the US and Russia began.” 
+
+It wasn’t all about brownie points though between the two superpowers. The Space Race has left a legacy of Earth communications and weather satellites, and continuing human space presence on the International Space Station. It has also sparked increases in spending on education and research and development, which led to beneficial spin-off technologies, that have even been augmented by later inventions such as the smartphone. Today, when we use the location services on our phone, watch live television beaming pictures from one corner of the planet to another, or even go in for an MRI scan, it is good to remember none of this would have been possible if the pioneers in space had not set their sights as high as they did. It is this legacy that now Bangladesh aims to tap into, with the imminent launch of its own satellite – Bangabandhu 1. 
+
+Sowing the dream 
+
+Bangladesh, as is well-known, is highly exposed to natural disaster risk because of its unique geographical location. Telecommunication system in Bangladesh has always been suffering from interruptions and problems as erratic disasters hit the country. During such emergencies, satellite networks can play an important role in ensuring uninterrupted telecommunication services for the country. 
+
+In order to ensure better telecommunication services, BTRC always felt the need of having its own satellite network. While the present Awami League-led government may get to hog all the credit for taking Bangladesh into space, the bureaucrats at BTRC had a long cherished dream of having country’s first satellite. In order to materialize the dream, BTRC had formed a committee as far back as April, 2008 (when the last caretaker government was in power) although it was then reformed in January, 2010 under the AL. 
+
+This committee performed various important activities like submission of electronic filing to the International Telecommunications Union, Coordination Request (CR) notification to ITU, etc. The committee also maintained a continuous liaison with ITU to perform all secretarial jobs in this regard. This is to be mentioned here that every member state of ITU has to follow ITU regulations in order to launch their satellite. 
+
+Recognizing the importance of the satellite launching preparatory activities, BTRC formulated a project with the title “Preparatory functions and Supervision in Launching a Communication and Broadcasting Satellite”-which was then approved by the government on 26 January, 2012 with an estimated project cost of Taka 8,681.51 lakh and with an implementation tenure from 01 July, 2011 to 30 June, 2015. 
+
+As the allotment process of orbital position and relevant frequencies from ITU is very complex and Bangladesh had no previous experience in satellite launching activities, a USA based consultancy firm, Space Partnership International (SPI), was appointed under the project on 29 March, 2012. 
+
+A partner to trust 
+
+Thales Alenia Space was selected as prime contractor to provide turnkey systems, including design, production, testing services for the BD-1 satellites, in November 2015. The scope of the contract also includes the development of ground segment. 
+
+BD-1 satellite’s communications module integration work is being carried out at Thales Alenia Space plant located at Toulouse in France. The critical design review (CDR) of BD-1 satellite was completed in January 2017. The service module for the satellite is being manufactured at Cannes and satellite mating is expected to be completed by March 2017. 
+
+Thales Alenia Space Belgium, Thales Alenia Space Italia and Thales Alenia Space España are also involved in the development of the satellite and the ground components. 
+
+Based on Spacebus 4000B2 platform developed by Thales Alenia Space, the BD-1 satellite will have a launch mass of 3,500kg. It will include two deployable solar arrays with batteries. The spacecraft will have a designed lifespan of 15 years. 
+
+Thales Alenia Space brings over 40 years of experience to the design, integration, testing and operation of innovative space systems for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures. A joint venture between Thales (67%) and Leonardo-Finmeccanica (33%), Thales Alenia Space also teams up with Telespazio to form the parent companies’ “Space Alliance”, which offers a complete range of services and solutions. 
+
+Thales Alenia Space has built up unrivaled expertise in dual (civil-military) missions, constellations, flexible high-throughput payloads, altimetry, meteorology, and high resolution radar and optical observation, as well as space exploration. The company capitalizes on its strong legacy, while also making innovation a key to its strategy. By offering a continuous stream of new products and expanding its global footprint, Thales Alenia Space has established its leadership in today’s fast-evolving space sector. Thales Alenia Space posted consolidated revenues exceeding 2.1 billion euros in 2015 and has 7,500 employees in nine countries. 
+
+Satellite to ground control 
+
+The satellite will be controlled by two ground stations, which will be used for primary and back-up site operations and control centres. The survey for site selection for the construction of the ground control stations has been completed. 
+
+Thales Alenia Space will provide tools for the ground segment for the mission planning and space operations monitoring. It will also build two ground facility buildings, which will house satellite control and network operations centre. 
+
+Spectra Engineers was contracted to execute civil works of the ground facilities in two sites- one in Betbunia, Rangamati and the other closer to the capital in Joydebpur, Gazipur. 
+
+At Cape Canaveral 
+
+This week we learned that Bangladesh’s first satellite to be launched into outer space, Bangabandhu-1, has been safely transported to its launch site, and now awaits liftoff. 
+
+Thales Alenia Space, that built the 3.5-metric ton communications satellite, tweeted to this effect on its official account on Saturday, March 31. It also shared photos of an Antonov cargo aircraft apparently having landed at an airstrip in Cape Canaveral, Florida – home to the world-renowned Kennedy Space Center. 
+
+From there, Bangabandhu-1 will be put into orbit by the private American space transportation company SpaceX – who have now set the launch date for April 24, with a ‘NET’ (not earlier than) 
+
+Earlier, Bangabandhu Satellite-1 left Thales Alenia Space’s Cannes plant on March 28. It had a layover in Boston on March 29, before completing the final leg of its journey to the launch site the next day. 
+
+Online flight tracking site flightaware.com shares that the Antonov 2383 carrying Bangabandhu-1 arrived at the NASA Shuttle Landing Facility in Titusville, Florida – just west of Cape Canaveral. 
+
+Meanwhile SpaceX over the weekend of March 29 confirmed the launch date by announcing that its first first ‘Block-5’ Falcon 9 rocket, on which Bangabandhu-1 is manifested, will take off on April 24. It had earlier set a date of April 20, before reverting to an unconfirmed date in late April. Thales have also confirmed the launch date, adding on its official Twitter account that use of the Block-5 “has resulted in some extra delay. However, Bangabandhu-1 will fly on the most advanced and reliable vehicle ever built by #SpaceX” 
+
+A SpaceX Falcon 9 rocket will lift the Bangabandhu-1 communications satellite for the Bangladesh Telecommunication Regulatory Commission (BTRC), becoming the first geostationary communications satellite operated by the country. 
+
+According to reports in British media, the thrust of the Block 5 engines will be increased by eight percent, compared to the thrust of the Block 4 units. The first stage of the latest version of the carrier is designed for ten or more launches. Ordered from Thales Alenia in late 2015 at a cost of Tk 2000 crore, BD-1 will operate from 119.1° East using a payload comprising 14 C-Band and 26 Ku-Band transponders to deliver focused telecommunications coverage to Bangladesh. 
+
+According to Thales, Bangabandhu-1 is designed “to reduce the country’s digital divide by providing broadcast and communications services to rural areas, including direct-to-home TV broadcasting across the country and in surrounding regions.” 
+
+Bangladesh is currently meeting its satellite needs through renting the requisite from foreign operators, for which country is reportedly having to pay $14 million a year for it. Apart from that saving, Bangabandhu-1 is expected to usher in other revenue gathering opportunities as well, and above all, to propel Bangladesh rocket-like into the ‘Space Age’. 
+
+Satellite of Love 
+
+Bangabandhu-1 is expected to transform your experience of modern gadgets and appliances you’re fairly used to, only never knew there was more to it. 
+
+DTH 
+
+Ku-band service consisting of multiplexed digital television, radio and associated data direct to very small antennas. Operators in the respective countries will package the content at their broadcast centre(s) and transmit them to the Bangabandhu Ground Station or another earth station facility for uplink to the Satellite. 
+
+Video Distribution 
+
+C-band service of multiplexed digital television, radio and associated data services to medium-sized antennas anywhere in the Satellite’s footprint. The users of this service are likely to be broadcasters distributing their content services to intermediaries like cable TV network operators, or re-broadcasters like DTH Operators in other countries. 
+
+VSAT Private Networks 
+
+The Network shall support private networks consisting of voice, data, video and Internet services, to banks, corporate offices, etc. with medium-sized antennas. The service will be delivered using Ku-Band in the Bangladesh and the IndiaPlus coverage regions and using C-Band beams. Typically, the Purchaser’s customers will be Satellite Service Providers offering end-to-end services for the user groups. 
+
+Broadband 
+
+This is a Ku-Band Broadband service that allows the end-user (individual, organization, corporation or Government) to remotely access the Internet at high speed with high quality of service. Small to medium-sized antennas will be required in Bangladesh and IndiaPlus with medium-sized antennas in Indonesia and the Philippines. The Purchaser’s customers will typically be Satellite Service Providers and Internet Service Providers, which will retain the services to end-users. 
+
+Communications Trunks 
+
+Ku-Band and C-Band wide band high data rate point-to-point services that require large antennas at both ends of the circuit. Typically, Telco’s and GSM Operators use these services. Over this e-learning, Telemedicine and remote office like service will be promoted by this Bangabandhu Satellite -1. It will provide uninterrupted telecommunication service in national or regional natural calamities. 
+
+Source: Bangladesh Communication Satellite Company Limited is a Bangladesh Government owned company formed with the aim to operate its first ever satellite Leave a Reply

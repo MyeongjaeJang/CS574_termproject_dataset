@@ -1,0 +1,39 @@
+Facebook suspends AIQ data firm used by Vote Leave in Brexit campaign Published on: 7:16   Technology   
+Facebook has suspended a Canadian data firm that played a key role in the campaign for the UK to leave the EU. 
+
+The social media giant said AggregateIQ (AIQ) may have improperly received users’ data. 
+
+It cites reported links with the parent company of Cambridge Analytica (CA), the consultancy accused of improperly accessing the data of millions. 
+
+AIQ denies ever being part of CA, its parent company SCL or accessing improperly obtained Facebook data. 
+
+The Vote Leave campaign paid AIQ £2.7m ($3.8m) ahead of the 2016 EU referendum. 
+
+An ex-volunteer with the campaign has also claimed Vote Leave donated £625,000 to another group to get around campaign spending limits, with most of the money going to AIQ. Vote Leave has denied any wrongdoing. 
+
+AIQ’s website once quoted Vote Leave chief Dominic Cummings saying: “Without a doubt, the Vote Leave campaign owes a great deal of its success to the work of AggregateIQ. 
+We couldn’t have done it without them.” The quote has since been removed. 
+
+In total, AIQ was given £3.5m by groups campaigning for Brexit, including Vote Leave, the Democratic Unionist Party and Veterans for Britain. The UK’s Electoral Commission reopened an investigation into Vote Leave’s campaign spending in November. 
+
+“In light of recent reports that AggregateIQ may be affiliated with SCL and may, as a result, have improperly received FB user data, we have added them to the list of entities we have suspended from our platform while we investigate,” a Facebook spokesperson said. 
+
+“Our internal review continues, and we will co-operate fully with any investigations by regulatory authorities.” 
+
+In a message posted to its website, AIQ says it is “100% Canadian owned and operated” and “has never been and is not a part of Cambridge Analytica or SCL”. 
+
+It adds: “Aggregate IQ has never managed, nor did we ever have access to, any Facebook data or database allegedly obtained improperly by Cambridge Analytica.” 
+
+It also denied ever employing Chris Wylie, the Canadian whistleblower who alleged that the data of 50m people was improperly shared with Cambridge Analytica. Facebook has since said the number of people affected could be closer to 87m. CA says it obtained the data of no more than 30m people and has deleted all of it. 
+
+AIQ is a small company operating out of Victoria, British Columbia. It uses data to help micro-target voters and was founded by two Canadian political staffers. 
+
+Apart from its Brexit work the company has also been accused by Mr Wylie of distributing “incredibly anti-Islamic” content on social media ahead of the 2015 Nigerian presidential election to discredit Muslim opposition candidate Muhammadu Buhari, who went on to win the contest. 
+
+The BBC has approached AIQ for a response to the Nigeria allegations. 
+
+Mr Wylie has said that AIQ was referred to among Cambridge Analytica staff as “our Canadian office”. He told the Guardian he helped to set up the firm as a “Canadian entity for people who wanted to work on SCL projects who didn’t want to move to London” and that he had known the firm’s co-founder, Jeff Silvester, since he was 16. 
+
+AIQ says it “has never entered into a contract with Cambridge Analytica” and that “Chris Wylie has never been employed by AggregateIQ”. 
+
+Cambridge Analytica is at the centre of a row over whether it used the personal data of millions of Facebook users to sway the outcome of the US 2016 presidential election and the UK Brexit referendum. Recent Updates

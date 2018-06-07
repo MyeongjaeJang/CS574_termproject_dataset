@@ -1,0 +1,34 @@
+Facebook knew about Cambridge Analytica data breach: Sheryl Sandberg Published on: 7:40   Exclusive / Technology   
+Facebook was aware more than two years ago of Cambridge Analytica’s harvesting of the personal profiles of up to 87 million users and cannot rule out other cases of abuse of user data, chief operating officer Sheryl Sandberg said. 
+
+Sandberg, who joined Facebook in 2008 from Google, has been largely silent since the privacy scandal broke but she gave interviews on Thursday and Friday to National Public Radio and NBC’s “Today Show.” 
+
+“We know that we did not do enough to protect people’s data,” Sandberg told NPR. “I’m really sorry for that. 
+Mark (Zuckerberg) is really sorry for that, and what we’re doing now is taking really firm action.” 
+
+“Safety and security are never done, it’s an arms race,” she said. “You build something, someone tries to abuse it.” 
+
+“But the bigger (question) is, ‘Should we have taken these steps years ago anyway?'” Sandberg said. “And the answer to that is yes. 
+
+“We really believed in social experiences, we really believed in protecting privacy, but we were way too idealistic,” she said. “We did not think enough about the abuse cases and now we’re taking really firm steps across the board.” 
+
+Facebook has been scrambling for weeks in the face of the disclosure of the hijacking of private data by the British consulting group working for Donald Trump’s 2016 presidential campaign. 
+
+That’s on us 
+
+Sandberg said Facebook was first aware two and a half years ago that Cambridge Analytica had obtained user data from a researcher who put up a poll on Facebook. 
+
+“When we received word that this researcher gave the data to Cambridge Analytica, they assured us it was deleted,” she said. “We did not follow up and confirm, and that’s on us — and particularly once they were active in the election, we should have done that.” 
+
+Sandberg was asked by the “Today Show” if other cases of misuse of user data could be expected. “We’re doing an investigation, we’re going to do audits and yes, we think it’s possible, that’s why we’re doing the audit,” she said. 
+
+“That’s why this week we shut down a number of use cases in other areas — in groups, in pages, in events — because those are other places where we haven’t necessarily found problems, but we think that we should be more protective of people’s data,” she told NPR. 
+
+Sandberg said that starting Monday, the social network will put on top of its news feed “a place where you can see all the apps you’ve shared your data with and a really easy way to delete them.” 
+
+Sandberg said Facebook also should have been more proactive in dealing with Russian interference in the 2016 presidential election. “That was something we should have caught, we should have known about,” she told NPR. “We didn’t. Now we’ve learned.” 
+
+“We’re going after fake accounts,” she told the “Today Show.”“A lot of it is politically motivated but even more is economically motivated.” 
+
+Zuckerberg accepted responsibility this week for the failure to protect user data but maintained he was still the best person to lead the network of two billion users. He is to appear before a US congressional panel next week to address privacy issues. Facebook shares were down slightly in mid-morning trading in New York on April 6. 
+Source: AFP
