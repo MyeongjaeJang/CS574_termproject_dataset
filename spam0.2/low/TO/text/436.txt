@@ -1,0 +1,10 @@
+
+To quote Michael A. Jackson: 
+We follow two rules in the matter of optimization: Rule 1: Don't do it. Rule 2 (for experts only). Don't do it yet - that is, not until you have a perfectly clear and unoptimized solution. 
+There is only one big problem, as Sean Denny also points out: it takes a lot of work. Often when you can start applying "rule 2" there is no more budget. 
+When you do create anything you should always think about the performance aspects. Design your system in such a way that once it comes to optimization you do not have to rewrite half of it. 
+There is no silver bullet or gold rule in designing system to perform well. This for the simple fact that "performance" is ill-defined to begin with. For example, you can design a system for high concurrent execution of jobs, but this can negatively affect the performance of a single job. 
+But the best way is to write clean code and future optimization will be less difficult. 
+As Kent Beck said 
+Make it work. Make it right. Make it fast. 
+(in that order) 

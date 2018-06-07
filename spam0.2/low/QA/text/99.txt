@@ -1,0 +1,28 @@
+Cambridge Analytica denied claims it obtained and retained Facebook account data without users' knowledge [File: AP] Britain's privacy regulator is seeking a warrant to search the offices of the political consultancy Cambridge Analytica following reports the company allegedly improperly gained access to data on 50 million Facebook users.
+Elizabeth Denham, the UK information commissioner, said on Monday that she would request the warrant because Cambridge Analytica had been uncooperative with her investigation into whether the company illegally acquired and used Facebook data.
+"This is a complex and far-reaching investigation for my office, and any criminal or civil enforcement actions arising from it will be pursued vigorously," she said in a statement.
+Denham launched her investigation after weekend reports that Cambridge Analytica allegedly used data mined from Facebook in its work on Donald Trump's 2016 presidential campaign.
+The New York Times and the UK's Guardian newspaper reported that the London-based company obtained Facebook account data without the users' knowledge and retained it after claiming it had been deleted.
+Chris Wylie, who once worked for Cambridge Analytica, was Quote: d as saying the company used the data to build psychological profiles so voters could be targeted with ads and stories.
+Cambridge Analytica denied the claims, saying the information had been acquired from a contractor who was contractually obligated to comply with data-protection laws. None of the data was used in the Trump campaign, the company said.
+{articleGUID} It said it deleted all Facebook data after learning the information did not adhere to data protection rules.
+But Denham said she did not accept the firm's response.
+"[S]o, therefore, I'll be applying to the court for a warrant," she told Britain's Channel 4.
+"We need to get in there; we need to look at the databases, we need to look at the servers and understand how data was processed or deleted by Cambridge Analytica."
+Additional allegations about the firm's tactics were reported late on Monday by Channel 4, who said it secretly taped interviews with senior Cambridge Analytica executives in which they boasted of their ability to sway elections in countries around the world.
+In the interviews, Alexander Nix, the company's chief executive, appears to suggest the firm could entrap politicians in compromising situations with bribes and Ukrainian sex workers.
+Cambridge Analytica rejected the allegations, saying in a statement that the Channel 4 report "is edited and scripted to grossly misrepresent the nature of those conversations and how the company conducts its business".
+Channel 4 aired secretly filmed interviews in which Alexander Nix discussed tactics to discredit politicians [File: Reuters] Meanwhile, Facebook has suspended Cambridge Analytica from its platform while it investigates the claims.
+Facebook said on Monday it had hired forensic auditors from the firm Stroz Friedberg to investigate and determine whether the firm still had the data. But that audit has been put on hold at the request of the UK information commissioner, it said.
+In the United States , members of Congress called on Facebook CEO Mark Zuckerberg to testify about Facebook's actions.
+WATCH: Deleted, suspended, demoted - Censorship, Silicon Valley-style (8:29)
+Democratic Senator Amy Klobuchar and Republican John Kennedy called for Facebook chief Mark Zuckerberg to appear before Congress, along with Google and Twitter's CEOs.
+The legislators said the companies "have amassed unprecedented amounts of personal data" and that the lack of oversight "raises concerns about the integrity of American elections as well as privacy rights".
+Late on Monday, the Connecticut Attorney General said the office would initiate an inquiry into Facebook data policies.
+In Europe , officials voiced similar outrage.
+The revelations about Cambridge Analytica were "horrifying, if confirmed", said EU Justice Commissioner Vera Jourova.
+"We don't want this in the EU and will take all possible legal measures" including stricter rules under the bloc's General Data Protection Regulation that takes effect in May, she said.
+The head of the European Parliament said EU lawmakers would investigate possible data misuse, calling the allegations an unacceptable violation of citizens' privacy rights.
+The criticism of Cambridge Analytica presents a new threat to Facebook's reputation, which is already under attack over Russia's alleged use of Facebook tools to sway US voters with divisive and false news posts before and after the 2016 election.
+Facebook shares closed down nearly seven percent on Monday, wiping nearly $40bn off its market value as investors worried that new legislation could damage the company's advertising business.
+SOURCE: News agencies

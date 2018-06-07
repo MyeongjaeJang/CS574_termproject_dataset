@@ -1,0 +1,15 @@
+Reuters
+LOS GATOS, California
+Tesla Inc said on Friday that a Tesla Model X involved a fatal crash in California last week had activated its Autopilot system, raising new questions about the semi-autonomous system that handles some driving tasks.
+Tesla also said vehicle logs from the accident showed no action had been taken by the driver soon before the crash and that he had received earlier warnings to put his hands on the wheel.
+"The driver had about five seconds and 150 meters of unobstructed view of the concrete divider with the crushed crash attenuator, but the vehicle logs show that no action was taken," Tesla said.
+The statement did not say why the Autopilot system apparently did not detect the concrete divider.
+The fatal crash and vehicle fire of the Tesla near Mountain View, California, involved two other cars and delayed traffic for hours. The 38-year-old Tesla driver died at a nearby hospital shortly after the crash.
+The National Highway Traffic Safety Administration, which launched an investigation into the crash earlier this week, did not immediately comment late Friday. The National Transportation Safety Board is also investigating the fatal crash.
+Autopilot allows drivers to take their hands off the wheel for extended periods under certain conditions. Tesla requires users to agree to keep their hands on the wheel"at all times" before they can use autopilot, but users routinely tout the fact they can use the system to drive hands-free.
+The NTSB faulted Tesla in a prior fatal autopilot crash.
+In September, NTSB Chairman Robert Sumwalt said operational limitations in the Tesla Model S played a major role in a May 2016 crash that killed a driver using autopilot.
+That death — the first fatality in a Tesla vehicle operating in Autopilot mode — raised questions about the safety of systems that can perform driving tasks for long stretches with little or no human intervention, but which cannot completely replace human drivers.
+The NTSB said Tesla could have taken further steps to prevent the system's misuse, and faulted the driver for not paying attention and for"overreliance on vehicle automation."
+In January, NHTSA and NTSB launched investigations into a Tesla vehicle, apparently traveling in semi-autonomous mode, that struck a fire truck in California. Neither agency nor Tesla has offered any update.
+Tesla said late Friday that"Autopilot does not prevent all accidents such a standard would be impossible but it makes them much less likely to occur. It unequivocally makes the world safer for the vehicle occupants, pedestrians and cyclists."

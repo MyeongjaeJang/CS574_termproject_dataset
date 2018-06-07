@@ -1,0 +1,23 @@
+Reuters
+Google has won the dismissal of a lawsuit in California accusing YouTube of censoring conservative content.
+In a decision late Monday, US District Judge Lucy Koh said a nonprofit run by conservative radio talk show host Dennis Prager failed to show that YouTube infringed its free speech rights by placing age restrictions on its content.
+The plaintiff, Prager University, said YouTube's"animus" toward its"political identity and viewpoint" led it to curb access to videos on such topics as abortion, gun rights, Islam and terrorism, despite its stated promise of neutrality.
+But the judge said Google and YouTube, both units of Mountain View, California-based Alphabet Inc, did not qualify as"state actors" subject to the First Amendment by creating a"public forum" for speech.
+"Defendants are private entities who created their own video-sharing social media website and make decisions about whether and how to regulate content that has been uploaded on that website," Koh wrote.
+"Plaintiff has not shown that defendants have engaged in one of the very few public functions that were traditionally exclusively reserved to the state," she added.
+The San Jose, California-based judge also dismissed a claim that YouTube engaged in false advertising by implying that Prager's videos were"inappropriate," and dismissed various law claims. Koh gave Prager a chance to amend its lawsuit.
+A lawyer for Prager did not immediately respond on Tuesday to requests for comment.
+Google did not immediately respond to a similar request.
+In court papers, Google acknowledged that deciding which videos to restrict"may involve difficult, subjective judgment calls."
+But it maintained that it should not be held liable for trying to keep YouTube"safe and enjoyable for all users."
+Google drew attention last August when it fired an engineer, James Damore, who had written an internal memo saying that biological differences led to fewer women in various technology jobs.
+Damore sued Google in January, saying it was biased against white men with conservative views.
+The case is Prager University v Google LLC et al, US District Court, Northern District of California, No. 17-06064.
+Court revives oracle claim against Google
+A US appeals court on Tuesday resurrected a multi-billion dollar copyright case brought by Oracle Corp against Google.
+The US Court of Appeals for the Federal Circuit said Google's use of Oracle's Java development platform to create the Android operating system was not protected under the fair-use provision of copyright law, reversing a 2016 jury verdict.
+The court sent the case back to a US judge in San Francisco for a trial to determine how much compensation Google owes Oracle.
+Oracle had previously sought $9 billion in damages.
+Google and Oracle did not immediately respond to requests for comment.
+The closely watched case, which dates to 2010, involves how much copyright protection should extend to the Java programming language, which Google used to design the Android operating system that runs most of the world's smartphones.
+Oracle is seeking royalties for Google's use of some of the Java language, while Google argues it should be able to use Java without paying a fee.

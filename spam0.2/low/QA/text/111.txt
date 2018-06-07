@@ -1,0 +1,29 @@
+A US privacy watchdog is investigating Facebook over a potential breach of user confidentiality.
+The Federal Trade Commission (FTC), an independent government body charged with ensuring companies abide by their own privacy policies, is looking at whether the social media giant violated a 2011 consent decree after media reports emerged alleging it had handed the data of millions of users to a political consultancy.
+The commission will be sending Facebook a letter requesting the social-media company provide answers about the data acquired by Cambridge Analytica, Rob Sherman, Facebook's deputy chief privacy officer, said.
+"We remain strongly committed to protecting people's information. We appreciate the opportunity to answer questions the FTC may have," Sherman said.
+If Facebook is found to have violated the terms of the consent decree, the FTC can fine the social network more than $40,000 a day per violation.
+The UK's privacy regulator, the Information Commissioner's office said on Monday it would request a warrant to search the offices of the political consultancy.
+Cambridge Analytica stands accused of using data mined from Facebook in the voter research it conducted for President Donald Trump during the 2016 elections campaign.
+'Inner demons' A former employee at the consultancy, Chris Wylie, signalled the breach and told reporters the company harvested "millions of people's profiles" to develop software that targeted potential swing voters.
+"We exploited Facebook to harvest millions of people's profiles. And build models to exploit what we knew about them and target their inner demons. That was the basis the entire company was built on," Wylie told the London Observer.
+Wylie said that the company approached Aleksandr Kogan, a Russian-American researcher at Cambridge University, who collected the information under the pretense of an academic inquiry.
+WATCH: UK seeks warrant to access Cambridge Analytica servers (2:42)
+Kogan and his company, Global Science Research (GSR), went on to build an app in collaboration with Cambridge Analytica, called thisisyourdigitallife, separately from his work at the university.
+Cambridge University has since said it has sought - and received - assurances by Kogan that he would in no way consult the university's data or use any of its resources to conduct his personal work at GSR.
+"We have previously sought and received assurances from Dr Kogan that no University data, resources or facilities were used as the basis for his work with GSR or the company's subsequent work with any other party," a spokesperson for the university said on Tuesday.
+The university said that while there is nothing to suggest Kogan had used its data, it nevertheless requested that Facebook provide any "relevant evidence" in their possession.
+Facebook stock falls Facebook's shares fell by 5.7 percent to a six-month low of $162.74 on the New York Stock Exchange on Tuesday.
+This came after Monday's 6.8 percent drop, the largest since March 2014.
+The company said it would hold briefing sessions for six committees on Tuesday and Wednesday, including the House and Senate's judicial, commercial and intelligence committees.
+A top Democrat on the Senate's judicial committee said lawmakers are curious to find out how the information was used and whether it fell into the hands of other countries.
+"We have a lot of question about how this information was used, whether it was given to Russia and whether Cambridge Analytica and the Trump campaign communicated with Wikileaks, Senator Dianne Feinstein of California said.
+Facebook claims that Kogan violated its policies when he shared the sensitive data with Cambridge Analytica and its British affiliate Strategic Communications laboratories.
+Shadowy practices An undercover investigation by the UK-based Channel 4 revealed that Cambridge Analytica may have engaged in ethically and legally questionable practices.
+The controversy stricken consultancy’s chief executive, Alexander Nix, was approached by an undercover reporter posing as a fixer for a potential client.
+Nix reportedly told the fixer that his company's litany of services included sending escorts to political opponents, bribing them and leaking recordings to the press as well pushing compromising material in a discreet manner on social media.
+Mark Turnbull, Cambridge Analytica's managing director for political operations, said that once information is published online, the team will ensure that the content remains relevant.
+"We just put information in the bloodstream of the internet, and then, and then watch it grow, give it a little push every now and again ... like a remote control".
+"It has to happen without anyone thinking, 'that's propaganda', because the moment you think 'that's propaganda', the next question is, 'Who's put that out?'."
+Nix has since been suspended.
+SOURCE: Al Jazeera and news agencies

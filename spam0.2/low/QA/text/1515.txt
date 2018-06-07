@@ -1,0 +1,7 @@
+Washington (dpa) - Apple is planning to replace Intel processors in Mac computers with chips it designs itself beginning as early as 2020, Bloomberg News reported on Monday.
+The move is part of a larger strategy to make all of Apple's devices, including Macs, iPhones, and iPads, more compatible, Bloomberg reported, quoting unidentified people familiar with the matter.
+It would mean Apple could bring new features to all of its products more quickly and differentiate them from the competition.
+The initiative, code-named Kalamata, is in its early stages, the report said, adding that the project has been approved by executives.
+The shift would be a blow to Intel, with Apple currently providing as much as 5 per cent of its revenue, according to Bloomberg. Intel shares closed down about 6 per cent on the news.
+Apple has used Intel chips in its Macs, while devices such as iPhones and iPads use processors Apple developed itself based on ARM~architecture. There has been speculation for years that Apple could change Mac computers to its own processors.
+Intel already has lost to the ARM world in smartphones and tablets and placed its bets on new business in data centres and in the automotive sector, while watching the PC market shrink in the past several years.

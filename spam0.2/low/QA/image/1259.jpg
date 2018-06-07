@@ -1,0 +1,1944 @@
+﻿
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0 maximum-scale=1.0, minimal-ui" />
+
+
+
+
+
+    
+  
+
+  <!-- header tags -->
+  <title>Breaking News, World News &amp; Video from Al Jazeera</title><meta name="title" content="Breaking News, World News &amp; Video from Al Jazeera"><meta name="Description" content="News, analysis from the Middle East &amp; worldwide, multimedia &amp; interactives, opinions, documentaries, podcasts, long reads and broadcast schedule."><meta property="og:title" content="Breaking News, World News &amp; Video from Al Jazeera"><meta property="og:description" content="News, analysis from the Middle East &amp; worldwide, multimedia &amp; interactives, opinions, documentaries, podcasts, long reads and broadcast schedule."><meta property="og:url" content="https://www.aljazeera.com/"><meta name="url" content="https://www.aljazeera.com/"><meta property="og:image" content="https://www.aljazeera.com/mritems/images/site/AljazeeraLogo.gif"><meta name="keywords" content="News, opinions, investigations, documentaries"><link rel="canonical" href="https://www.aljazeera.com"><!-- content from BS Index Header --><!-- The content included from BS Home header file -->
+<META NAME="ROBOTS" CONTENT="NOODP">
+<meta http-equiv="x-ua-compatible" content="ie=Edge"> 
+<!-- or enable chrome Frame if available in IE -->
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+
+<script src="/assets/scripts/jquery-1.11.1.min.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.aljazeera.com/search/?q={search_keyword}",
+    "query-input": "required name=search_keyword"
+  },
+  "name" : "Al Jazeera",
+  "url" : "https://www.aljazeera.com",
+  "sameAs" : [
+    "https://www.facebook.com/aljazeera",
+    "https://twitter.com/ajenglish",
+    "https://instagram.com/aljazeera/",
+    "https://plus.google.com/+aljazeera/posts",
+    "https://www.youtube.com/user/AlJazeeraEnglish"
+  ]
+}
+</script>
+
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>  
+
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <meta property="twitter:account_id" content="4970411" />
+ <meta name="twitter:site" content="@AJEnglish" />
+
+<meta name="google-play-app" content="app-id=net.aljazeera.english">
+<meta property="fb:pages"content="7382473689" />
+ 
+<link rel="alternate" type="application/rss+xml" title="Al Jazeera English" href="/xml/rss/all.xml" />
+  
+<link rel="apple-touch-icon" href="/mritems/assets/images/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/mritems/assets/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/mritems/assets/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/mritems/assets/images/touch-icon-ipad-retina.png">
+<meta name="apple-itunes-app" content="app-id=504847776"> 
+
+ <script src="/assets/scripts/moment-with-locales.min.js"></script> 
+ <script src="/assets/scripts/common.js?x=153" async></script>
+ <script src="/assets/scripts/SiteScripts.js?x=153" type="text/javascript"></script>
+ <script src="/assets/scripts/JsonFeed.js?x=153" async></script>
+ <script src="/assets/scripts/Brightcove.js?x=158" type="text/javascript"></script>
+
+
+ <script>
+        $(document).ready(function () {
+	ShowingNow();	
+  var firstDate = '2016/12/20';
+  var now = moment();
+  var duration = moment.duration(now.diff(firstDate));
+  var days = duration.asDays();
+  var inj = Math.floor(days)
+  $('#getting-started').html(inj + ' Days')
+  var _sf_startpt=(new Date()).getTime()
+});
+	 if (/(iPhone|iPod|iPad)/.test(navigator.userAgent)) 
+	{
+		if(window.localStorage.getItem ("AJE_Safari")==null)
+		{ 				
+			window.localStorage.setItem("AJE_Safari","true");
+			window.location.reload(true)
+		} 
+		else
+		{ 
+			window.localStorage.removeItem ("AJE_Safari");
+		}
+        }
+
+ </script> 
+
+<!-- Facebook AJE Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '968100353246427');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=968100353246427&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook AJE Pixel Code -->
+
+ <script src="/assets/scripts/prebid.js?x=1" type="text/javascript" async></script>
+ <script src="//mtrx.go.sonobi.com/morpheus.aljazeera.1667.js" type="text/javascript" async></script>
+ <script src="/assets/scripts/homeadsscript.js?x=185" type="text/javascript" async></script> 
+
+ <link href="/assets/styles/bootstrap-min.css" rel="stylesheet" />
+ <link href="/assets/styles/bs-custom-stylesv2.css?x=162" rel="stylesheet" />
+ 
+ <script src="/assets/scripts/ticker-plugin-script.js?x=153" type="text/javascript" async></script>
+ <script src="/assets/scripts/ticker-helper-script.js?x=153" type="text/javascript" async></script>
+ <link href="/assets/styles/ticker-plugin-style.css?x=153" rel="stylesheet" />
+
+
+<!--[if gt IE 8]>
+<link rel="stylesheet" type="text/css" href="/mritems/assets/styles/BS-compatibility-IE-only.css" /> 
+<![endif]-->
+
+<script type="text/javascript">  var appInsights=window.appInsights||function(config){    function i(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",y=u.createElement(o),r,f;y.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(y);try{t.cookie=u.cookie}catch(p){}for(t.queue=[],t.version="1.0",r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)i("track"+r.pop());return i("set"+s),i("clear"+s),i(h+a),i(c+a),i(h+v),i(c+v),i("flush"),config.disableExceptionTracking||(r="onerror",i("_"+r),f=e[r],e[r]=function(config,i,u,e,o){var s=f&&f(config,i,u,e,o);return s!==!0&&t["_"+r](config,i,u,e,o),s}),t    }({        instrumentationKey:"e687e4d5-be6f-455f-bc57-81ea42528272", maxAjaxCallsPerView: 200    });           window.appInsights=appInsights;    appInsights.trackPageView();</script>
+
+</head>
+<body>
+    <form id='Default' name='Default' method='post'>    
+    
+    
+     
+
+  <!-- important tag dont remove(used to carry page context) -->
+  <input type="hidden" id="oryxcontext" value="B8C906090FB19032EA03A7D3B8D5B5D7A73C85F46223076926689D7EDCA1378C31D7E43BB5D517CB8E30079E391970984748557A3CFFF010E9E3F998C96CCAF342A2B023F1FE216367AE250E27EF169C5B5E757BC25958B54A2EC74D6614DA4473975C0C3DCC16FA977C21765EF64DDB40665A01E5A65AC5B6698B6F4AA3ACFA6BFC753E6256595F4760D1857CB3F36F74C6921951390DDE4BA5530B5276F8A2FE951E4977EE80943B97D4AAD17D7F82328B3934A77A2FF070D5E7EA7762DB3F1B14E2E0455C06891A1568A10418E4ABBFCD1F1AA88317F011310DF3DE221E7832256C706C1CE8B53BB10DF20235F25597E1E682D4881FB5E84217BDE504F4A4138148B64C62225FDD2E5D7C583631019160A05D098C1C0D82E6A687252BF20C40134C6AACFB61F88587C79DB0D2FE0767FFEBEA8E452262CDB214962AD1C80E" data-postingguid="160817103129947">
+  <!-- googleoff: index -->
+  <!--  sticky -->
+  <div id="sticky-header" class="site-sticky article-main-header sticky-float">
+    <div><div><div style=";border-style:none"><div class="container" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="row">
+    <div class="col-sm-9 navigation-block">
+      <div class="navigation">
+        <div class="navbar navbar-default">
+          <div class="container">
+            <div class="navbar-header"><button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="/"><img class="article-main-header-logo" alt="" src="/mritems/assets/images/AljazeeraLogo-sticky.png"></a></div>
+            <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <div class="form-search nav-form-search"></div>
+                <li data-guid="171025111604759"><a href="/" target="_self">Home </a></li>
+                <li data-guid="161023134902510" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="/news/">News <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                    <li class="col-sm-4">
+                      <ul>
+                        <li data-guid="140311071122120"><a href="/topics/regions/middleeast.html">Middle East</a></li>
+                        <li data-guid="131113081710422"><a href="/topics/regions/africa.html">Africa</a></li>
+                        <li data-guid="131112142029837"><a href="/topics/regions/asia.html">Asia</a></li>
+                        <li data-guid="140311071220644"><a href="/topics/regions/us-canada.html">US &amp; Canada</a></li>
+                        <li data-guid="131113111908681"><a href="/topics/regions/latin-america.html">Latin America</a></li>
+                        <li data-guid="131113084937332"><a href="/topics/regions/europe.html">Europe</a></li>
+                        <li data-guid="140311071939629"><a href="/topics/regions/asia-pacific.html">Asia Pacific</a></li>
+                        <li data-guid="170926095124731"><a href="/news" target="_self">All</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li data-guid="140311071122120"><a href="/topics/regions/middleeast.html">Middle East </a></li>
+                <li data-guid="161016132227401" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="/documentaries/">Documentaries <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                    <li class="col-sm-4">
+                      <ul>
+                        <li data-guid="140309125006070"><a href="/programmes/specialseries/">Featured Documentaries</a></li>
+                        <li data-guid="140309124146566"><a href="/programmes/witness/">Witness</a></li>
+                        <li data-guid="140309100922773"><a href="/programmes/aljazeeraworld/">Al Jazeera World</a></li>
+                        <li data-guid="140309083414124"><a href="/programmes/101east/">101 East</a></li>
+                        <li data-guid="140309103232322"><a href="/programmes/peopleandpower/">People &amp; Power</a></li>
+                        <li data-guid="140309101835880"><a href="/programmes/faultlines/">Fault Lines</a></li>
+                        <li data-guid="171104105940754"><a href="/programmes/my-tunisia/tunisia.html">My Tunisia</a></li>
+                        <li data-guid="170702220310988"><a href="/programmes/aljazeera-selects/">Al Jazeera Selects </a></li>
+                        <li data-guid="140309100153551"><a href="/programmes/aljazeeracorrespondent/">Al Jazeera Correspondent</a></li>
+                        <li data-guid="160905084557919"><a href="/programmes/rewind/">REWIND</a></li>
+                        <li data-guid="161019084747265"><a href="/documentaries/">All</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li data-guid="140204094724441" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="/programmes/">Shows <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                    <li class="col-sm-4">
+                      <ul>
+                        <li data-guid="140309102519696"><a href="/programmes/insidestory/">Inside Story</a></li>
+                        <li data-guid="140327064406019"><a href="http://stream.aljazeera.com" target="_blank">The Stream</a></li>
+                        <li data-guid="140309102803328"><a href="/programmes/listeningpost/">The Listening Post</a></li>
+                        <li data-guid="140309123607662"><a href="/programmes/talktojazeera/">Talk to Al Jazeera</a></li>
+                        <li data-guid="170215082732680"><a href="/programmes/the-big-picture/">The Big Picture</a></li>
+                        <li data-guid="140309101519781"><a href="/programmes/countingthecost/">Counting the Cost</a></li>
+                        <li data-guid="150811112506260"><a href="/programmes/upfront/">UpFront</a></li>
+                        <li data-guid="140309100432009"><a href="/programmes/earthrise/">earthrise</a></li>
+                        <li data-guid="140309101636015"><a href="/programmes/empire/">Empire</a></li>
+                        <li data-guid="161019085813616"><a href="/programmes/" target="_self">All</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li data-guid="141105143951929"><a href="/investigations/">Investigations </a></li>
+                <li data-guid="140130065247497"><a href="/indepth/opinion/">Opinion </a></li>
+                <li data-guid="161027083327112"><a href="/indepth/inpictures/">In Pictures </a></li>
+                <li data-guid="161017091647457" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="#">More <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                    <li class="col-sm-4">
+                      <ul>
+                        <li data-guid="161027081630642"><a href="/indepth/features/">Features</a></li>
+                        <li data-guid="141105143951929"><a href="/investigations/">Investigations</a></li>
+                        <li data-guid="161027083327112"><a href="/indepth/inpictures/">In Pictures</a></li>
+                        <li data-guid="161027100258444"><a href="/indepth/interactive/">Interactive</a></li>
+                        <li data-guid="161019084958582"><a href="/indepth/interactive/documentaries/">Interactive Documentaries</a></li>
+                        <li data-guid="161115094809507"><a href="/shorts/">AJ Shorts</a></li>
+                        <li data-guid="170219130504928"><a href="/podcasts/">Podcasts</a></li>
+                        <li data-guid="161028145404792"><a href="/blogs/">Reporter's Notebook</a></li>
+                        <li data-guid="131112151343070"><a href="/topics/categories/human_rights.html">Human Rights</a></li>
+                        <li data-guid="131112152428605"><a href="/topics/categories/sport.html">Sport</a></li>
+                        <li data-guid="131112152215639"><a href="/topics/categories/science-and-technology.html">Science &amp; Technology</a></li>
+                        <li data-guid="140319114634577"><a href="/topics/categories/weather.html">Weather</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-3 search-live-block article-live-block">
+      <div class="search-btn-section">
+        <ul>
+          <li id="watchlive-active" class="watch-live-sticky"><a href="/live/"><span class="genericon genericon-video"></span><span class="watch-live--stickyWord">Live</span></a></li>
+          <li class="search-btn-top"><a href="javascript:void(0)" class="article-button-search-top-main"><span class="genericon genericon-search"></span></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="form-wrapper-wrap" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="form-wrapper"><input class="field-search search-field-main-header" id="searchText-main-header" placeholder="Search..." type="text"></div>
+      </div>
+    </div>
+  </div>
+</div></div></div><!--PageLoadedSucessfully--></div>
+  </div>
+  <!-- / sticky -->
+
+  <!-- top adv -->
+  <div id="topadv" class="top-adv">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 top-adv-wrapper" id="topdivad">
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- / top adv -->
+
+  <!-- breaking news -->
+  <div id="header_container" style="display: none;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <ul id="js-news" class="js-hidden">
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /breaking news -->
+
+
+  <!-- desktop site header -->
+  <div id="article-main-header" class="animated article-main-header">
+    <div><div><div style=";border-style:none"><div class="container" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="row">
+    <div class="col-sm-9 navigation-block">
+      <div class="navigation">
+        <div class="navbar navbar-default">
+          <div class="container">
+            <div class="navbar-header"><button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="/"><img class="article-main-header-logo" alt="" src="/mritems/assets/images/aj-logo-sm-2.png"><img class="article-main-header-logo-Big" alt="" src="/mritems/assets/images/aj-logo-lg-124.png"></a></div>
+            <div class="navigation-wrapper">
+              <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                  <div class="form-search nav-form-search"></div>
+                  <li data-guid="171025111604759" class="nav-item-171025111604759"><a href="/" target="_self">Home </a></li>
+                  <li data-guid="161023134902510" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="/news/">News <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                      <li class="col-sm-4">
+                        <ul>
+                          <li data-guid="140311071122120"><a href="/topics/regions/middleeast.html">Middle East</a></li>
+                          <li data-guid="131113081710422"><a href="/topics/regions/africa.html">Africa</a></li>
+                          <li data-guid="131112142029837"><a href="/topics/regions/asia.html">Asia</a></li>
+                          <li data-guid="140311071220644"><a href="/topics/regions/us-canada.html">US &amp; Canada</a></li>
+                          <li data-guid="131113111908681"><a href="/topics/regions/latin-america.html">Latin America</a></li>
+                          <li data-guid="131113084937332"><a href="/topics/regions/europe.html">Europe</a></li>
+                          <li data-guid="140311071939629"><a href="/topics/regions/asia-pacific.html">Asia Pacific</a></li>
+                          <li data-guid="170926095124731"><a href="/news" target="_self">All</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li data-guid="140311071122120" class="nav-item-140311071122120"><a href="/topics/regions/middleeast.html">Middle East </a></li>
+                  <li data-guid="161016132227401" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="/documentaries/">Documentaries <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                      <li class="col-sm-4">
+                        <ul>
+                          <li data-guid="140309125006070"><a href="/programmes/specialseries/">Featured Documentaries</a></li>
+                          <li data-guid="140309124146566"><a href="/programmes/witness/">Witness</a></li>
+                          <li data-guid="140309100922773"><a href="/programmes/aljazeeraworld/">Al Jazeera World</a></li>
+                          <li data-guid="140309083414124"><a href="/programmes/101east/">101 East</a></li>
+                          <li data-guid="140309103232322"><a href="/programmes/peopleandpower/">People &amp; Power</a></li>
+                          <li data-guid="140309101835880"><a href="/programmes/faultlines/">Fault Lines</a></li>
+                          <li data-guid="171104105940754"><a href="/programmes/my-tunisia/tunisia.html">My Tunisia</a></li>
+                          <li data-guid="170702220310988"><a href="/programmes/aljazeera-selects/">Al Jazeera Selects </a></li>
+                          <li data-guid="140309100153551"><a href="/programmes/aljazeeracorrespondent/">Al Jazeera Correspondent</a></li>
+                          <li data-guid="160905084557919"><a href="/programmes/rewind/">REWIND</a></li>
+                          <li data-guid="161019084747265"><a href="/documentaries/">All</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li data-guid="140204094724441" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="/programmes/">Shows <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                      <li class="col-sm-4">
+                        <ul>
+                          <li data-guid="140309102519696"><a href="/programmes/insidestory/">Inside Story</a></li>
+                          <li data-guid="140327064406019"><a href="http://stream.aljazeera.com" target="_blank">The Stream</a></li>
+                          <li data-guid="140309102803328"><a href="/programmes/listeningpost/">The Listening Post</a></li>
+                          <li data-guid="140309123607662"><a href="/programmes/talktojazeera/">Talk to Al Jazeera</a></li>
+                          <li data-guid="170215082732680"><a href="/programmes/the-big-picture/">The Big Picture</a></li>
+                          <li data-guid="140309101519781"><a href="/programmes/countingthecost/">Counting the Cost</a></li>
+                          <li data-guid="150811112506260"><a href="/programmes/upfront/">UpFront</a></li>
+                          <li data-guid="140309100432009"><a href="/programmes/earthrise/">earthrise</a></li>
+                          <li data-guid="140309101636015"><a href="/programmes/empire/">Empire</a></li>
+                          <li data-guid="161019085813616"><a href="/programmes/" target="_self">All</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li data-guid="141105143951929" class="nav-item-141105143951929"><a href="/investigations/">Investigations </a></li>
+                  <li data-guid="140130065247497" class="nav-item-140130065247497"><a href="/indepth/opinion/">Opinion </a></li>
+                  <li data-guid="161027083327112" class="nav-item-161027083327112"><a href="/indepth/inpictures/">In Pictures </a></li>
+                  <li data-guid="161017091647457" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="#">More <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                      <li class="col-sm-4">
+                        <ul>
+                          <li data-guid="161027081630642"><a href="/indepth/features/">Features</a></li>
+                          <li data-guid="141105143951929"><a href="/investigations/">Investigations</a></li>
+                          <li data-guid="161027083327112"><a href="/indepth/inpictures/">In Pictures</a></li>
+                          <li data-guid="161027100258444"><a href="/indepth/interactive/">Interactive</a></li>
+                          <li data-guid="161019084958582"><a href="/indepth/interactive/documentaries/">Interactive Documentaries</a></li>
+                          <li data-guid="161115094809507"><a href="/shorts/">AJ Shorts</a></li>
+                          <li data-guid="170219130504928"><a href="/podcasts/">Podcasts</a></li>
+                          <li data-guid="161028145404792"><a href="/blogs/">Reporter's Notebook</a></li>
+                          <li data-guid="131112151343070"><a href="/topics/categories/human_rights.html">Human Rights</a></li>
+                          <li data-guid="131112152428605"><a href="/topics/categories/sport.html">Sport</a></li>
+                          <li data-guid="131112152215639"><a href="/topics/categories/science-and-technology.html">Science &amp; Technology</a></li>
+                          <li data-guid="140319114634577"><a href="/topics/categories/weather.html">Weather</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div><nav class="nav-homepage-topics nav-wide"><ul>
+                  <li id="NavTopTopics">TRENDING:</li>
+                  <li><a href="/topics/country/syria.html">Syria's War</a></li>
+                  <li><a href="/topics/country/turkey.html">Turkey</a></li>
+                  <li><a href="/topics/country/iran.html">Iran</a></li>
+                  <li><a href="/topics/regions/middleeast.html">Middle East</a></li>
+                  <li><a href="/topics/issues/indian-administered-kashmir-141021143036795.html">Kashmir</a></li>
+                </ul></nav></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-3 search-live-block article-live-block">
+      <div class="search-btn-section">
+        <ul>
+          <li id="watchlive-active" class="watch-live-sticky"><a href="/live/"><span class="genericon genericon-video"></span><span class="watch-live--stickyWord">Live</span></a></li>
+          <li class="search-btn-top"><a href="javascript:void(0)" class="article-button-search-top-main"><span class="genericon genericon-search"></span></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="form-wrapper-wrap" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="form-wrapper"><input class="field-search search-field-main-header" id="searchText-main-header" placeholder="Search..." type="text"></div>
+      </div>
+    </div>
+  </div>
+</div></div></div><!--PageLoadedSucessfully--></div>
+  </div>
+  <!-- /desktop site header -->
+
+  <!-- mobile header -->
+  <div id="mobile-header" class="mobile-header mobile-header-article-main">
+    <div><div><div style=";border-style:none"><div class="col-sm-9" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="navbar navbar-default">
+    <div class="row">
+      <div class="navbar-header"><button id="ChangeToggleMobile" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><div id="navbar-hamburger-mobile"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></div>
+          <div id="navbar-close-mobile" class="hidden"><span class="genericon genericon-close-alt" title="genericon-close"></span></div></button><a class="navbar-brand" href="/"><img alt="" src="/img/AljazeeraLogo.png"></a><div class="mobile-social-icons" id="mobile-share-icons"></div>
+      </div>
+      <div class="navbar-collapse collapse " aria-expanded="true" id="bs-example-navbar-collapse-2">
+        <ul class="nav navbar-nav main-menu-sticky">
+          <li class="search-mobile"><span class="genericon genericon-search"></span><input class="field-search" id="mobile-search-field" type="text" placeholder="Search"></li>
+          <li data-guid="171025111604759"><a href="/" target="_self">Home </a></li>
+          <li data-guid="161023134902510"><a class="dropdown-toggle" data-toggle="dropdown" href="/news/">News <b class="caret"></b></a><ul class="dropdown-menu  multi-level">
+              <li data-guid="140311071122120"><a href="/topics/regions/middleeast.html">Middle East</a></li>
+              <li data-guid="131113081710422"><a href="/topics/regions/africa.html">Africa</a></li>
+              <li data-guid="131112142029837"><a href="/topics/regions/asia.html">Asia</a></li>
+              <li data-guid="140311071220644"><a href="/topics/regions/us-canada.html">US &amp; Canada</a></li>
+              <li data-guid="131113111908681"><a href="/topics/regions/latin-america.html">Latin America</a></li>
+              <li data-guid="131113084937332"><a href="/topics/regions/europe.html">Europe</a></li>
+              <li data-guid="140311071939629"><a href="/topics/regions/asia-pacific.html">Asia Pacific</a></li>
+              <li data-guid="170926095124731"><a href="/news" target="_self">All</a></li>
+            </ul>
+          </li>
+          <li data-guid="140311071122120"><a href="/topics/regions/middleeast.html">Middle East </a></li>
+          <li data-guid="161016132227401"><a class="dropdown-toggle" data-toggle="dropdown" href="/documentaries/">Documentaries <b class="caret"></b></a><ul class="dropdown-menu  multi-level">
+              <li data-guid="140309125006070"><a href="/programmes/specialseries/">Featured Documentaries</a></li>
+              <li data-guid="140309124146566"><a href="/programmes/witness/">Witness</a></li>
+              <li data-guid="140309100922773"><a href="/programmes/aljazeeraworld/">Al Jazeera World</a></li>
+              <li data-guid="140309083414124"><a href="/programmes/101east/">101 East</a></li>
+              <li data-guid="140309103232322"><a href="/programmes/peopleandpower/">People &amp; Power</a></li>
+              <li data-guid="140309101835880"><a href="/programmes/faultlines/">Fault Lines</a></li>
+              <li data-guid="171104105940754"><a href="/programmes/my-tunisia/tunisia.html">My Tunisia</a></li>
+              <li data-guid="170702220310988"><a href="/programmes/aljazeera-selects/">Al Jazeera Selects </a></li>
+              <li data-guid="140309100153551"><a href="/programmes/aljazeeracorrespondent/">Al Jazeera Correspondent</a></li>
+              <li data-guid="160905084557919"><a href="/programmes/rewind/">REWIND</a></li>
+              <li data-guid="161019084747265"><a href="/documentaries/">All</a></li>
+            </ul>
+          </li>
+          <li data-guid="140204094724441"><a class="dropdown-toggle" data-toggle="dropdown" href="/programmes/">Shows <b class="caret"></b></a><ul class="dropdown-menu  multi-level">
+              <li data-guid="140309102519696"><a href="/programmes/insidestory/">Inside Story</a></li>
+              <li data-guid="140327064406019"><a href="http://stream.aljazeera.com" target="_blank">The Stream</a></li>
+              <li data-guid="140309102803328"><a href="/programmes/listeningpost/">The Listening Post</a></li>
+              <li data-guid="140309123607662"><a href="/programmes/talktojazeera/">Talk to Al Jazeera</a></li>
+              <li data-guid="170215082732680"><a href="/programmes/the-big-picture/">The Big Picture</a></li>
+              <li data-guid="140309101519781"><a href="/programmes/countingthecost/">Counting the Cost</a></li>
+              <li data-guid="150811112506260"><a href="/programmes/upfront/">UpFront</a></li>
+              <li data-guid="140309100432009"><a href="/programmes/earthrise/">earthrise</a></li>
+              <li data-guid="140309101636015"><a href="/programmes/empire/">Empire</a></li>
+              <li data-guid="161019085813616"><a href="/programmes/" target="_self">All</a></li>
+            </ul>
+          </li>
+          <li data-guid="141105143951929"><a href="/investigations/">Investigations </a></li>
+          <li data-guid="140130065247497"><a href="/indepth/opinion/">Opinion </a></li>
+          <li data-guid="161027083327112"><a href="/indepth/inpictures/">In Pictures </a></li>
+          <li data-guid="161017091647457"><a class="dropdown-toggle" data-toggle="dropdown" href="#">More <b class="caret"></b></a><ul class="dropdown-menu  multi-level">
+              <li data-guid="161027081630642"><a href="/indepth/features/">Features</a></li>
+              <li data-guid="141105143951929"><a href="/investigations/">Investigations</a></li>
+              <li data-guid="161027083327112"><a href="/indepth/inpictures/">In Pictures</a></li>
+              <li data-guid="161027100258444"><a href="/indepth/interactive/">Interactive</a></li>
+              <li data-guid="161019084958582"><a href="/indepth/interactive/documentaries/">Interactive Documentaries</a></li>
+              <li data-guid="161115094809507"><a href="/shorts/">AJ Shorts</a></li>
+              <li data-guid="170219130504928"><a href="/podcasts/">Podcasts</a></li>
+              <li data-guid="161028145404792"><a href="/blogs/">Reporter's Notebook</a></li>
+              <li data-guid="131112151343070"><a href="/topics/categories/human_rights.html">Human Rights</a></li>
+              <li data-guid="131112152428605"><a href="/topics/categories/sport.html">Sport</a></li>
+              <li data-guid="131112152215639"><a href="/topics/categories/science-and-technology.html">Science &amp; Technology</a></li>
+              <li data-guid="140319114634577"><a href="/topics/categories/weather.html">Weather</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="col-sm-3 search-live-block article-live-block article-live-block-mobile" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="search-btn-section">
+    <ul>
+      <li id="Li2" class="watch-live-sticky"><a href="/live/"><span class="genericon genericon-video"></span><span class="watch-live-Word">Live</span></a></li>
+      <li class="search-btn-top"><a href="#" class="article-button-search-mobile"><span class="genericon genericon-search"></span></a></li>
+    </ul>
+  </div>
+</div></div></div><!--PageLoadedSucessfully--></div>
+  </div>
+  <!-- googleon: index -->
+
+  <div class="clear-fix"></div>
+  <br>
+  <div id="placeholder1" type="content">
+    <!-- comments goes here -->
+  
+	<div><div><div><div><div style="width:100%"><div><section class="top-section"><div><div><div><div style="width:100%"><div><div class="container"><div><div><div><div style="width:100%"><div><div class="row"><div><div><div><div style="width:100%"><div><div class="col-lg-8 col-md-8 col-sm-7 top-feature-wrapper "><div><div><div><div style="width:100%"><div><div><div style="border-style:none;"><div class="row  top-feature-section" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx">
+  <div class="col-lg-8 col-sm-12 top-feature-section-lt default-style">
+    <div class="top-section-lt">
+      <div class="frame-container"><a href="/news/2018/02/haftar-vies-power-libya-shifting-sands-180226143054107.html"><img class="img-responsive" onerror="this.onerror=null;this.src='/img/nov-2016/novresptopfeature.jpg';" src="/mritems/imagecache/mbdxxlarge/mritems/Images/2018/2/26/3fbc577cbff1402c83d19312a91fd669_18.jpg" alt="France confirms Libya's Haftar is treated in a Paris hospital" title="France confirms Libya's Haftar is treated in a Paris hospital"></a><div class="overlayX"></div>
+      </div>
+      <div class="top-feature-overlay-cont"><img class="programmes-video-icon" src="/img/nov-2016/video-programmes.png" alt=""><p class="big-image-label"><a href="/topics/country/libya.html">Libya</a></p><a href="/news/2018/02/haftar-vies-power-libya-shifting-sands-180226143054107.html"><h1 class="top-sec-title">France confirms Haftar is treated in Paris hospital</h1></a><p class="top-sec-desc">An unnamed European diplomat says Haftar sustained irreversible brain damage and will be unable to function as before.</p>
+      </div>
+      <div class="top-feature-overlay"></div>
+    </div>
+  </div>
+  <div class="mobile-adv" id="mobiletopad"></div>
+  <div class="col-lg-4 col-md-12 col-sm-12 top-feature-section-rt">
+    <div class="row flex-spec">
+      <div class="col-lg-12 col-md-6 col-sm-6 default-style">
+        <div class="top-section-rt-s1">
+          <div class="frame-container"><a href="/news/2018/04/isil-48-hours-evacuate-area-south-damascus-180419085855224.html"><img class="img-responsive" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" src="/mritems/imagecache/mbdxxlarge/mritems/Images/2018/4/19/bab83e36b8e349a8816f58fbeedea2a7_18.jpg" alt="ISIL given '48 hours' to evacuate area south of Damascus" title="ISIL given '48 hours' to evacuate area south of Damascus"><div class="overlayX"></div></a></div>
+          <div class="topFeature-sblock-wr"><img class="video-programmes-sb" src="/img/nov-2016/video-programmes-sb.png" alt=""><img class="picture-programmes-sb" src="/img/nov-2016/pic-icon.png" alt=""><p class="small-image-label"><a href="/topics/organisations/isis-isil.html">ISIS</a></p><a href="/news/2018/04/isil-48-hours-evacuate-area-south-damascus-180419085855224.html"><h2 class="top-sec-smalltitle">ISIL given '48 hours' to evacuate area south of Damascus</h2></a></div>
+          <div class="top-feature-overlay"></div>
+        </div>
+      </div>
+      <div class="col-lg-12 col-md-6 col-sm-6 default-style">
+        <div class="top-section-rt-s2">
+          <div class="frame-container"><a href="/news/2018/04/alabama-execute-walter-moody-83-oldest-modern-history-180418125405542.html"><img class="img-responsive" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" src="/mritems/imagecache/mbdxxlarge/mritems/Images/2018/4/19/576fea1f61fe45de9c733951bd422c80_18.jpg" alt="Alabama to execute Walter Moody, 83, oldest in modern US history" title="Alabama to execute Walter Moody, 83, oldest in modern US history"><div class="overlayX"></div></a></div>
+          <div class="topFeature-sblock-wr"><img class="video-programmes-sb" src="/img/nov-2016/video-programmes-sb.png" alt=""><img class="picture-programmes-sb" src="/img/nov-2016/pic-icon.png" alt=""><p class="small-image-label"><a href="/topics/country/united-states.html">United States</a></p><a href="/news/2018/04/alabama-execute-walter-moody-83-oldest-modern-history-180418125405542.html"><h2 class="top-sec-smalltitle">Alabama to execute Walter Moody, 83, oldest in modern US history</h2></a><div class="row opinion-style-wrap">
+              <div class="opinion-author-image"><a href="/profile/creede-newton.html"><img class="opinion-style-author-img" onerror="this.onerror=null;this.src='/mritems/Images/2016/10/10/19cab5d3f2fc489ba4643b4a5992bef7_6.png';" src="/mritems/imagecache/profile/mritems/images/site/DefaultAvatar.jpg" alt="Creede Newton" title="Creede Newton"></a></div>
+              <div class="opinion-style-author-name-wrap">
+                <p class="opinion-style-author-name"><span>by </span><a href="/profile/creede-newton.html">Creede Newton</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="top-feature-overlay"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div guid="" path="BSEditorsPickByTemplate" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><div class="top-sec-row2-wrap" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx">
+  <div class="row top-sec-row2-media-wrap">
+    <div class="col-lg-6 col-md-12 top-sec-row2-lt media-lt-content default-style">
+      <div class="media">
+        <div class="media-left"><a href="/indepth/features/nigeria-school-food-scheme-revolutionising-education-180219074804535.html"><img class="media-object" onerror="this.onerror=null;this.src='/img/nov-2016/novrespsmall.jpg';" src="/mritems/imagecache/squarethumb/mritems/Images/2018/4/1/4e6448b9cf1446028cff607cff6b1a53_18.jpg" alt="Nigeria school food scheme revolutionising education" title="Nigeria school food scheme revolutionising education"></a></div>
+        <div class="media-body top-sc-lt">
+          <p class="top-sec-label"><a href="/topics/country/nigeria.html">Nigeria</a></p><a href="/indepth/features/nigeria-school-food-scheme-revolutionising-education-180219074804535.html"><h4 class="media-body-head">Nigeria school food scheme revolutionising education</h4></a><div class="row author-add-sec">
+            <div class="opinion-author-image"><a href="/profile/linus-unah.html"><img class="opinion-style-author-img" onerror="this.onerror=null;this.src='/mritems/Images/2016/10/10/19cab5d3f2fc489ba4643b4a5992bef7_6.png';" src="/mritems/Images/2016/10/10/19cab5d3f2fc489ba4643b4a5992bef7_6.png" alt="Linus Unah" title="Linus Unah"></a></div>
+            <div class="opinion-style-author-name-wrap">
+              <p class="opinion-style-author-name"><span>by </span><a href="/profile/linus-unah.html">Linus Unah</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 col-md-12 top-sec-row2-rt media-rt-content default-style">
+      <div class="media">
+        <div class="media-left"><a href="/news/2018/04/chemical-attacks-iran-180415122524733.html"><img class="media-object" onerror="this.onerror=null;this.src='/img/nov-2016/novrespsmall.jpg';" src="/mritems/imagecache/squarethumb/mritems/Images/2018/4/17/1cb289108377465eb7e969675101779e_18.jpg" alt="Chemical attacks on Iran in the 1980s that US ignored" title="Chemical attacks on Iran in the 1980s that US ignored"></a></div>
+        <div class="media-body top-sc-rt">
+          <p class="top-sec-label"><a href="/topics/regions/middleeast.html">Middle East</a></p><a href="/news/2018/04/chemical-attacks-iran-180415122524733.html"><h4 class="media-body-head">Chemical attacks on Iran in the 1980s that US ignored</h4></a><div class="row author-add-sec">
+            <div class="opinion-author-image"><a href="/profile/ted-regencia.html"><img class="opinion-style-author-img" onerror="this.onerror=null;this.src='/mritems/Images/2016/10/10/19cab5d3f2fc489ba4643b4a5992bef7_6.png';" src="/mritems/imagecache/profile/mritems/Images/2016/8/24/018d6b4b4f234bcaa15137d3015cf27c_6.jpg" alt="Ted Regencia" title="Ted Regencia"></a></div>
+            <div class="opinion-style-author-name-wrap">
+              <p class="opinion-style-author-name"><span>by </span><a href="/profile/ted-regencia.html">Ted Regencia</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="clear-fix" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx"></div>
+<div class="top-sec-row3-wrap" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx">
+  <div class="row top-section-row3">
+    <div class="col-lg-6 col-md-6  col-sm-12 top-section-row3-lt default-style">
+      <div class="top-section-row3-lt-wrap top-sec-same-height">
+        <p class="top-sec-label"><a href="/topics/categories/human_rights.html">Human Rights</a></p><a href="/indepth/features/pakistan-disappeared-cost-war-taliban-180418080944584.html"><h4 class="top-section-row3-lt-heading">'Disappeared': The cost of Pakistan's Taliban war</h4></a><div class="row opinion-style-wrap">
+          <div class="opinion-author-image"><a href="/profile/asad-hashim.html"><img class="opinion-style-author-img" onerror="this.onerror=null;this.src='/mritems/Images/2016/10/10/19cab5d3f2fc489ba4643b4a5992bef7_6.png';" src="/mritems/imagecache/profile/mritems/Images/2014/6/22/20146221621319734_8.jpg" alt="Asad Hashim" title="Asad Hashim"></a></div>
+          <div class="opinion-style-author-name-wrap">
+            <p class="opinion-style-author-name"><span>by </span><a href="/profile/asad-hashim.html">Asad Hashim</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 col-md-6 col-sm-12 top-section-row3-rt opinion-style">
+      <div class="top-section-row3-rt-wrap top-sec-same-height">
+        <p class="top-sec-label"><a href="/topics/country/united-kingdom.html">United Kingdom</a></p><a href="/indepth/opinion/shadow-empire-uk-windrush-scandal-180419073609755.html"><h4 class="top-section-row3-lt-heading">The shadow of empire in UK's Windrush scandal</h4></a><div class="row opinion-style-wrap">
+          <div class="opinion-author-image"><a href="/profile/nick-dearden.html"><img class="opinion-style-author-img" onerror="this.onerror=null;this.src='/mritems/Images/2016/10/10/19cab5d3f2fc489ba4643b4a5992bef7_6.png';" src="/mritems/imagecache/profile/mritems/Images/2017/5/24/57d921b74d4e4485bff3f1bb56f26fc1_6.jpg" alt="Nick Dearden" title="Nick Dearden"></a></div>
+          <div class="opinion-style-author-name-wrap">
+            <p class="opinion-style-author-name"><span>by </span><a href="/profile/nick-dearden.html">Nick Dearden</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><a class="show-more-stories" style="cursor: pointer;" onclick="ShowMoreStories();" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx">
+            Show More Stories
+          </a><div class="top-sec-row4-wrap" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx">
+  <div class="row top-section-row4">
+    <div class="col-lg-3 col-sm-6 top-section-row4-lt opinion-style">
+      <div class="top-section-row4-lt-wrap">
+        <p class="top-sec-label"><a href="/topics/country/north-korea.html">North Korea</a></p><a href="/indepth/opinion/north-korea-changing-180418063201529.html"><h4 class="top-section-row4-lt-heading">North Korea is changing</h4></a><p class="top-sec-by">
+              by 
+              <span class="top-sec-author"><a href="/indepth/opinion/profile/richard-javad-heydarian.html">Richard Javad Heydarian</a></span></p>
+      </div>
+    </div>
+    <div class="col-lg-3 col-sm-6 top-section-row4-lt default-style">
+      <div class="top-section-row4-lt-wrap">
+        <p class="top-sec-label"><a href="/topics/country/israel.html">Israel</a></p><a href="/indepth/features/israel-celebrates-pyrrhic-victory-turns-70-180417065357314.html"><h4 class="top-section-row4-lt-heading">Israel celebrates 'pyrrhic' victory as it turns 70</h4></a><p class="top-sec-by">
+              by 
+              <span class="top-sec-author"><a href="/indepth/opinion/profile/jonathan-cook.html">Jonathan Cook</a></span></p>
+      </div>
+    </div>
+    <div class="col-lg-3 col-sm-6 top-section-row4-lt marTop default-style">
+      <div class="top-section-row4-lt-wrap">
+        <p class="top-sec-label"><a href="/topics/categories/sport.html">Sport</a></p><a href="/news/2018/04/boxing-fans-react-manny-pacquiao-comeback-180417184348274.html"><h4 class="top-section-row4-lt-heading">'A must-watch': Boxing fans eye Manny Pacquiao comeback</h4></a><p class="top-sec-by">
+              by 
+              <span class="top-sec-author"><a href="/profile/saba-aziz.html">Saba Aziz</a></span></p>
+      </div>
+    </div>
+    <div class="col-lg-3 col-sm-6 top-section-row4-lt marTop programmes-style">
+      <div class="top-section-row4-lt-wrap">
+        <p class="top-sec-label"><a href="/programmes/insidestory/">Inside Story</a></p><a href="/programmes/insidestory/2018/04/triggering-tension-somalia-uae-180418155525664.html"><h4 class="top-section-row4-lt-heading">What's triggering tension between Somalia and the UAE?</h4></a><div class="cardsvideoduration">24:50</div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div><div><div style="width:100%"><div><div class="col-lg-4 col-md-4 col-sm-5 aside-wrapper "><div><div><div><div style="width:100%"><div><div><div style="border-style:none;"><div style="width:100%; margin-bottom:30px;"><a id="toprightbannerHP" onclick="sendGAEvent('Homepage Banner','click','Right Top Banner');" href="/podcasts/gameofourlives/liverpool-game-lives-episode-5-180412111055213.html"><img style="width:100%;" src="/mritems/Images/2018/4/12/60d828b179fc4fe7a33d2b158e9fa50c_18.jpg"></a></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style="border-style:none;"><!-- googleoff: index --><div class="aside-latestNews" xmlns:systemclass="Oryx" xmlns:media="http://search.yahoo.com/mrss/">
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#latest" aria-controls="home" role="tab" data-toggle="tab" aria-expanded="true" onclick="sendGAEvent('Homepage - Latest And Trending','click','Latest Tab');">
+
+            Latest News
+          </a></li>
+    <li role="presentation" class=""><a href="#trending" aria-controls="profile" role="tab" data-toggle="tab" aria-expanded="false" onclick="sendGAEvent('Homepage - Latest And Trending','click','Trending Tab');">
+            Trending
+          </a></li>
+  </ul>
+  <div class="aside-container">
+    <div class="tab-content aside-news-tab-wrap">
+      <div role="tabpanel" class="tab-pane aside-news-tab active" id="latest" cn="StartOffset"><span style="display: none;">true</span><div class="latest-news-topic"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Latest Article');" href="/news/2018/04/qatari-forces-participate-gulf-shield-drill-saudi-arabia-180419053305193.html"><h4 class="latest-news-topic-link">Qatari forces join military drill in Saudi Arabia</h4></a><time>4 hours ago</time></div><span style="display: none;">true</span><div class="latest-news-topic"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Latest Article');" href="/news/2018/04/girl-rape-killing-fear-engulfs-muslim-nomads-180418192700927.html"><h4 class="latest-news-topic-link">After girl's rape and killing, fear engulfs Muslim nomads</h4></a><time>14 hours ago</time></div><span style="display: none;">true</span><div class="latest-news-topic latest-news-topic-active"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Latest Article');" href="/news/2018/04/trump-walk-north-korea-talks-not-fruitful-180419052623742.html"><h4 class="latest-news-topic-link">Trump says he will walk out if North Korea talks 'not fruitful'</h4></a><time>2 hours ago</time></div><span style="display: none;">true</span><div class="latest-news-topic"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Latest Article');" href="/news/2018/04/opcw-fact-finding-team-syria-douma-180418155208033.html"><h4 class="latest-news-topic-link">OPCW still not in Douma as UN security team shot at</h4></a><time>14 hours ago</time></div><span style="display: none;">true</span><div class="latest-news-topic"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Latest Article');" href="/news/middleeast/2018/04/iran-replace-dollar-euro-financial-reports-180418183855096.html"><h4 class="latest-news-topic-link">Iran to replace US dollar with euro in financial reports </h4></a><time>15 hours ago</time></div><span style="display: none;">true</span><div class="latest-news-topic"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Latest Article');" href="/news/2018/04/zimbabwe-nurses-strike-takes-toll-public-health-service-180418184114086.html"><h4 class="latest-news-topic-link">Zimbabwe: Nurses' strike takes toll on public health service</h4></a><time>11 hours ago</time></div><span style="display: none;">true</span><div class="latest-news-topic"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Latest Article');" href="/news/2018/04/pakistan-watchdog-slams-grim-state-human-rights-180418152611578.html"><h4 class="latest-news-topic-link">Pakistan watchdog slams 'grim' state of human rights</h4></a><time>13 hours ago</time></div><span style="display: none;">true</span><div class="latest-news-topic"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Latest Article');" href="/news/2018/04/khalifa-haftar-chief-staff-survives-assassination-attempt-180418154333033.html"><h4 class="latest-news-topic-link">Libya: Haftar's chief of staff survives car bomb attack</h4></a><time>17 hours ago</time></div><span style="display: none;">true</span><div class="latest-news-topic"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Latest Article');" href="/news/2018/04/miguel-diaz-canel-set-cuba-president-180418184748860.html"><h4 class="latest-news-topic-link">Miguel Diaz-Canel set to become Cuba's next president</h4></a><time>12 hours ago</time></div><span style="display: none;">true</span><div class="latest-news-topic"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Latest Article');" href="/news/2018/04/turkey-erdogan-calls-snap-elections-june-24-180418130608028.html"><h4 class="latest-news-topic-link">Turkey's Erdogan calls for snap elections on June 24</h4></a><time>19 hours ago</time></div><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><span style="display: none;">true</span><a class="MoreNewsLink" href="/news/">
+              More News
+            </a></div>
+      <div role="tabpanel" class="tab-pane aside-news-tab" id="trending">
+              <div><div style=";border-style:none"><div class="row latest-news-topic-trending">
+  <div class="col-sm-5 news-trending-img">
+    <div class="trending-img-numbering">
+      <p>1</p>
+    </div>
+  </div>
+  <div class="col-sm-7 news-trending-txt"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Most Viewed Articles');" href="/news/2018/02/haftar-vies-power-libya-shifting-sands-180226143054107.html"><p>France confirms Haftar is treated in Paris hospital</p></a></div>
+</div>
+<div class="row latest-news-topic-trending">
+  <div class="col-sm-5 news-trending-img">
+    <div class="trending-img-numbering">
+      <p>2</p>
+    </div>
+  </div>
+  <div class="col-sm-7 news-trending-txt"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Most Viewed Articles');" href="/news/2018/04/isil-48-hours-evacuate-area-south-damascus-180419085855224.html"><p>ISIL given '48 hours' to evacuate area south of Damascus</p></a></div>
+</div>
+<div class="row latest-news-topic-trending">
+  <div class="col-sm-5 news-trending-img">
+    <div class="trending-img-numbering">
+      <p>3</p>
+    </div>
+  </div>
+  <div class="col-sm-7 news-trending-txt"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Most Viewed Articles');" href="/indepth/features/india-asifa-rape-killing-girl-family-accused-180416070659470.html"><p>Asifa's killing: 'Her milk teeth were yet to fall out' </p></a></div>
+</div>
+<div class="row latest-news-topic-trending">
+  <div class="col-sm-5 news-trending-img">
+    <div class="trending-img-numbering">
+      <p>4</p>
+    </div>
+  </div>
+  <div class="col-sm-7 news-trending-txt"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Most Viewed Articles');" href="/indepth/features/erdogan-call-snap-elections-turkey-180418191340799.html"><p>Why did Erdogan call snap elections in Turkey?</p></a></div>
+</div>
+<div class="row latest-news-topic-trending">
+  <div class="col-sm-5 news-trending-img">
+    <div class="trending-img-numbering">
+      <p>5</p>
+    </div>
+  </div>
+  <div class="col-sm-7 news-trending-txt"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Most Viewed Articles');" href="/indepth/opinion/north-korea-changing-180418063201529.html"><p>North Korea is changing</p></a></div>
+</div>
+<div class="row latest-news-topic-trending">
+  <div class="col-sm-5 news-trending-img">
+    <div class="trending-img-numbering">
+      <p>6</p>
+    </div>
+  </div>
+  <div class="col-sm-7 news-trending-txt"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Most Viewed Articles');" href="/news/2018/04/alabama-execute-walter-moody-83-oldest-modern-history-180418125405542.html"><p>Alabama to execute Walter Moody, 83, oldest in modern US history</p></a></div>
+</div>
+<div class="row latest-news-topic-trending">
+  <div class="col-sm-5 news-trending-img">
+    <div class="trending-img-numbering">
+      <p>7</p>
+    </div>
+  </div>
+  <div class="col-sm-7 news-trending-txt"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Most Viewed Articles');" href="/news/middleeast/2018/04/iran-replace-dollar-euro-financial-reports-180418183855096.html"><p>Iran to replace US dollar with euro in financial reports </p></a></div>
+</div>
+<div class="row latest-news-topic-trending">
+  <div class="col-sm-5 news-trending-img">
+    <div class="trending-img-numbering">
+      <p>8</p>
+    </div>
+  </div>
+  <div class="col-sm-7 news-trending-txt"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Most Viewed Articles');" href="/news/2018/04/qatari-forces-participate-gulf-shield-drill-saudi-arabia-180419053305193.html"><p>Qatari forces join military drill in Saudi Arabia</p></a></div>
+</div>
+<div class="row latest-news-topic-trending">
+  <div class="col-sm-5 news-trending-img">
+    <div class="trending-img-numbering">
+      <p>9</p>
+    </div>
+  </div>
+  <div class="col-sm-7 news-trending-txt"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Most Viewed Articles');" href="/news/2018/04/chemical-attacks-iran-180415122524733.html"><p>Chemical attacks on Iran in the 1980s that US ignored</p></a></div>
+</div>
+<div class="row latest-news-topic-trending">
+  <div class="col-sm-5 news-trending-img">
+    <div class="trending-img-numbering">
+      <p>10</p>
+    </div>
+  </div>
+  <div class="col-sm-7 news-trending-txt"><a onclick="sendGAEvent('Homepage - Latest And Trending','click','Most Viewed Articles');" href="/news/2018/04/accused-plead-guilty-asifa-gang-rape-case-180416203359503.html"><p>Accused plead 'not guilty' in Asifa gang-rape case</p></a></div>
+</div></div></div><!--PageLoadedSucessfully-->
+            </div>
+    </div>
+  </div>
+</div><!-- googleon: index --></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style="border-style:none;">
+       <style>
+      
+       #getting-started{
+      position: absolute;
+      bottom: 14%;
+      color: #ffffff;
+      text-shadow:1px 1px #333333;
+      font-weight:900;
+      font-size: 1em;
+      right: 0;
+      text-align: center;
+      left: 0;
+      }
+      @media only screen and (max-width: 6000px)
+      {
+      #getting-started {
+    font-size: 23px!important;
+    bottom: 10%;
+    color: yellow;
+    left: -40%;
+}
+
+      }
+      @media only screen and (max-width: 980px)
+      {
+      #getting-started{
+        font-size: 2.2em;
+        bottom: 15%;
+        color: yellow;
+        left: -40%;
+      }
+      }
+      @media only screen and (max-width: 700px)
+      {
+      #getting-started{
+        font-size: 1.8em;
+        bottom: 15%;
+        color: yellow;
+        left: -40%;
+      }
+      }
+      @media only screen and (max-width: 540px)
+      {
+      #getting-started{
+        font-size: 1.3em;
+        bottom: 15%;
+        left: -40%;
+      }
+      }
+      @media only screen and (max-width: 400px)
+      {
+      #getting-started{
+        font-size: 1em;
+        bottom: 15%;
+        left: -40%;
+      }
+      }
+      @media only screen and (max-width: 300px)
+      {
+      #getting-started{
+        font-size: 1.2em;
+        bottom: 15%;
+        left: -40%;
+      }
+      }
+      @media only screen and (max-width: 200px)
+      {
+      #getting-started{
+        font-size: 1em;
+        bottom: 15%;
+        left: -40%;
+      }
+    }
+      
+
+</style>
+
+ 
+
+  <div style="position: relative; max-width:768px; margin-bottom: 29px;" id="container">
+<a href="http://www.aljazeera.com/topics/issues/journalism-not-crime.html" target="_self">   
+ <img width="100%" height="auto" src='/mritems/Images/2017/5/24/f1398e29dd204095a73c1829c4daf866_6.png'>
+</a>
+    <div id="getting-started"></div>
+  </div>
+      
+    </div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style="border-style:none;"><div class="aside-adv" id="toprightlongad">
+	<!-- 792 x 90 Ads --></div>
+</div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></section></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div guid="" path="BSHomePageBelowEditorsPick" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><section class="video-slider" xmlns:systemclass="Oryx" xmlns:media="http://search.yahoo.com/mrss/"><div class="container video-title-wrap">
+    <div class="row">
+      <div class="col-md-1 col-xs-3"><a href="/programmes/"><h2 class="Video-title">VIDEO</h2></a></div>
+      <div class="tabs-container">
+        <div class="col-md-11 hidden-xs video-tabs-wrap">
+          <ul id="myTabs" class="video-tabs">
+            <li class="active"><a class="tab-link" href="#feature" data-rel="feature" onclick="sendGAEvent('Homepage - Video Section','click','Tab - Featured');">
+                    FEATURED
+                  </a></li>
+            <li><a class="tab-link" href="#news" data-rel="news" onclick="sendGAEvent('Homepage - Video Section','click','Tab - News');">
+                    NEWS
+                  </a></li>
+            <li><a class="tab-link" href="#doc" data-rel="doc" onclick="sendGAEvent('Homepage - Video Section','click','Tab - documentaries');">
+                    DOCUMENTARIES
+                  </a></li>
+            <li><a class="tab-link" href="#magazine" data-rel="magazine" onclick="sendGAEvent('Homepage - Video Section','click','Tab - Shows');">
+                    SHOWS
+                  </a></li>
+            <li><a class="tab-link" href="#shorts" data-rel="shorts" onclick="sendGAEvent('Homepage - Video Section','click','Tab - Shorts');">
+                    SHORTS
+                  </a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="tab">
+      <div class="row sp-wrapper">
+        <div class="sp-image-wrap-all">
+          <div class="sp-image-container">
+            <div id="video-section-player" class="video-container"></div>
+            <div class="overlay-video">
+              <div class="sp-caption-container">
+                <h4 class="sp-cap-title"></h4>
+                <h2 class="sp-cap-feature"><a></a></h2>
+                <p class="sp-cap-para">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="feature" class="feature thumbnail-wrapper" style="display: block">
+          <div class="col-md-5 thumbnails-container"><a class="link" href="#" data-rel="Featured1" data-category="feature" onclick="sendGAEvent('Homepage - Video Section','play','video feature');"><div class="Featured1 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/101east/&quot;>101 East</a>" data-title="Mongolia: Born To Ride" data-url="/programmes/101east/2017/08/mongolia-born-ride-170824151455268.html" data-description="In Mongolia, child jockeys are dying and suffering painful injuries in some of the world's longest horse races." data-bcmedia="5550457418001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2017/8/24/5530f1e9f7db460bae54024879750519_18.jpg" alt="Mongolia: Born To Ride" title="Mongolia: Born To Ride" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">25:00</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>101 East</span></div>
+                    <div class="sp-thumbnail-description"><span>Mongolia: Born To Ride</span></div><time class="sp-thumbnail-time">8 months ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Featured2" data-category="feature" onclick="sendGAEvent('Homepage - Video Section','play','video feature');"><div class="Featured2 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/faultlines/&quot;>Fault Lines</a>" data-title="Fire and Fury: Trump's North Korea Crisis" data-url="/programmes/faultlines/2018/04/fire-fury-trump-north-korea-crisis-180417084208782.html" data-description="Fault Lines examines what Donald Trump's impulsive leadership style could mean for North Korea, and the world." data-bcmedia="5771785951001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/19/0539d33ea163407587a801101ef0c5f3_19.jpg" alt="Fire and Fury: Trump's North Korea Crisis" title="Fire and Fury: Trump's North Korea Crisis" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">26:04</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Fault Lines</span></div>
+                    <div class="sp-thumbnail-description"><span>Fire and Fury: Trump's North Korea Crisis</span></div><time class="sp-thumbnail-time">yesterday</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Featured3" data-category="feature" onclick="sendGAEvent('Homepage - Video Section','play','video feature');"><div class="Featured3 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/aljazeera-selects/&quot;>Al Jazeera Selects</a>" data-title="Gangs: Beyond Drugs and Violence" data-url="/programmes/aljazeera-selects/2018/04/gangs-drugs-violence-180417052219272.html" data-description="Interrupting violence in South Africa, overcoming gang life in LA, and making peace in Ecuador's toughest streets." data-bcmedia="5770680308001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/17/5e8d65c3b3b74f35a4ed0fbdbe5d113d_19.jpg" alt="Gangs: Beyond Drugs and Violence" title="Gangs: Beyond Drugs and Violence" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">25:13</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Al Jazeera Selects</span></div>
+                    <div class="sp-thumbnail-description"><span>Gangs: Beyond Drugs and Violence</span></div><time class="sp-thumbnail-time">yesterday</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Featured4" data-category="feature" onclick="sendGAEvent('Homepage - Video Section','play','video feature');"><div class="Featured4 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/witness/&quot;>Witness</a>" data-title="Golden Dawn Girls: What Happened to Greece?" data-url="/programmes/witness/2018/04/golden-dawn-girls-happened-greece-180416144634191.html" data-description="Meet the wives, mothers and daughters behind Greece's notorious right-wing Golden Dawn party." data-bcmedia="5771935532001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/16/ed52e6d6e5a94aadbedd7a092bdead85_18.jpg" alt="Golden Dawn Girls: What Happened to Greece?" title="Golden Dawn Girls: What Happened to Greece?" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">47:30</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Witness</span></div>
+                    <div class="sp-thumbnail-description"><span>Golden Dawn Girls: What Happened to Greece?</span></div><time class="sp-thumbnail-time">yesterday</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Featured5" data-category="feature" onclick="sendGAEvent('Homepage - Video Section','play','video feature');"><div class="Featured5 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/aljazeeraworld/&quot;>Al Jazeera World</a>" data-title="King Hussein of Jordan: On A Knife Edge" data-url="/programmes/aljazeeraworld/2017/02/king-hussein-jordan-knife-edge-170228070450666.html" data-description="The second half of King Hussein's career, his relationship with Israel, the Palestinians, the Arab world and the West. " data-bcmedia="5341222635001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2017/2/28/fc216bf55caf499eb778e29e934784a8_18.jpg" alt="King Hussein of Jordan: On A Knife Edge" title="King Hussein of Jordan: On A Knife Edge" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">47:25</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Al Jazeera World</span></div>
+                    <div class="sp-thumbnail-description"><span>King Hussein of Jordan: On A Knife Edge</span></div><time class="sp-thumbnail-time">last year</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Featured6" data-category="feature" onclick="sendGAEvent('Homepage - Video Section','play','video feature');"><div class="Featured6 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/specialseries/&quot;>Special series</a>" data-title="Up to the Last Drop: The Secret Water War in Europe" data-url="/programmes/specialseries/2018/04/drop-secret-water-war-europe-180402084125467.html" data-description="Is water a commodity or a human right? Cities across Europe are fighting water privatisation." data-bcmedia="5769619315001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/4/5976fa2667e545c28f5d9b256d70ae2f_19.jpg" alt="Up to the Last Drop: The Secret Water War in Europe" title="Up to the Last Drop: The Secret Water War in Europe" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">47:28</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Special series</span></div>
+                    <div class="sp-thumbnail-description"><span>Up to the Last Drop: The Secret Water War in Europe</span></div><time class="sp-thumbnail-time">2 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Featured7" data-category="feature" onclick="sendGAEvent('Homepage - Video Section','play','video feature');"><div class="Featured7 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/witness/&quot;>Witness</a>" data-title="Aisha: Boko Haram Huntress" data-url="/programmes/witness/2018/04/boko-haram-huntress-180409084625309.html" data-description="Meet the 'Queen Hunter' Aisha who catches Boko Haram fighters and searches for kidnapped children in northern Nigeria." data-bcmedia="5768046880001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/10/f1ad506f44ba42b09d24f8a3d516bb6b_18.jpg" alt="Aisha: Boko Haram Huntress" title="Aisha: Boko Haram Huntress" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">25:07</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Witness</span></div>
+                    <div class="sp-thumbnail-description"><span>Aisha: Boko Haram Huntress</span></div><time class="sp-thumbnail-time">last week</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Featured8" data-category="feature" onclick="sendGAEvent('Homepage - Video Section','play','video feature');"><div class="Featured8 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/talktojazeera/&quot;>Talk to Al Jazeera</a>" data-title="Jimmy Wales: Fake news, WikiTribune and the future of journalism" data-url="/programmes/talktojazeera/2018/04/jimmy-wales-fake-news-wikitribune-future-journalism-180413132106568.html" data-description="Wikipedia cofounder Jimmy Wales discusses his new venture WikiTribune and the fight against fake news." data-bcmedia="5769584965001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2017/5/2/6ffc59ae247a4933bb0915d57fadbaba_18.jpg" alt="Jimmy Wales: Fake news, WikiTribune and the future of journalism" title="Jimmy Wales: Fake news, WikiTribune and the future of journalism" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">25:15</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Talk to Al Jazeera</span></div>
+                    <div class="sp-thumbnail-description"><span>Jimmy Wales: Fake news, WikiTribune and the future of journalism</span></div><time class="sp-thumbnail-time">5 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Featured9" data-category="feature" onclick="sendGAEvent('Homepage - Video Section','play','video feature');"><div class="Featured9 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/upfront/&quot;>UpFront</a>" data-title="What will US attacks against Assad achieve? " data-url="/programmes/upfront/2018/04/attacks-assad-achieve-180413211212743.html" data-description="Glenn Greenwald and Eli Lake debate whether US strikes in Syria can stop chemical attacks or spark an even larger war. " data-bcmedia="5770350798001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/13/9df4bdc2b6df4ff4a0568aa79fd6ebe9_18.jpg" alt="What will US attacks against Assad achieve? " title="What will US attacks against Assad achieve? " src="/assets/images/novresptopfeature.jpg"></div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>UpFront</span></div>
+                    <div class="sp-thumbnail-description"><span>What will US attacks against Assad achieve? </span></div><time class="sp-thumbnail-time">4 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Featured10" data-category="feature" onclick="sendGAEvent('Homepage - Video Section','play','video feature');"><div class="Featured10 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/countingthecost/&quot;>Counting the Cost</a>" data-title="Facebook and the murky world of digital advertising" data-url="/programmes/countingthecost/2018/04/facebook-murky-world-digital-advertising-180411070100054.html" data-description="Why the new ad men dislike regulation, but like harvesting as much personal data as possible." data-bcmedia="5770225370001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/14/c95258ff149249f7ab8c8858643b1217_19.jpg" alt="Facebook and the murky world of digital advertising" title="Facebook and the murky world of digital advertising" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">24:42</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Counting the Cost</span></div>
+                    <div class="sp-thumbnail-description"><span>Facebook and the murky world of digital advertising</span></div><time class="sp-thumbnail-time">3 days ago</time></div>
+                </div>
+              </div></a></div>
+        </div>
+        <div id="magazine" class="magazine thumbnail-wrapper" style="display: none">
+          <div class="col-md-5 thumbnails-container"><a class="link" href="#" data-rel="NewsMagazines1" data-category="magazine" onclick="sendGAEvent('Homepage - Video Section','play','video magazine');"><div class="NewsMagazines1 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/insidestory/&quot;>Inside Story</a>" data-title="What's triggering tension between Somalia and the UAE?" data-url="/programmes/insidestory/2018/04/triggering-tension-somalia-uae-180418155525664.html" data-description="The United Arab Emirates is ending a military training programme in Somalia and closing a hospital it ran in Mogadishu." data-bcmedia="5772687547001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/18/392b4b67f57d4ed68e58d926b366b6ef_18.JPG" alt="What's triggering tension between Somalia and the UAE?" title="What's triggering tension between Somalia and the UAE?" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">24:50</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Inside Story</span></div>
+                    <div class="sp-thumbnail-description"><span>What's triggering tension between Somalia and the UAE?</span></div><time class="sp-thumbnail-time">15 hours ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="NewsMagazines2" data-category="magazine" onclick="sendGAEvent('Homepage - Video Section','play','video magazine');"><div class="NewsMagazines2 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/insidestory/&quot;>Inside Story</a>" data-title="How will the UK solve the Windrush controversy?" data-url="/programmes/insidestory/2018/04/uk-solve-windrush-controversy-180417171909158.html" data-description="Some members of the so-called 'Windrush generation' have been facing possible deportation." data-bcmedia="5771988459001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/17/33f58cf676b145b2accdae11468f95e0_18.jpg" alt="How will the UK solve the Windrush controversy?" title="How will the UK solve the Windrush controversy?" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">25:45</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Inside Story</span></div>
+                    <div class="sp-thumbnail-description"><span>How will the UK solve the Windrush controversy?</span></div><time class="sp-thumbnail-time">yesterday</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="NewsMagazines3" data-category="magazine" onclick="sendGAEvent('Homepage - Video Section','play','video magazine');"><div class="NewsMagazines3 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/insidestory/&quot;>Inside Story</a>" data-title="Are rape cases being politicised in India?" data-url="/programmes/insidestory/2018/04/gang-rape-rampant-india-180416175537574.html" data-description="The rape of an eight-year-old Muslim girl has caused religious tension as Hindu nationalists rally behind the accused." data-bcmedia="5771341656001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/16/47528ab4e8e94eef9d1ae53346bf128a_18.jpg" alt="Are rape cases being politicised in India?" title="Are rape cases being politicised in India?" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">25:20</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Inside Story</span></div>
+                    <div class="sp-thumbnail-description"><span>Are rape cases being politicised in India?</span></div><time class="sp-thumbnail-time">2 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="NewsMagazines4" data-category="magazine" onclick="sendGAEvent('Homepage - Video Section','play','video magazine');"><div class="NewsMagazines4 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/listeningpost/&quot;>The Listening Post</a>" data-title="Why did Pakistan's Geo TV go dark?" data-url="/programmes/listeningpost/2018/04/pakistan-geo-tv-dark-180411070826615.html" data-description="Pakistan's largest TV network has been taken off air in most parts of the country." data-bcmedia="5770219559001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/15/953222b4bd0e4ca3b27ecad020e8bfe0_19.jpg" alt="Why did Pakistan's Geo TV go dark?" title="Why did Pakistan's Geo TV go dark?" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">07:49</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>The Listening Post</span></div>
+                    <div class="sp-thumbnail-description"><span>Why did Pakistan's Geo TV go dark?</span></div><time class="sp-thumbnail-time">2 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="NewsMagazines5" data-category="magazine" onclick="sendGAEvent('Homepage - Video Section','play','video magazine');"><div class="NewsMagazines5 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/insidestory/&quot;>Inside Story</a>" data-title="Can the Arab League solve the region's problems?" data-url="/programmes/insidestory/2018/04/arabs-solve-problems-180415182635251.html" data-description="Arab leaders meet in another summit as millions in the region remain caught up in wars and conflicts." data-bcmedia="5770800995001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/15/489bc8e8414a431ea6b2dbc47fb0cc46_18.jpg" alt="Can the Arab League solve the region's problems?" title="Can the Arab League solve the region's problems?" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">25:00</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Inside Story</span></div>
+                    <div class="sp-thumbnail-description"><span>Can the Arab League solve the region's problems?</span></div><time class="sp-thumbnail-time">3 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="NewsMagazines6" data-category="magazine" onclick="sendGAEvent('Homepage - Video Section','play','video magazine');"><div class="NewsMagazines6 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/countingthecost/&quot;>Counting the Cost</a>" data-title="Facebook and the murky world of digital advertising" data-url="/programmes/countingthecost/2018/04/facebook-murky-world-digital-advertising-180411070100054.html" data-description="Why the new ad men dislike regulation, but like harvesting as much personal data as possible." data-bcmedia="5770225370001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/14/c95258ff149249f7ab8c8858643b1217_19.jpg" alt="Facebook and the murky world of digital advertising" title="Facebook and the murky world of digital advertising" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">24:42</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Counting the Cost</span></div>
+                    <div class="sp-thumbnail-description"><span>Facebook and the murky world of digital advertising</span></div><time class="sp-thumbnail-time">3 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="NewsMagazines7" data-category="magazine" onclick="sendGAEvent('Homepage - Video Section','play','video magazine');"><div class="NewsMagazines7 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/listeningpost/&quot;>The Listening Post</a>" data-title="India's Aadhaar database and the challenges of reporting it" data-url="/programmes/listeningpost/2018/04/india-aadhaar-database-challenges-reporting-180411070739463.html" data-description="Why covering the world's largest biometric database comes with huge risks for Indian journalists." data-bcmedia="5770263311001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/14/5ce754c34bcb42f884e62c6f87d0dbca_19.jpg" alt="India's Aadhaar database and the challenges of reporting it" title="India's Aadhaar database and the challenges of reporting it" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">08:34</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>The Listening Post</span></div>
+                    <div class="sp-thumbnail-description"><span>India's Aadhaar database and the challenges of reporting it</span></div><time class="sp-thumbnail-time">4 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="NewsMagazines8" data-category="magazine" onclick="sendGAEvent('Homepage - Video Section','play','video magazine');"><div class="NewsMagazines8 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/insidestory/&quot;>Inside Story</a>" data-title="Will strikes deter Assad from using chemical weapons?" data-url="/programmes/insidestory/2018/04/strikes-deter-assad-chemical-weapons-180414193518321.html" data-description="The US, the UK and France launch air strikes on Syria, targeting suspected chemical facilities." data-bcmedia="5770470157001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/14/d778b99e877149e9aa0d3c847cb03d41_18.jpg" alt="Will strikes deter Assad from using chemical weapons?" title="Will strikes deter Assad from using chemical weapons?" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">25:10</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Inside Story</span></div>
+                    <div class="sp-thumbnail-description"><span>Will strikes deter Assad from using chemical weapons?</span></div><time class="sp-thumbnail-time">4 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="NewsMagazines9" data-category="magazine" onclick="sendGAEvent('Homepage - Video Section','play','video magazine');"><div class="NewsMagazines9 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/upfront/&quot;>UpFront</a>" data-title="What will US attacks against Assad achieve? " data-url="/programmes/upfront/2018/04/attacks-assad-achieve-180413211212743.html" data-description="Glenn Greenwald and Eli Lake debate whether US strikes in Syria can stop chemical attacks or spark an even larger war. " data-bcmedia="5770350798001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/13/9df4bdc2b6df4ff4a0568aa79fd6ebe9_18.jpg" alt="What will US attacks against Assad achieve? " title="What will US attacks against Assad achieve? " src="/assets/images/novresptopfeature.jpg"></div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>UpFront</span></div>
+                    <div class="sp-thumbnail-description"><span>What will US attacks against Assad achieve? </span></div><time class="sp-thumbnail-time">4 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="NewsMagazines10" data-category="magazine" onclick="sendGAEvent('Homepage - Video Section','play','video magazine');"><div class="NewsMagazines10 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/upfront/&quot;>UpFront</a>" data-title="Gaza protests: Will Israel stop using deadly force?" data-url="/programmes/upfront/2018/04/gaza-protests-israel-stop-deadly-force-180413205453439.html" data-description="Yousef Munayyer and Danny Ayalon debate Israel's deadly tactics against Palestinian protesters in Gaza." data-bcmedia="5770349204001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/13/7ff9e67efc3e4699a4b56939d69c483f_18.jpg" alt="Gaza protests: Will Israel stop using deadly force?" title="Gaza protests: Will Israel stop using deadly force?" src="/assets/images/novresptopfeature.jpg"></div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>UpFront</span></div>
+                    <div class="sp-thumbnail-description"><span>Gaza protests: Will Israel stop using deadly force?</span></div><time class="sp-thumbnail-time">4 days ago</time></div>
+                </div>
+              </div></a></div>
+        </div>
+        <div id="doc" class="doc thumbnail-wrapper" style="display: none">
+          <div class="col-md-5 thumbnails-container"><a class="link" href="#" data-rel="Documentaries1" data-category="doc" onclick="sendGAEvent('Homepage - Video Section','play','video doc');"><div class="Documentaries1 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/faultlines/&quot;>Fault Lines</a>" data-title="Fire and Fury: Trump's North Korea Crisis" data-url="/programmes/faultlines/2018/04/fire-fury-trump-north-korea-crisis-180417084208782.html" data-description="Fault Lines examines what Donald Trump's impulsive leadership style could mean for North Korea, and the world." data-bcmedia="5771785951001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/19/0539d33ea163407587a801101ef0c5f3_19.jpg" alt="Fire and Fury: Trump's North Korea Crisis" title="Fire and Fury: Trump's North Korea Crisis" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">26:04</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Fault Lines</span></div>
+                    <div class="sp-thumbnail-description"><span>Fire and Fury: Trump's North Korea Crisis</span></div><time class="sp-thumbnail-time">yesterday</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Documentaries2" data-category="doc" onclick="sendGAEvent('Homepage - Video Section','play','video doc');"><div class="Documentaries2 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/witness/&quot;>Witness</a>" data-title="Golden Dawn Girls: What Happened to Greece?" data-url="/programmes/witness/2018/04/golden-dawn-girls-happened-greece-180416144634191.html" data-description="Meet the wives, mothers and daughters behind Greece's notorious right-wing Golden Dawn party." data-bcmedia="5771935532001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/16/ed52e6d6e5a94aadbedd7a092bdead85_18.jpg" alt="Golden Dawn Girls: What Happened to Greece?" title="Golden Dawn Girls: What Happened to Greece?" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">47:30</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Witness</span></div>
+                    <div class="sp-thumbnail-description"><span>Golden Dawn Girls: What Happened to Greece?</span></div><time class="sp-thumbnail-time">yesterday</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Documentaries3" data-category="doc" onclick="sendGAEvent('Homepage - Video Section','play','video doc');"><div class="Documentaries3 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/specialseries/&quot;>Special series</a>" data-title="Up to the Last Drop: The Secret Water War in Europe" data-url="/programmes/specialseries/2018/04/drop-secret-water-war-europe-180402084125467.html" data-description="Is water a commodity or a human right? Cities across Europe are fighting water privatisation." data-bcmedia="5769619315001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/4/5976fa2667e545c28f5d9b256d70ae2f_19.jpg" alt="Up to the Last Drop: The Secret Water War in Europe" title="Up to the Last Drop: The Secret Water War in Europe" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">47:28</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Special series</span></div>
+                    <div class="sp-thumbnail-description"><span>Up to the Last Drop: The Secret Water War in Europe</span></div><time class="sp-thumbnail-time">2 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Documentaries4" data-category="doc" onclick="sendGAEvent('Homepage - Video Section','play','video doc');"><div class="Documentaries4 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/101east/&quot;>101 East</a>" data-title="Australia's New Stolen Generation?" data-url="/programmes/101east/2018/04/australia-stolen-generation-180412062546540.html" data-description="101 East investigates why more Australian indigenous children are being removed from their families than ever before." data-bcmedia="5764542520001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/12/c2a04e1ceef14c5db7fda21605d158ad_19.jpg" alt="Australia's New Stolen Generation?" title="Australia's New Stolen Generation?" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">26:00</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>101 East</span></div>
+                    <div class="sp-thumbnail-description"><span>Australia's New Stolen Generation?</span></div><time class="sp-thumbnail-time">6 days ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Documentaries5" data-category="doc" onclick="sendGAEvent('Homepage - Video Section','play','video doc');"><div class="Documentaries5 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/witness/&quot;>Witness</a>" data-title="Aisha: Boko Haram Huntress" data-url="/programmes/witness/2018/04/boko-haram-huntress-180409084625309.html" data-description="Meet the 'Queen Hunter' Aisha who catches Boko Haram fighters and searches for kidnapped children in northern Nigeria." data-bcmedia="5768046880001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/10/f1ad506f44ba42b09d24f8a3d516bb6b_18.jpg" alt="Aisha: Boko Haram Huntress" title="Aisha: Boko Haram Huntress" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">25:07</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Witness</span></div>
+                    <div class="sp-thumbnail-description"><span>Aisha: Boko Haram Huntress</span></div><time class="sp-thumbnail-time">last week</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Documentaries6" data-category="doc" onclick="sendGAEvent('Homepage - Video Section','play','video doc');"><div class="Documentaries6 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/faultlines/&quot;>Fault Lines</a>" data-title="Trump's War on Gangs" data-url="/programmes/faultlines/2018/04/trump-war-gangs-180410044407676.html" data-description="Dozens of immigrant teens in the US have been unlawfully detained as part of the Trump administration's 'war on gangs'." data-bcmedia="5766758362001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/10/a8db01456cec4e55805fdfe0207abb55_19.jpg" alt="Trump's War on Gangs" title="Trump's War on Gangs" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">24:31</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Fault Lines</span></div>
+                    <div class="sp-thumbnail-description"><span>Trump's War on Gangs</span></div><time class="sp-thumbnail-time">last week</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Documentaries7" data-category="doc" onclick="sendGAEvent('Homepage - Video Section','play','video doc');"><div class="Documentaries7 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/witness/&quot;>Witness</a>" data-title="El Salvador: Deportees Welcome" data-url="/programmes/witness/2018/04/el-salvador-deportees-180402075834236.html" data-description="Recently deported Dilan lives in fear of the MS-13 gang, but discovers El Salvador's booming call centre industry." data-bcmedia="5766858146001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/9/80885c0ce88a432e8b20506d7345386f_18.jpg" alt="El Salvador: Deportees Welcome" title="El Salvador: Deportees Welcome" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">25:00</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Witness</span></div>
+                    <div class="sp-thumbnail-description"><span>El Salvador: Deportees Welcome</span></div><time class="sp-thumbnail-time">last week</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Documentaries8" data-category="doc" onclick="sendGAEvent('Homepage - Video Section','play','video doc');"><div class="Documentaries8 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/aljazeeracorrespondent/&quot;>Al Jazeera Correspondent</a>" data-title="I run because..." data-url="/programmes/aljazeeracorrespondent/2013/12/i-run-because-2013129131542542538.html" data-description="We profile people from around the world, who all run for different reasons." data-bcmedia="2926636054001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2013/12/9/201312913226235734_20.jpg" alt="I run because..." title="I run because..." src="/assets/images/novresptopfeature.jpg"><div class="videoduration">47:30</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Al Jazeera Correspondent</span></div>
+                    <div class="sp-thumbnail-description"><span>I run because...</span></div><time class="sp-thumbnail-time">last week</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Documentaries9" data-category="doc" onclick="sendGAEvent('Homepage - Video Section','play','video doc');"><div class="Documentaries9 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/rewind/&quot;>REWIND</a>" data-title="Seeds of Change: Revisiting Egypt's April 6 activists" data-url="/programmes/rewind/2018/04/cloneofseeds-change-revisiting-egypt-april-6-act-180406164917804.html" data-description="A core group of young activists coordinated protests that rocked the country in the earliest days of the Arab Spring." data-bcmedia="5294509387001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2017/1/24/27296f82e08f45dd9cc71d4d63dca43b_18.jpg" alt="Seeds of Change: Revisiting Egypt's April 6 activists" title="Seeds of Change: Revisiting Egypt's April 6 activists" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">25:30</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>REWIND</span></div>
+                    <div class="sp-thumbnail-description"><span>Seeds of Change: Revisiting Egypt's April 6 activists</span></div><time class="sp-thumbnail-time">last week</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Documentaries10" data-category="doc" onclick="sendGAEvent('Homepage - Video Section','play','video doc');"><div class="Documentaries10 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/programmes/101east/&quot;>101 East</a>" data-title="China: Spies, Lies and Blackmail" data-url="/programmes/101east/2018/04/china-spies-lies-blackmail-180404145244034.html" data-description="How China controls its citizens inside and outside the country where no criticism or dissent is allowed." data-bcmedia="5760979961001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/Images/2018/4/5/c023283409ef4acbab2e9ea643c3a268_18.jpg" alt="China: Spies, Lies and Blackmail" title="China: Spies, Lies and Blackmail" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">26:00</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>101 East</span></div>
+                    <div class="sp-thumbnail-description"><span>China: Spies, Lies and Blackmail</span></div><time class="sp-thumbnail-time">last week</time></div>
+                </div>
+              </div></a></div>
+        </div>
+        <div id="shorts" class="shorts thumbnail-wrapper" style="display: none">
+          <div class="col-md-5 thumbnails-container"><a class="link" href="#" data-rel="Shorts1" data-category="shorts" onclick="sendGAEvent('Homepage - Video Section','play','video shorts');"><div class="Shorts1 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="" data-title="The boy whose father was killed by ISIL in Afghanistan" data-url="" data-description="In Afghanistan, ISIL killed 14-year-old Khudai's father. Now the survival of his five younger sisters and mother depends on him.&#xD;&#xA;" data-bcmedia="5723814848001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="https://bc05.aljazeera.com/665003303001/201802/19/665003303001_5723820289001_5723814848001-th.jpg?pubId=665003303001" alt="The boy whose father was killed by ISIL in Afghanistan" title="The boy whose father was killed by ISIL in Afghanistan" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">03:44</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span></span></div>
+                    <div class="sp-thumbnail-description"><span>The boy whose father was killed by ISIL in Afghanistan</span></div><time class="sp-thumbnail-time">2 months ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Shorts2" data-category="shorts" onclick="sendGAEvent('Homepage - Video Section','play','video shorts');"><div class="Shorts2 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="" data-title="The Paramedics of Jerusalem" data-url="" data-description="In Palestine, paramedics face delays at checkpoints every day. Ambulance response times can mean life or death for patients." data-bcmedia="5704384876001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="https://bc05.aljazeera.com/665003303001/201801/689/665003303001_5704950194001_5704384876001-th.jpg?pubId=665003303001" alt="The Paramedics of Jerusalem" title="The Paramedics of Jerusalem" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">04:47</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span></span></div>
+                    <div class="sp-thumbnail-description"><span>The Paramedics of Jerusalem</span></div><time class="sp-thumbnail-time">3 months ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Shorts3" data-category="shorts" onclick="sendGAEvent('Homepage - Video Section','play','video shorts');"><div class="Shorts3 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="" data-title="Brussel's Refugee BnB" data-url="" data-description="Would you let strangers stay in your home? Meet the people in Belgium who do." data-bcmedia="5700259068001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="https://bc05.aljazeera.com/665003303001/201801/3570/665003303001_5700273311001_5700259068001-th.jpg?pubId=665003303001" alt="Brussel's Refugee BnB" title="Brussel's Refugee BnB" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">07:46</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span></span></div>
+                    <div class="sp-thumbnail-description"><span>Brussel's Refugee BnB</span></div><time class="sp-thumbnail-time">3 months ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Shorts4" data-category="shorts" onclick="sendGAEvent('Homepage - Video Section','play','video shorts');"><div class="Shorts4 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="" data-title="Jakarta's Princess of the Dump" data-url="" data-description="Resa Boenard grew up in Indonesia's biggest rubbish dump. Now she's back to help the next generation break the cycle of poverty. Filmed by Al Jazeera's Hassan Ghani." data-bcmedia="5677264259001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="https://bc05.aljazeera.com/665003303001/201712/2704/665003303001_5677651577001_5677264259001-th.jpg?pubId=665003303001" alt="Jakarta's Princess of the Dump" title="Jakarta's Princess of the Dump" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">03:29</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span></span></div>
+                    <div class="sp-thumbnail-description"><span>Jakarta's Princess of the Dump</span></div><time class="sp-thumbnail-time">4 months ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Shorts5" data-category="shorts" onclick="sendGAEvent('Homepage - Video Section','play','video shorts');"><div class="Shorts5 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="" data-title="AJShorts: Real Autism" data-url="" data-description="Filmmaker Bartek Jakubowski &quot;doesn't have a problem&quot; and isn't &quot;sick&quot;. He has Asperger's and is on a mission to challenge stereotypes." data-bcmedia="5640475234001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="https://bc05.aljazeera.com/665003303001/201711/2928/665003303001_5640482188001_5640475234001-th.jpg?pubId=665003303001" alt="AJShorts: Real Autism" title="AJShorts: Real Autism" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">05:36</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span></span></div>
+                    <div class="sp-thumbnail-description"><span>AJShorts: Real Autism</span></div><time class="sp-thumbnail-time">5 months ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Shorts6" data-category="shorts" onclick="sendGAEvent('Homepage - Video Section','play','video shorts');"><div class="Shorts6 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="" data-title="'I like bulls more than people'" data-url="" data-description="Kumar has practiced Jallikattu, South India's controversial bull-taming sport, since he was a boy. He says he loves bulls more than people." data-bcmedia="5612646627001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="https://bc05.aljazeera.com/665003303001/201710/3551/665003303001_5612677675001_5612646627001-th.jpg?pubId=665003303001" alt="'I like bulls more than people'" title="'I like bulls more than people'" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">04:56</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span></span></div>
+                    <div class="sp-thumbnail-description"><span>'I like bulls more than people'</span></div><time class="sp-thumbnail-time">6 months ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Shorts7" data-category="shorts" onclick="sendGAEvent('Homepage - Video Section','play','video shorts');"><div class="Shorts7 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="" data-title="Indonesia's Unlikely Shutterbug" data-url="" data-description="Dzoel has no hands or legs, but he doesn't let that get in the way of his photography.&#xD;&#xA;Filmed by Al Jazeera's Hassan Ghani." data-bcmedia="5591800322001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="https://bc05.aljazeera.com/665003303001/201709/860/665003303001_5591831598001_5591800322001-th.jpg?pubId=665003303001" alt="Indonesia's Unlikely Shutterbug" title="Indonesia's Unlikely Shutterbug" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">04:11</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span></span></div>
+                    <div class="sp-thumbnail-description"><span>Indonesia's Unlikely Shutterbug</span></div><time class="sp-thumbnail-time">7 months ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Shorts8" data-category="shorts" onclick="sendGAEvent('Homepage - Video Section','play','video shorts');"><div class="Shorts8 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="" data-title="Turning buses into art in Pakistan" data-url="" data-description="Mohammed Rafiq has been transforming Pakistan's buses into works of art for the last 40 years. The result is beautiful, but there's a dark side to the industry that few are aware of. Produced by Al Jazeera's Hassan Ghani." data-bcmedia="5545877451001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="https://bc05.aljazeera.com/665003303001/201708/3954/665003303001_5545881590001_5545877451001-th.jpg?pubId=665003303001" alt="Turning buses into art in Pakistan" title="Turning buses into art in Pakistan" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">04:02</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span></span></div>
+                    <div class="sp-thumbnail-description"><span>Turning buses into art in Pakistan</span></div><time class="sp-thumbnail-time">8 months ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Shorts9" data-category="shorts" onclick="sendGAEvent('Homepage - Video Section','play','video shorts');"><div class="Shorts9 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="" data-title="How to be a Palestinian supermom" data-url="" data-description="It's not easy being a Palestinian mother. You must be ready to protest, get arrested, be injured and have difficult conversations with your children. We followed Manal Tamimi from  Nabi Saleh to learn what it takes. " data-bcmedia="5541586388001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="https://bc05.aljazeera.com/665003303001/201708/1815/665003303001_5541666872001_5541586388001-th.jpg?pubId=665003303001" alt="How to be a Palestinian supermom" title="How to be a Palestinian supermom" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">06:26</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span></span></div>
+                    <div class="sp-thumbnail-description"><span>How to be a Palestinian supermom</span></div><time class="sp-thumbnail-time">8 months ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="Shorts10" data-category="shorts" onclick="sendGAEvent('Homepage - Video Section','play','video shorts');"><div class="Shorts10 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="" data-title="AJ Short: India's Ambulance Dada" data-url="" data-description="When Karimul Haque's mother died because she couldn't get to a hospital, he swore no one else in his village would suffer the same fate. &#xD;&#xA;For the last 15 years, he's used his motorcycle as an ambulance and has saved more than 4,000 lives. " data-bcmedia="5526001967001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="https://bc05.aljazeera.com/665003303001/201707/1613/665003303001_5526017061001_5526001967001-th.jpg?pubId=665003303001" alt="AJ Short: India's Ambulance Dada" title="AJ Short: India's Ambulance Dada" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">06:20</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span></span></div>
+                    <div class="sp-thumbnail-description"><span>AJ Short: India's Ambulance Dada</span></div><time class="sp-thumbnail-time">9 months ago</time></div>
+                </div>
+              </div></a></div>
+        </div>
+        <div id="news" class="news thumbnail-wrapper" style="display: none">
+          <div class="col-md-5 thumbnails-container"><a class="link" href="#" data-rel="News1" data-category="news" onclick="sendGAEvent('Homepage - Video Section','play','video news');"><div class="News1 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/topics/regions/africa.html&quot;>Africa</a>" data-title="Nigerians in urban areas living in dire conditions demand reform" data-url="/news/2018/04/nigerians-urban-areas-living-dire-conditions-demand-reform-180419083000815.html" data-description="Original residents of the Federal Capital Territory of Abuja are living in economic deprivation." data-bcmedia="5773066395001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/images/2018/4/19/665003303001_5773071768001_5773066395001-vs.jpg" alt="Nigerians in urban areas living in dire conditions demand reform" title="Nigerians in urban areas living in dire conditions demand reform" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">02:53</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Africa</span></div>
+                    <div class="sp-thumbnail-description"><span>Nigerians in urban areas living in dire conditions demand reform</span></div><time class="sp-thumbnail-time">2 hours ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="News2" data-category="news" onclick="sendGAEvent('Homepage - Video Section','play','video news');"><div class="News2 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/topics/regions/us-canada.html&quot;>US &amp; Canada</a>" data-title="Trump says he will walk out if North Korea talks 'not fruitful'" data-url="/news/2018/04/trump-walk-north-korea-talks-not-fruitful-180419052623742.html" data-description="US president says he would 'respectfully leave' if the summit with North Korean leader Kim Jong-un would turn out unproductive." data-bcmedia="5772968292001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/images/2018/4/19/665003303001_5773001713001_5772968292001-vs.jpg" alt="Trump says he will walk out if North Korea talks 'not fruitful'" title="Trump says he will walk out if North Korea talks 'not fruitful'" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">02:28</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>US & Canada</span></div>
+                    <div class="sp-thumbnail-description"><span>Trump says he will walk out if North Korea talks 'not fruitful'</span></div><time class="sp-thumbnail-time">2 hours ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="News3" data-category="news" onclick="sendGAEvent('Homepage - Video Section','play','video news');"><div class="News3 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/topics/regions/us-canada.html&quot;>US &amp; Canada</a>" data-title="Southwest begins probe into fatal engine explosion" data-url="/news/2018/04/southwest-begins-probe-fatal-engine-explosion-180419061531364.html" data-description="Investigation under way after an exploded engine at 32,000ft led to the death of a woman who was partially sucked out of a blown-out window hit by the debris, the first passenger death in the airlines 50-year history." data-bcmedia="5772996775001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/images/2018/4/19/665003303001_5773018316001_5772996775001-vs.jpg" alt="Southwest begins probe into fatal engine explosion" title="Southwest begins probe into fatal engine explosion" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">02:01</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>US & Canada</span></div>
+                    <div class="sp-thumbnail-description"><span>Southwest begins probe into fatal engine explosion</span></div><time class="sp-thumbnail-time">4 hours ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="News4" data-category="news" onclick="sendGAEvent('Homepage - Video Section','play','video news');"><div class="News4 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/topics/regions/europe.html&quot;>Europe</a>" data-title="'Windrush generation' scandal overshadows Commonwealth summit" data-url="/news/2018/04/windrush-generation-scandal-overshadows-commonwealth-summit-180419060958207.html" data-description="Scandal surrounding treatment of immigrants from the Caribbean has overshadowed this year's meeting of Commonwealth leaders." data-bcmedia="5773011729001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/images/2018/4/19/665003303001_5773023044001_5773011729001-vs.jpg" alt="'Windrush generation' scandal overshadows Commonwealth summit" title="'Windrush generation' scandal overshadows Commonwealth summit" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">02:24</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Europe</span></div>
+                    <div class="sp-thumbnail-description"><span>'Windrush generation' scandal overshadows Commonwealth summit</span></div><time class="sp-thumbnail-time">4 hours ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="News5" data-category="news" onclick="sendGAEvent('Homepage - Video Section','play','video news');"><div class="News5 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/topics/regions/us-canada.html&quot;>US &amp; Canada</a>" data-title="NASA launches TESS satellite to search for alien worlds" data-url="/news/2018/04/nasa-launches-tess-satellite-search-alien-worlds-180419055903022.html" data-description="The $337m planet-hunting space telescope launched on Wednesday from Cape Canaveral in Florida, is the agencyâ€™s most ambitious quest yet to scour planets' atmospheres for any life." data-bcmedia="5772997946001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/images/2018/4/19/665003303001_5773018311001_5772997946001-vs.jpg" alt="NASA launches TESS satellite to search for alien worlds" title="NASA launches TESS satellite to search for alien worlds" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">01:52</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>US & Canada</span></div>
+                    <div class="sp-thumbnail-description"><span>NASA launches TESS satellite to search for alien worlds</span></div><time class="sp-thumbnail-time">5 hours ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="News6" data-category="news" onclick="sendGAEvent('Homepage - Video Section','play','video news');"><div class="News6 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/topics/regions/middleeast.html&quot;>Middle East</a>" data-title="Saudi Arabia to open first public cinema in 35 years" data-url="/news/2018/04/saudi-arabia-open-public-cinema-35-years-180418194115599.html" data-description="Hollywood blockbuster action film Black Panther is the first movie to be screened in the capital Riyadh." data-bcmedia="5772765959001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/images/2018/4/18/665003303001_5772773605001_5772765959001-vs.jpg" alt="Saudi Arabia to open first public cinema in 35 years" title="Saudi Arabia to open first public cinema in 35 years" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">02:43</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Middle East</span></div>
+                    <div class="sp-thumbnail-description"><span>Saudi Arabia to open first public cinema in 35 years</span></div><time class="sp-thumbnail-time">15 hours ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="News7" data-category="news" onclick="sendGAEvent('Homepage - Video Section','play','video news');"><div class="News7 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/topics/regions/europe.html&quot;>Europe</a>" data-title="Fears over EU citizens forced to leave UK after Brexit" data-url="/news/2018/04/fears-eu-citizens-forced-leave-uk-brexit-180418190856406.html" data-description="The UK recently wrongfully deported a group of British citizens, stoking fears that it would not hesitate to do the same to EU citizens." data-bcmedia="5772737614001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/images/2018/4/18/665003303001_5772757166001_5772737614001-vs.jpg" alt="Fears over EU citizens forced to leave UK after Brexit" title="Fears over EU citizens forced to leave UK after Brexit" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">03:05</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Europe</span></div>
+                    <div class="sp-thumbnail-description"><span>Fears over EU citizens forced to leave UK after Brexit</span></div><time class="sp-thumbnail-time">15 hours ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="News8" data-category="news" onclick="sendGAEvent('Homepage - Video Section','play','video news');"><div class="News8 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/topics/regions/africa.html&quot;>Africa</a>" data-title="Zimbabwe's first Independence Day without Mugabe" data-url="/news/2018/04/zimbabwes-independence-day-mugabe-180418175902311.html" data-description="Zimbabwe's new President Mnangagwa lit the independence flame this year." data-bcmedia="5772723412001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/images/2018/4/18/665003303001_5772727444001_5772723412001-vs.jpg" alt="Zimbabwe's first Independence Day without Mugabe" title="Zimbabwe's first Independence Day without Mugabe" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">02:19</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Africa</span></div>
+                    <div class="sp-thumbnail-description"><span>Zimbabwe's first Independence Day without Mugabe</span></div><time class="sp-thumbnail-time">17 hours ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="News9" data-category="news" onclick="sendGAEvent('Homepage - Video Section','play','video news');"><div class="News9 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/topics/regions/middleeast.html&quot;>Middle East</a>" data-title="Child marriage on the rise among Syrian refugee girls in Jordan" data-url="/news/2018/04/child-marriage-rise-syrian-refugee-girls-180418084029464.html" data-description="In 2014, 15 percent of all Syrian marriages in Jordan included a child bride, but now the number has risen to 36 percent." data-bcmedia="5772434336001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/images/2018/4/18/665003303001_5772436812001_5772434336001-vs.jpg" alt="Child marriage on the rise among Syrian refugee girls in Jordan" title="Child marriage on the rise among Syrian refugee girls in Jordan" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">02:23</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Middle East</span></div>
+                    <div class="sp-thumbnail-description"><span>Child marriage on the rise among Syrian refugee girls in Jordan</span></div><time class="sp-thumbnail-time">22 hours ago</time></div>
+                </div>
+              </div></a><a class="link" href="#" data-rel="News10" data-category="news" onclick="sendGAEvent('Homepage - Video Section','play','video news');"><div class="News10 sp-thumbnails-container">
+                <div class="col-md-5">
+                  <div class="sp-thumbnail-image-container" data-label="<a href=&quot;/topics/regions/africa.html&quot;>Africa</a>" data-title="New technology reduces malaria cases in Senegal" data-url="/news/2018/04/technology-reduces-malaria-cases-senegal-180418063102888.html" data-description="Senegal is one of a few African countries that reduced cases of malaria by 20 percent last year, due in part to a new early detection technology developed by Senegalese hospitals." data-bcmedia="5772343210001"><img class="sp-thumbnail-image img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespfeaturethumb.jpg';" data-src="/mritems/imagecache/mbdsmall/mritems/images/2018/4/18/665003303001_5772390137001_5772343210001-vs.jpg" alt="New technology reduces malaria cases in Senegal" title="New technology reduces malaria cases in Senegal" src="/assets/images/novresptopfeature.jpg"><div class="videoduration">02:29</div>
+                  </div>
+                </div>
+                <div class="col-md-7">
+                  <div class="sp-thumbnail-text">
+                    <div class="sp-thumbnail-title"><span>Africa</span></div>
+                    <div class="sp-thumbnail-description"><span>New technology reduces malaria cases in Senegal</span></div><time class="sp-thumbnail-time">yesterday</time></div>
+                </div>
+              </div></a></div>
+        </div>
+      </div>
+    </div>
+  </div></section></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><section class="opinion" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx"><div class="container">
+    <div class="row">
+      <div class="col-md-12"><a class="opinion-title" href="/indepth/opinion/"><span>Opinion</span></a></div>
+      <div class="opinion-wrap">
+        <div class="row-fluid opinion-flex">
+          <div class="col-md-3 col-sm-6 opinion-wrap-col">
+            <div class="opinion-wrapper"><a href="/indepth/opinion/shadow-empire-uk-windrush-scandal-180419073609755.html"><h2 class="opinion-author-title">The shadow of empire in UK's Windrush scandal</h2></a><div class="row opinion-min-wrap">
+                <div class="opinion-author-image"><a href="/profile/nick-dearden.html"><img class="opinion-author-img lazy" onerror="this.onerror=null;this.src='/mritems/Images/2016/10/10/19cab5d3f2fc489ba4643b4a5992bef7_6.png';" data-src="/mritems/imagecache/profilemed/mritems/Images/2017/5/24/57d921b74d4e4485bff3f1bb56f26fc1_6.jpg" alt="Nick Dearden" title="Nick Dearden" src="/img/nov-2016/novresptopfeature.jpg"></a></div>
+                <div class="opinion-author-name-wrap">
+                  <p class="opinion-author-name"><span>by </span><a href="/profile/nick-dearden.html">Nick Dearden</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 opinion-wrap-col">
+            <div class="opinion-wrapper"><a href="/indepth/opinion/meet-eu-member-state-montenegro-180418115545134.html"><h2 class="opinion-author-title">Meet the EU's next member state: Montenegro</h2></a><div class="row opinion-min-wrap">
+                <div class="opinion-author-image"><a href="/profile/dimitar-bechev.html"><img class="opinion-author-img lazy" onerror="this.onerror=null;this.src='/mritems/Images/2016/10/10/19cab5d3f2fc489ba4643b4a5992bef7_6.png';" data-src="/mritems/imagecache/profilemed/mritems/Images/2015/4/29/2318ca70813b441d9c4a5c58c649e4dd_6.jpg" alt="Dimitar Bechev" title="Dimitar Bechev" src="/img/nov-2016/novresptopfeature.jpg"></a></div>
+                <div class="opinion-author-name-wrap">
+                  <p class="opinion-author-name"><span>by </span><a href="/profile/dimitar-bechev.html">Dimitar Bechev</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 opinion-wrap-col">
+            <div class="opinion-wrapper"><a href="/indepth/opinion/north-korea-changing-180418063201529.html"><h2 class="opinion-author-title">North Korea is changing</h2></a><div class="row opinion-min-wrap">
+                <div class="opinion-author-image"><a href="/indepth/opinion/profile/richard-javad-heydarian.html"><img class="opinion-author-img lazy" onerror="this.onerror=null;this.src='/mritems/Images/2016/10/10/19cab5d3f2fc489ba4643b4a5992bef7_6.png';" data-src="/mritems/imagecache/profilemed/mritems/Images/2014/3/11/201431153741123734_8.jpg" alt="Richard Javad Heydarian" title="Richard Javad Heydarian" src="/img/nov-2016/novresptopfeature.jpg"></a></div>
+                <div class="opinion-author-name-wrap">
+                  <p class="opinion-author-name"><span>by </span><a href="/indepth/opinion/profile/richard-javad-heydarian.html">Richard Javad Heydarian</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 opinion-wrap-col">
+            <div class="opinion-wrapper"><a href="/indepth/opinion/weakened-khalifa-haftar-means-instability-libya-180417105543440.html"><h2 class="opinion-author-title">A weakened Khalifa Haftar means more instability for Libya</h2></a><div class="row opinion-min-wrap">
+                <div class="opinion-author-image"><a href="/profile/guma-el-gamaty.html"><img class="opinion-author-img lazy" onerror="this.onerror=null;this.src='/mritems/Images/2016/10/10/19cab5d3f2fc489ba4643b4a5992bef7_6.png';" data-src="/mritems/imagecache/profilemed/mritems/Images/2017/6/12/a866341b810a42be8b511f8b0a66fea8_6.jpg" alt="Guma El-Gamaty" title="Guma El-Gamaty" src="/img/nov-2016/novresptopfeature.jpg"></a></div>
+                <div class="opinion-author-name-wrap">
+                  <p class="opinion-author-name"><span>by </span><a href="/profile/guma-el-gamaty.html">Guma El-Gamaty</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div></section><script type="text/javascript">                       
+      var jQueryScriptOutputted = false;
+      var jQueryGalleryScriptOutputted = false;
+      var galleryViewCalled = false;
+
+      function initJQuery() {
+
+          if (typeof (jQuery) === 'undefined') {
+
+              if (!jQueryScriptOutputted) {
+                  //only output the script once..
+                  jQueryScriptOutputted = true;
+
+                  var script = document.createElement("script");
+                  script.type = "text/javascript";
+                  script.src = "http://code.jquery.com/jquery-latest.min.js";
+                  document.body.appendChild(script);
+
+                  //output the script (load it from jquery cdn)                             
+                  //document.write(unescape("%3Cscript src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'%3E %3C/script%3E"));
+              }
+
+              setTimeout("initJQuery()", 50);
+          } else {
+
+              if (typeof ($.fn.owlCarousel) === 'undefined') {
+                  if (!jQueryGalleryScriptOutputted) {
+                      jQueryGalleryScriptOutputted = true;
+
+                      var link = document.createElement("link");
+                      link.type = "text/css";
+                      link.rel = "stylesheet";
+                      link.href = "/assets/styles/owl-carousal.css";
+                      document.body.appendChild(link);
+
+                      var script = document.createElement("script");
+                      script.type = "text/javascript";
+                      script.src = "/mritems/custom/plugins/owl-carousel/owl.carousel.min.js";
+                      document.body.appendChild(script);
+                  }
+
+                  setTimeout("initJQuery()", 50);
+              } else {
+                  if (!galleryViewCalled) {
+                      galleryViewCalled = true;
+
+    /* $("div.opinion-wrap div.row-fluid.opinion-flex").owlCarousel({
+                          items: 4,
+                          itemsDesktop: [1199, 4],
+                          itemsDesktopSmall: [979, 3],
+                          itemsTablet: [768, 2],
+                          itemsMobile: [479, 1],
+                          responsiveRefreshRate : 100
+        }); */
+                  }
+              }
+          }
+      }
+      initJQuery();                   
+    </script></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><section class="indepth" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx"><div class="container">
+    <div class="row">
+      <div class="col-md-12"><a class="indepth-title" href="/indepth/features/"><span>in-depth</span></a></div>
+      <div class="indepth-wrap">
+        <div class="row rows">
+          <div class="col-md-3 col-xs-6 indepth-wrap-col">
+            <div class="indepth-wrapper"><a href="https://interactive.aljazeera.com/aje/2018/visualising-mueller-investigation/"><img class="indepth-img img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespindepth.jpg';" data-src="/mritems/imagecache/midthumbnail/mritems/Images/2018/4/5/df92cd4f1bf449bea5ce337b74fe81d7_18.jpg" alt="Mueller’s Web: The UAE-Trump Connection" title="Mueller’s Web: The UAE-Trump Connection" src="/img/nov-2016/novresptopfeature.jpg"></a><div class="indepth-doc-wrap"><a href="/topics/spotlight/mueller-probe.html"><h4 class="indepth-feature">Mueller Probe</h4></a><hr><a href="https://interactive.aljazeera.com/aje/2018/visualising-mueller-investigation/"><h2 class="indepth-inner-title">Mueller’s Web: The UAE-Trump Connection</h2></a></div>
+            </div>
+          </div>
+          <div class="col-md-3 col-xs-6 indepth-wrap-col">
+            <div class="indepth-wrapper"><a href="https://interactive.aljazeera.com/aje/2018/Saudi-Arabia-air-raids-on-Yemen/index.html"><img class="indepth-img img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespindepth.jpg';" data-src="/mritems/imagecache/midthumbnail/mritems/Images/2018/3/21/ff1c18d895d84615a88b01a2ee5585e9_18.jpg" alt="Death from above: Every Saudi coalition air raid on Yemen" title="Death from above: Every Saudi coalition air raid on Yemen" src="/img/nov-2016/novresptopfeature.jpg"></a><div class="indepth-doc-wrap"><a href="/topics/country/yemen.html"><h4 class="indepth-feature">Yemen</h4></a><hr><a href="https://interactive.aljazeera.com/aje/2018/Saudi-Arabia-air-raids-on-Yemen/index.html"><h2 class="indepth-inner-title">Death from above: Every Saudi coalition air raid on Yemen</h2></a></div>
+            </div>
+          </div>
+          <div class="col-md-3 col-xs-6 indepth-wrap-col">
+            <div class="indepth-wrapper"><a href="https://interactive.aljazeera.com/aje/2018/100-faces-of-rohingya-refugees/index.html"><img class="indepth-img img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespindepth.jpg';" data-src="/mritems/imagecache/midthumbnail/mritems/Images/2018/3/14/393675e33b6f48859d4b1b8ab92431f5_18.jpg" alt="100 faces of Rohingya refugees" title="100 faces of Rohingya refugees" src="/img/nov-2016/novresptopfeature.jpg"></a><div class="indepth-doc-wrap"><a href="/topics/subjects/rohingya.html"><h4 class="indepth-feature">Rohingya</h4></a><hr><a href="https://interactive.aljazeera.com/aje/2018/100-faces-of-rohingya-refugees/index.html"><h2 class="indepth-inner-title">100 faces of Rohingya refugees</h2></a></div>
+            </div>
+          </div>
+          <div class="col-md-3 col-xs-6 indepth-wrap-col">
+            <div class="indepth-wrapper"><a href="http://palestineremix.com"><img class="indepth-img img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novrespindepth.jpg';" data-src="/mritems/imagecache/midthumbnail/mritems/Images/2014/12/2/20141221323738734_20.jpg" alt="Palestine Remix" title="Palestine Remix" src="/img/nov-2016/novresptopfeature.jpg"></a><div class="indepth-doc-wrap"><a href="/indepth/interactive/"><h4 class="indepth-feature">Interactive</h4></a><hr><a href="http://palestineremix.com"><h2 class="indepth-inner-title">Palestine Remix</h2></a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div></section></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><section class="in-picture" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx"><div class="container">
+    <div class="row">
+      <div class="col-lg-12"><a class="inpicture-title" href="/indepth/inpictures/"><span>in pictures</span></a></div>
+      <div class="col-lg-8">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+          <div class="carousel-inner" role="listbox">
+            <div class="item  active"><a href="/indepth/inpictures/boko-haram-huntress-180410112841843.html"><img class="first-slide" src="/mritems/imagecache/mbdxxlarge/mritems/Images/2018/4/16/12baa8f4688b4458bf41c6861471c00b_18.jpg" alt="Boko Haram huntress" title="Boko Haram huntress"></a><div class="container">
+                <div class="carousel-caption"><a href="/indepth/inpictures/boko-haram-huntress-180410112841843.html"><h2>Boko Haram huntress</h2></a><p>Aisha Bakari Gombi has reached real-life superhero status for her battlefield bravery in her fight against Boko Haram.</p>
+                </div>
+              </div>
+            </div>
+            <div class="item"><a href="/indepth/inpictures/iceland-tourism-epidemic-180409091406089.html"><img class="first-slide" src="/mritems/imagecache/mbdxxlarge/mritems/Images/2018/4/9/311f6b65cc0a49ff8ea5d4cf1df4587c_18.jpg" alt="Iceland: The tourism epidemic" title="Iceland: The tourism epidemic"></a><div class="container">
+                <div class="carousel-caption"><a href="/indepth/inpictures/iceland-tourism-epidemic-180409091406089.html"><h2>Iceland faces mass tourism's challenge</h2></a><p>The small North Atlantic island struggles to cope with an influx of visitors, endangering its nature for economic gains.</p>
+                </div>
+              </div>
+            </div>
+            <div class="item"><a href="/indepth/inpictures/violence-returns-dr-congo-ituri-province-180410102912520.html"><img class="first-slide" src="/mritems/imagecache/mbdxxlarge/mritems/Images/2018/4/10/d7a85358f8c64df79fe02d2d4515f675_18.jpg" alt="Violence returns to DR Congo's Ituri province " title="Violence returns to DR Congo's Ituri province "></a><div class="container">
+                <div class="carousel-caption"><a href="/indepth/inpictures/violence-returns-dr-congo-ituri-province-180410102912520.html"><h2>Violence returns to DR Congo's Ituri province </h2></a><p>Recent fighting in country's northeast has forced tens of thousands to flee since December of last year. </p>
+                </div>
+              </div>
+            </div>
+            <div class="item "><a href="/indepth/inpictures/local-foreign-teams-face-robocup-iran-open-180409080826503.html"><img class="first-slide" src="/mritems/imagecache/mbdxxlarge/mritems/Images/2018/4/9/8e23ddcafcfd459d9e911bfeac3d8707_18.jpg" alt="Local and international teams face off at RoboCup Iran Open" title="Local and international teams face off at RoboCup Iran Open"></a><div class="container">
+                <div class="carousel-caption"><a href="/indepth/inpictures/local-foreign-teams-face-robocup-iran-open-180409080826503.html"><h2>Iranian students show off prowess in robotics</h2></a><p>Some 24 teams from 11 countries join hundreds of local teams for 13th edition of the research and education initiative.</p>
+                </div>
+              </div>
+            </div>
+          </div><a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><img class="in-picture-arrow-left" src="/img/nov-2016/In-Picture_Arrow-left.png" alt=""><span class="sr-only">Previous</span></a><a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><img class="in-picture-arrow-right" src="/img/nov-2016/In-Picture_Arrow.png" alt=""><span class="sr-only">Next</span></a></div>
+      </div>
+      <div class="col-lg-4 in-picure-aside"><a href="https://www.instagram.com/aljazeeraenglish/" class="in-picture-follow"><div class="instagram-wrapper">
+            <div class="follow-img-wrap">
+              <div class="in-picture-follow-img"><img class="img-responsives" src="/img/nov-2016/follow-instagram.png" alt=""></div>
+            </div>
+            <div class="follow-txt-wrap">
+              <div class="in-picture-follow-txt">
+                <h3>follow us on instagram</h3>
+                <p>@aljazeeraenglish</p>
+              </div>
+            </div>
+          </div></a><div class="in-picture-adv" id="bottomsmallad"></div>
+      </div>
+    </div>
+  </div></section></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><section class="human-stories" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx"><div class="container">
+    <div class="row">
+      <div class="col-md-12"><a class="humanStories-title" href="/topics/country/yemen.html"><span>Yemen</span></a></div>
+    </div>
+    <div class="human-stories-wrap">
+      <div class="row">
+        <div class="col-md-3 col-sm-6 human-stories-wrap">
+          <div class="human-stories-caption"><a href="/news/2018/04/senators-doubt-benefit-support-saudi-arabia-yemen-180418085443641.html"><h2 class="human-stories-cap-title">US senators grill officials over Saudi war in Yemen</h2></a></div><a href="/news/2018/04/senators-doubt-benefit-support-saudi-arabia-yemen-180418085443641.html"><div class="overlays-human"><img class="img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novresphumanstories.jpg';" data-src="/mritems/imagecache/VerticalMedium/mritems/Images/2018/3/25/a73398d888e04a8591b877f395e823a3_18.jpg" alt="Senators doubt benefit of US support for Saudi Arabia in Yemen" title="Senators doubt benefit of US support for Saudi Arabia in Yemen" src="/img/nov-2016/novresptopfeature.jpg"></div></a></div>
+        <div class="col-md-3 col-sm-6 human-stories-wrap">
+          <div class="human-stories-caption"><a href="/news/2018/04/relaunch-yemen-peace-talks-plan-months-180417172100916.html"><h2 class="human-stories-cap-title">UN to relaunch Yemen peace talks plan within two months</h2></a></div><a href="/news/2018/04/relaunch-yemen-peace-talks-plan-months-180417172100916.html"><div class="overlays-human"><img class="img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novresphumanstories.jpg';" data-src="/mritems/imagecache/VerticalMedium/mritems/Images/2018/4/17/3ac9277c836847f68f6be8798b5ce914_18.jpg" alt="UN to relaunch Yemen peace talks plan within two months" title="UN to relaunch Yemen peace talks plan within two months" src="/img/nov-2016/novresptopfeature.jpg"></div></a></div>
+        <div class="col-md-3 col-sm-6 human-stories-wrap">
+          <div class="human-stories-caption"><a href="/programmes/insidestory/2018/04/arabs-solve-problems-180415182635251.html"><h2 class="human-stories-cap-title">Can the Arab League solve the region's problems?</h2></a></div><a href="/programmes/insidestory/2018/04/arabs-solve-problems-180415182635251.html"><div class="overlays-human"><img class="img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novresphumanstories.jpg';" data-src="/mritems/imagecache/VerticalMedium/mritems/Images/2018/4/15/489bc8e8414a431ea6b2dbc47fb0cc46_18.jpg" alt="Can the Arab League solve the region's problems?" title="Can the Arab League solve the region's problems?" src="/img/nov-2016/novresptopfeature.jpg"></div></a></div>
+        <div class="col-md-3 col-sm-6 human-stories-wrap">
+          <div class="human-stories-caption"><a href="/news/2018/04/yemen-houthi-rebels-fire-ballistic-missile-saudi-capital-180411153418562.html"><h2 class="human-stories-cap-title">Yemen's Houthi rebels fire ballistic missile at Saudi capital</h2></a></div><a href="/news/2018/04/yemen-houthi-rebels-fire-ballistic-missile-saudi-capital-180411153418562.html"><div class="overlays-human"><img class="img-responsive lazy" onerror="this.onerror=null;this.src='/img/nov-2016/novresphumanstories.jpg';" data-src="/mritems/imagecache/VerticalMedium/mritems/Images/2017/12/19/02628407cdc74162b7293d8993af3545_18.jpg" alt="Yemen's Houthi rebels fire ballistic missile at Saudi capital" title="Yemen's Houthi rebels fire ballistic missile at Saudi capital" src="/img/nov-2016/novresptopfeature.jpg"></div></a></div>
+      </div>
+    </div>
+  </div></section></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div></div>
+</div>
+
+  <!-- footer tags -->
+  <!-- googleoff: index -->
+  <div><div><div><div><div style="width:100%"><div><div><div style=";border-style:none"><div class="footer-top-socials">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="col-md-6 footer-logo pull-left">
+					<img alt="Al Jazeera" class="alj-footer-logo" id="footer-logo" src="/img/nov-2016/aje-logo-footer.png"></div>
+				<div class="col-md-6 footer-socials pull-right">
+					<ul class="footer-nav-main" id="footer-nav-main">
+						<li>
+							<a href="/news/">News</a></li>
+						<li>
+							<a href="/programmes/">Programmes</a></li>
+						<li>
+							<a href="/indepth/opinion/">Opinion</a></li>
+						<li>
+							<a href="/aboutus/">About</a></li>
+						<li>
+							<a href="/investigations/">Investigations</a></li>
+						<li class="for-mobile" style="display: none;">
+							<a href="/contactus/">Contact Us</a></li>
+						<li class="last m-hide">
+							<a href="http://video.aljazeera.com/channels/eng" target="_blank">Video</a></li>
+					</ul>
+					<ul id="footer-nav-social">
+						<li>
+							<a class="icon-facebook" href="http://www.facebook.com/aljazeera" target="_blank">Facebook</a></li>
+						<li>
+							<a class="icon-twitter" href="http://twitter.com/ajenglish" target="_blank">Twitter</a></li>
+						<li>
+							<a class="icon-google" href="http://plus.google.com/+aljazeera" target="_blank">Google+</a></li>
+						<li>
+							<a class="icon-rss" href="/xml/rss/all.xml" target="_blank">RSS</a></li>
+						<li>
+							<a class="icon-pod" href="/programmes/Podcasts.html" target="_blank">Podcast</a></li>
+						<li>
+							<a class="icon-youtube" href="https://www.youtube.com/user/AlJazeeraEnglish?sub_confirmation=1" target="_blank">YouTube</a></li>
+						<li>
+							<a class="Snapchat" href="https://www.snapchat.com/add/AJENews" target="_blank">SnapChat</a></li>
+					</ul>
+					<!-- end .social --></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-sm-12 footer-links">
+				<div class="col-md-3 col-sm-6">
+					<h3>
+						About</h3>
+					<ul class="list">
+						<li>
+							<a href="/aboutus/">About Us</a></li>
+						<li>
+							<a href="http://pr.aljazeera.com/" target="_blank">Press Office</a></li>
+						<li>
+							<a href="/pressoffice/2012/04/2012416161854868952.html">Awards</a></li>
+						<li>
+							<a href="/aboutus/2006/11/2008525185733692771.html">Code of Ethics</a></li>
+						<li>
+							<a href="/aboutus/2011/01/20111168582648190.html">Terms and Conditions</a></li>
+						<li>
+							<a href="/aboutus/2011/01/201111681520872288.html">Community Guidelines</a></li>
+						<li>
+							<a href="http://careers.aljazeera.net/en/" target="_blank">Work for us</a></li>
+						<li>
+							<a href="/hraquality" target="_blank">HR Quality</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<h3>
+						Connect</h3>
+					<ul class="list">
+						<li>
+							<a href="/contactus/">Contact Us</a></li>
+						<li>
+							<a href="/connect/">Apps</a></li>
+						<li>
+							<a href="/aboutus/follow-us.html">Social</a></li>
+						<li>
+							<a href="http://sat.aljazeera.net/en">Channel Finder</a></li>
+						<li>
+							<a href="/watch_now/epgschedule.html">TV Schedule</a></li>
+						<li>
+							<a href="/programmes/Podcasts.html">Podcasts</a></li>
+						<li>
+							<a href="/newsletter">Newsletter</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<h3>
+						Our Channels</h3>
+					<ul class="list">
+						<li>
+							<a href="http://aljazeera.net" target="_blank">Al Jazeera Arabic</a></li>
+						<li>
+							<a href="https://www.aljazeera.com" target="_blank">Al Jazeera English</a></li>
+						<li>
+							<a href="http://mubasher.aljazeera.net" target="_blank">Al Jazeera Mubasher</a></li>
+						<li>
+							<a href="http://doc.aljazeera.net" target="_blank">Al Jazeera Documentary</a></li>
+						<li>
+							<a href="http://balkans.aljazeera.net" target="_blank">Al Jazeera Balkans</a></li>
+						<li>
+							<a href="http://ajplus.net" target="_blank">AJ+</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<h3>
+						Our Network</h3>
+					<ul class="list">
+						<li>
+							<a href="http://www.jetty.fm" target="_blank">Jetty</a></li>
+						<li>
+							<a href="http://studies.aljazeera.net/en/" target="_blank">Al Jazeera Centre for Studies</a></li>
+						<li>
+							<a href="http://training.aljazeera.net" target="_blank">Al Jazeera Media Institute</a></li>
+						<li>
+							<a href="http://liberties.aljazeera.com/en" target="_blank">Al Jazeera Centre for Public Liberties &amp; Human Rights</a></li>
+						<li>
+							<a href="http://forum.aljazeera.net" target="_blank">Al Jazeera Forum</a></li>
+						<li>
+							<a href="http://festival.aljazeera.net" target="_blank">Al Jazeera Film Festival</a></li>
+						<li>
+							<a href="http://learning.aljazeera.net" target="_blank">Al Jazeera Learning</a></li>
+						<li>
+							<a href="http://partners.aljazeera.net" target="_blank">Al Jazeera Hotel Partners</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-12 col-xs-12 footer-copyright">
+				<p>
+					© 2018 Al Jazeera Media Network</p>
+			</div>
+		</div>
+	</div>
+</div>
+<p>
+	&nbsp;</p>
+</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+  <!-- googleon: index -->
+  <!-- The content included from BS Home footer file -->
+ <script src="/assets/scripts/bootstrap-min.js" type="text/javascript"></script>
+
+<script src="/assets/scripts/bs-custom-scriptv2.js?x=165"></script>
+
+<!-- Twitter single-event website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nwc7o', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nwc7o&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nwc7o&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
+<!-- End Twitter single-event website tag code --> 
+
+<div id="topad" style="display:none;">  
+<div id="div-gpt-ad-1430377943388-0">  
+ <script type="text/javascript">
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+</script>
+</div>
+</div>
+
+<div id="rightlongad" style="display:none;">
+<div id="div-gpt-ad-1430377943388-1">  
+ <script type="text/javascript">	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+</script>
+</div>
+</div>
+
+<div id="bottomsmallads" style="display:none;">
+<div id="div-gpt-ad-1430377943388-2">  
+ <script type="text/javascript">	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-2'); 
+});
+</script>
+</div>
+</div>
+
+<script type="text/javascript">
+var screenw = $(window).width();
+	try {
+        var topDiv = document.getElementById("topdivad");
+	var mobadDiv = document.getElementById("mobiletopad");
+	var RightDiv = document.getElementById("toprightlongad");
+	var BottomDiv = document.getElementById("bottomsmallad");
+	if (screenw > 767) {
+	topDiv.innerHTML = document.getElementById("topad").innerHTML;
+	}
+	 if (screenw < 768) {
+	mobadDiv.innerHTML = document.getElementById("topad").innerHTML;
+	}  
+	RightDiv.innerHTML = document.getElementById("rightlongad").innerHTML;  
+        BottomDiv.innerHTML = document.getElementById("bottomsmallads").innerHTML;               
+        document.getElementById("topad").innerHTML = "";
+	document.getElementById("rightlongad").innerHTML = "";
+	document.getElementById("bottomsmallads").innerHTML = "";
+	}
+	catch(err) {
+    		
+	}
+</script>
+<!-- content from BS Index Footer-->
+<script type="text/javascript" src="/assets/scripts/jquery.lazy.min.js"></script>
+<script type="text/javascript" src="/assets/scripts/jquery.lazy.plugins.min.js" async></script>
+
+<script>
+        $(function() {   
+	   
+            $('img.lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "/assets/images/novresptopfeature.jpg",
+		visibleOnly: true
+                
+            });
+
+	$('.thumbnails-container .lazy').lazy({
+                effect: "fadeIn",
+                effectTime: 1000,
+		defaultImage: "/assets/images/novresptopfeature.jpg",
+		appendScroll: $('.thumbnails-container'), 
+		visibleOnly: true
+                
+            });  
+        });
+
+    </script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/944250150/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Of Google Code for Remarketing Tag -->
+
+<!-- Google Code for PVE Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 944250150;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "qHeuCOSxnF8QprqgwgM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/944250150/?label=qHeuCOSxnF8QprqgwgM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Of Google Code for PVE Conversion Page -->
+
+<!-- Chartbeat Analytics -->
+<script type='text/javascript'>
+    var _sf_async_config={};
+    var _url = "";
+
+    try {
+        _url = getMetaContentByName("url");
+	_url = _url.replace("https://www.aljazeera.com","");
+        if (!_url)
+            _url = window.location.pathname;
+    }
+    catch (Error) {
+        console.log(Error);
+    }
+
+    _sf_async_config.uid = 3291;
+    _sf_async_config.domain = 'aljazeera.com';
+    _sf_async_config.path = _url;
+    _sf_async_config.playerdomain = 'players.brightcove.net';
+    
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<!-- End Chartbeat Analytics -->
+<!-- Start MouseFlow analytics -->
+<script type="text/javascript">
+if(/Mobile|iPhone|iPod|BlackBerry|nokia|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+var _mfq = _mfq || [];
+(function()
+{ var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true; mf.src = "//cdn.mouseflow.com/projects/f9672d00-7a4d-4e54-8581-ee611286a05d.js"; document.getElementsByTagName("head")[0].appendChild(mf); }
+)();}
+var mouseflowPath = document.location.pathname;
+if ($(window).width() <= 767) mouseflowPath += "/smartphone";
+</script>
+<!-- End MouseFlow analytics -->
+ <!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1615344-7', 'auto');
+if (window.location.protocol == 'https:') {
+   ga('set', 'dimension1', 'https');
+   }
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<!-- Start QCRI -->
+<script type="text/javascript">
+var owa_sampleRate = 1.0;
+var owa_baseUrl = '//track.qcri.org/';
+var owa_cmds = owa_cmds || [];
+owa_cmds.push(['setSiteId', 'www.aljazeera.com']);
+owa_cmds.push(['setCustomVar', 1, 'sampleRate', owa_sampleRate, 'page']);
+owa_cmds.push(['trackPageView']);
+ 
+(function() {
+	function load_owa() {	
+		var s = document.createElement('script');
+		s.type = 'text/javascript'; s.async = true;
+		s.src = owa_baseUrl + 'v2-track-min.js';
+		var x = document.getElementsByTagName('script')[0];
+		x.parentNode.insertBefore(s, x);
+		
+	}
+	var pageURL = 'https://www.aljazeera.com' + window.location.pathname;	if (pageURL.indexOf("opinion") > 0 || pageURL.indexOf("middleeast") > 0){
+
+		if( owa_sampleRate == 1.0 || Math.random() > (1.0 - owa_sampleRate) ) {
+			if (window.attachEvent) {
+		    	window.attachEvent('onload', load_owa);
+			} else {
+		    	window.addEventListener('load', load_owa, false);
+			}
+		}
+	}
+}());
+</script><!-- End QCRI -->
+
+<!-- Start --><script> 
+(function(a,b,c,d,e){function f(){var a=b.createElement("script");a.async=!0;
+a.src="//radar.cedexis.com/1/15249/radar.js";b.body.appendChild(a)}/\bMSIE 6/i
+.test(a.navigator.userAgent)||(a[c]?a[c](e,f,!1):a[d]&&a[d]("on"+e,f))})
+(window,document,"addEventListener","attachEvent","load");
+</script>  
+<!-- End -->
+<script type="text/javascript">
+$('#showing-on-now').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Now Link - Masthead');
+});
+$('#watch-now-link').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Link - Masthead');
+});
+$('#watchlive').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Icon - Top - Mobile');
+});
+$('#showing-on-next').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Next Link - Masthead');
+});
+$('#nav-topics').on('click', function() {
+  ga('send', 'event', 'Topics', 'click', 'Top Topics Bar - Masthead');
+});
+$('#weatherwidget').on('click', function() {
+  ga('send', 'event', 'Weather', 'click', 'Weather Widget - Masthead');
+});
+$('#SocialMediaIconsID').on('click', function() {
+  ga('Site Social Links','click','Top Social Icons - Masthead');
+});
+$('.live-watch').on('click', function() {
+  ga('send','event','Watch Live','click','Watch Now Link - Top Live Menu');
+});
+$('.live-listen').on('click', function() {
+  ga('send','event','Listen Live','click','Listen Now Link - Top Live Menu');
+});
+$('.TVScheduleLink').on('click', function() {
+  ga('send','event','TVSchedule','click','TVSchedule - Top Live Menu');
+});
+</script> 
+
+
+
+     <!--PageLoadedSucessfully-->
+    </form>
+</body>
+</html>

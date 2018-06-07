@@ -1,0 +1,14 @@
+#heroku #memory #rails #ruby 
+Heroku is a great tool to launch a new app easily. However, dynos can quickly reach their limit if your app is memory intensive. It was the case of my Rails app and I started to spend way more money than expected! 
+If you have already optimized memory following those Heroku tips , it's time to find another solution to avoid spending too much money. How to restart Heroku dynos periodically 
+One efficient workaround is to restart dynos when the memory limit is close. Unfortunately, you will have to pass the whole day (and night!) in front of your computer if your app is leaking memory! 
+The solution is to create a scheduled task to restart the dynos consuming too much memory before they hit the limit. Write a task in your app 
+First, add the platform-api gem to your Rails app: gem 'platform-api' bundle install 
+Create an OAuth token using the heroku-oauth toolbelt plugin: $ heroku plugins:install heroku-cli-oauth $ heroku authorizations:create -d "Platform API example token" Created OAuth authorization. ID: 2f01aac0-e9d3-4773-af4e-3e510aa006ca Description: Platform API example token Scope: global Token: e7dd6ad7-3c6a-411e-a2be-c9fe52ac7ed2 
+Then, create a scheduler.rake file in the lib/tasks folder of your Rails app. require 'platform-api' task :restart_dyno => :environment do puts "task restart_worker is on" heroku = PlatformAPI . connect_oauth ( YOUR OAUTH TOKEN ) heroku . dyno . restart ( "APP_NAME" , "web.1" ) end 
+You can specify which dyno you want to restart by passing its name. According to the documentation , you can also restart all dynos at the same time: require 'platform-api' task :restart_dyno => :environment do puts "task restart_worker is on" heroku = PlatformAPI . connect_oauth ( YOUR OAUTH TOKEN ) heroku . dyno . restart_all ( "APP_NAME" ) end Schedule your task 
+In order to perform a task on a repetitive basis, you will have to install the Heroku Scheduler add-on . 
+The Scheduler comes with a frequency limitation: you can only choose between "Daily", "Hourly" or "Every 10 minutes". 
+In case those frequencies are not ideal regarding your memory consumption, you can add a condition in your task to match the frequency you want. For example, if you want to restart your dyno twice a day: require 'platform-api' task :restart_dyno => :environment do t = Time . now . day . strftime ( '%H' ) if t == "07" or t == "14" puts "task restart_worker is on" heroku = PlatformAPI . connect_oauth ( YOUR OAUTH TOKEN ) heroku . dyno . restart ( "APP_NAME" , "web.1" ) end end 
+Once you have defined your frequency, add a new job to the Scheduler: rake restart_dyno . 
+Now, you will have your dynos restarting automatically before hitting the memory limit. If you have any questions, feel free to contact me on Twitter . Did you find this post useful? Show some love! 

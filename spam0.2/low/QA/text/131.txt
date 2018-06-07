@@ -1,0 +1,13 @@
+Reuters
+WASHINGTON
+Just months before the country's next general election, US senators said Russian cyber attacks on the voting system were unabated and called for urgent action and funding on Tuesday to help states battle foreign attempts to intervene in US democracy.
+The Senate Intelligence Committee released its first draft recommendations on how to prevent foreign hacking of US elections, calling on Congress to provide funding to help states tighten security after spending more than a year investigating Russian attempts to target the voting system in 2016.
+"We need to be more effective at deterring our adversaries. The federal government should partner with the states to truly secure their systems,"Senator Richard Burr, the Republican chairman of the Senate Intelligence Committee, told a news conference.
+US intelligence officials have repeatedly warned that they expect Russia or others to attempt to meddle in the November 2018 midterm elections, when control of both houses of Congress and a host of state and local offices are at stake.
+US intelligence agencies determined that Moscow interfered to boost Republican President Donald Trump's chances of being elected in 2016, allegations that have shadowed his presidency.
+US elections, including for federal offices, are conducted by the individual states.
+Federal officials said 21 of the 50 states experienced probing of their election systems from Russian hackers in 2016 and a small number of networks were compromised. Burr said there was no evidence any vote was changed but said warnings did not provide enough information or always go to the right person.
+Federal officials"have made great strides"but must do more, Burr said, promising to push for additional funding as soon as this week for technical changes like ensuring there are paper records for every US voting machine.
+The committee's initial findings amounted to the most comprehensive and bipartisan recommendations to improve election cyber security since 2016. Largely reiterating ideas championed by some Democrats, security experts and state officials, they were more high-level goals than specific plans.
+The draft recommendations called for clearer channels of communication between federal, state and local officials.
+"We were all disappointed that states, the federal government and the Department of Homeland Security were not more on their game in the 2016 elections,"Democratic Senator Mark Warner, the committee's vice chairman, said.

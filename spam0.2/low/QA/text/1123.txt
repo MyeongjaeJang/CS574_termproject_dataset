@@ -1,0 +1,21 @@
+AFP
+Beijing
+Chinese people and foreign firms are girding for a weekend deadline that will curb the use of unlicensed software to circumvent internet controls, as the government plugs holes in its"Great Firewall".
+A virtual private network (VPN) can tunnel through the country's sophisticated barrier of online filters to access the global internet.
+VPNs give users a way to see blocked websites such as Facebook, Twitter, Google and Western news outlets, as well as certain business network tools such as timesheets, email and directories.
+But new government regulations unveiled last year sent chills among users of the software, with a March 31 deadline for companies and individuals to only use government-approved VPNs.
+Currently, many foreign companies have their own VPN servers in locations outside of China. But in the future, dedicated lines can only be provided by China's three telecom operators.
+Critics have slammed the new policy as a revenue grab that will eliminate cheaper VPN options and make internet users more vulnerable to surveillance.
+But some companies are still planning to comply.
+"We will apply for a VPN line with (the government)," the chief executive of a foreign-owned technology company told AFP.
+"As a company that is globally-focused based in Beijing, I think that's the best option... because we don't want to break the rules or have our VPN access disrupted," she said, requesting anonymity.
+Some embassies in Beijing experienced disruptions to their communications due to restrictions on VPN usage late last year, prompting the European Union delegation to send a letter to the government to complain, diplomatic sources told AFP.
+American Chamber of Commerce Shanghai President Kenneth Jarrett warned that foreign companies and their employees could"bear the brunt of the new policies".
+"Foreign companies, especially entrepreneurs and smaller companies rely on overseas platforms such as Google Analytics and Google Scholar," Jarrett told AFP.
+"Limiting access to affordable VPNs will make it harder for these companies to operate efficiently and just adds to the frustration of doing business in China."
+The Ministry of Industry and Information Technology has dismissed concerns that using state-approved providers could jeopardise the security of private data, saying they"are not able to see information related to your business".
+A member of China-based anti-censorship group GreatFire.org, which tracks internet restrictions, said the new rules are aimed at wiping out low-cost Chinese VPN providers and increasing control over access to information.
+"Are foreign companies at the mercy of Chinese regulators? Yes, probably. Will there be more surveillance? Absolutely," said the member, who uses the alias Charlie Smith.
+Under the new licensing regulations, it is unclear whether companies or individuals will be punished for using unauthorised VPNs, or if the software will be blocked.
+But on December 21, Chinese citizen Wu Xiangyang from the south Guangxi Zhuang autonomous region was given a five-and-a-half-year prison sentence and 500,000 yuan ($76,000) fine.
+Wu"illegally profited" from setting up VPN servers and selling software"without obtaining relevant business licenses", according to a news site managed by the Supreme People's Procuratorate.

@@ -1,0 +1,18 @@
+
+All of us use "==" daily for performing the comparison in JavaScript to execute particular code block only when certain condition meets. 
+But do you know how "==" actually works in JavaScript? 
+In JavaScript "==" compare number values instead of boolean values by performing implicit coercion. 
+Here is a simple example : const a = 10 ; if ( a == "10" ){ console . log ( "Woo! Condition is true." ); } 
+In above block of code we're comparing string value of "10" with a integer value of const variable a which is 10.So here, JavaScript will first perform implicit coercion on non-number type value i.e. "10" and will convert it into a number and then perform comparsion. Why you should avoid comparison of boolean values with "=="? 
+We are now aware of the fact that "==" compare integer value type not boolean type.So comparing boolean values with "==" will not give desired result to you every time. Examples of Wrong Implementation for value check : 
+Example 1 const a = 10; if(a == true){ console.log("Condition is true."); }else{ console.log("Condition is false."); } 
+Number equivalent of true is 1. False : 10 is not equal to 1. 
+Example 2 const a = "1"; if(a == true){ console.log("Condition is true."); }else{ console.log("Condition is false."); } 
+Number equivalent of true is 1 and a is 1. True : 1 is equal to 1. Examples of Correct Implementation for value check : 
+Example 1 const a = 10; if(a){ console.log("Condition is true."); }else{ console.log("Condition is false."); } 
+True : Because the boolean equivalent of a is true. 
+Example 2 const a = "1"; if(a){ console.log("Condition is true."); }else{ console.log("Condition is false."); } 
+True : Because the boolean equivalent of a is true. 
+Example 3 const a = ""; if(a){ console.log("Condition is true."); }else{ console.log("Condition is false."); } 
+False : Because the boolean equivalent of a is false. Conclusion 
+Try to avoid using boolean values comparison with "==". It will work for you in many cases but it is not a right way to perform a condition check. Did you find this post useful? Show some love! 

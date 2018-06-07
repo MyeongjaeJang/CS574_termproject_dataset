@@ -1,0 +1,3 @@
+#beginners #python #learning 
+About once a week, someone new to their journey writing code reaches out to me asking if I have know of any resources to learn Python. Since I'm currently teaching an Intro to Python class at NYU, this question has become a daily occurrence so I figured I'd compile a list of my favorites. 
+Below is a list of recommend resources for learning Python originally posted to my GitHub repository for my current class I'm teaching. Just getting started 

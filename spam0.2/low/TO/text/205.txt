@@ -1,0 +1,12 @@
+
+So you have a robots.txt and a sitemap.xml and a LICENSE and a README and so on. But do you have anything for us humans? humans.txt 
+If you couldn't guess, humans.txt is named in response to the familiar robots.txt file, and like its sibling it lives in the root of your website. As such, it doesn't tend to exist in non-web projects. 
+What's it for? It's for you. You can put anything you like in it - that's what it's for: Credit yourself and your team. Give your favourite text editor a shout-out. Dedicate the site to a fallen companion. 
+Remember not to slag off your employer, and don't include this file at all without the client's permission. 
+Here's one of mine: moopet.net/humans.txt 
+Read more about humans.txt ORIGINSTORY.md 
+Once upon a time, someone said the biggest question they had when checking out a new project was how it got its name. You know, like everyone always asks about why the O'Reilly books have animals on their covers . 💚 Aure Moser 💚 @auremoser often, i wish there were a file in OSS called ORIGINSTORY.md, explaining why you named your project as such, what puns you tried to play on 01:25 AM - 30 Jun 2016 172344 
+Here's one of mine: moopet/burdock/[...]/ORIGINSTORY.md 
+To be honest, ORIGINSTORY.md doesn't have a lot of representation yet - but you can help to change that. Everyone likes a little trivia, right? foaf 
+Friend-Of-A-Friend still exists, but it never reached the kind of critical mass you'd need to make it really seem worthwhile. It's another layer of interconnectedness between articles and authors and subjects and you-name-its; it's much more complex than the other static files. As another hypertext-specific file, it's not relevant to non-web projects. 
+Cover photo by doctor_bob at morguefile.com Did you find this post useful? Show some love! 

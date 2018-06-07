@@ -1,0 +1,15 @@
+
+When I wrote test code in Laravel, I encountered a problem. 
+My API returns multibyte text. By default, PHP's json_encode escapes multibyte text so my API returns like this: curl localhost:8000/api/post/1 # Expected {"title":"日本語"} # Actual {"title":"\u65e5\u672c\u8a9e"} 
+Laravel's $response->assertSeeText('日本語') does not work because it compares UTF-8 decoded string. Example 
+This test passes: <?php use App\User ; use Tests\TestCase ; class UserTest extends TestCase { public function testCanCreateUser () { User :: create ([ 'name' => '太郎' , 'gender' => 'male' , ]); $this -> assertDatabaseHas ( 'users' , [ 'name' => '太郎' , 'gender' => 'male' , ]); } } 
+(TODO: In my case, I expected this test fail... but passed.) 
+This test, returns JSON API, fails: <?php use App\User ; use Tests\TestCase ; class UserTest extends TestCase { public function testUserProfileApi () { $user = User :: create ([ 'name' => '太郎' , 'sex' => 'male' , ]); $this -> actingAs ( $user ) -> get ( '/api/me' ) -> assertSeeText ( '太郎' ); } } 
+Reports the following error: 1 ) UserTest :: testCanCreateUser Failed asserting that '{"name":" \ u592a \ u90ce","sex":"male"}' contains "太郎" . 
+Certainly, the text "太郎" is escaped. Solution 
+Simply, assert the result using json_encode . <?php use App\User ; //... $this -> actingAs ( $user ) -> get ( '/api/me' ) -> assertSeeText ( json_encode ( '太郎' )); // ... 
+You might wonder why I don't use utf8_encode , but in my case it failed. Maybe that depends on php.ini . 
+There are other failing cases related to multibyte, in my case writing OAuth testing using mock object. Then you can try e('太郎') . My problem was solved by this. 
+We can avoid using multibyte string in testing, but sometimes we need to test such strings. Refs 
+I researched a lot of websites, including Chinese websites like 思否 , finally found in Stack Overflow as usual. 
+I sometimes run into Chinese articles when solving these multibyte problem. I cannot understand accurately but by Kanji I can guess what they say. Did you find this post useful? Show some love! 

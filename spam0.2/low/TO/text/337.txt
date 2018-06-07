@@ -1,0 +1,13 @@
+#docker #git #devops 
+Git is currently the default choice for source control. We may take that for granted today, but it was not always a clear winner. Mercurial was a serious contender for the DVCS crown, but perhaps the fiercest competition came from the status quo . 
+Some of the arguments that I am hearing about Docker today remind me of the arguments against Git in 2010 while it was rocketing towards ubiquity . 
+Arguments like... "My team is already invested in tech x..." "I don't particularly want my source control to be distributed..." "But we hardly ever branch..." 
+The heart of these arguments is the same: 
+"It solves a problem that I don't have" 
+Fair enough. Git and Docker both have a significant learning curve and can be a costly switch. This is not a change you should take lightly. 
+But m ybe... 
+There are clear benefits to both Git and Docker . Containers are safe, convenient, and consistent for developers and deployments. They eliminate certain classes of problems, and they lower the barrier to innovation . I don't think there is much argument over that. The disagreement is over the value of those benefits. 
+That is why I am reminded of Git...and Cloud vs. On-Prem ...and Java vs. C++ before that. 
+Point is: Docker may not address your biggest concerns, but it might still be worth it. 
+What do you think? 
+Will Docker be requisite for programmers in the same way that Git is today? Did you find this post useful? Show some love! 

@@ -1,0 +1,6 @@
+Reuters
+Bank of America Corp will pay a $42 million fine and admitted wrongdoing to settle claims by New York state that it fraudulently routed millions of client orders to trade stocks to outside firms, including a firm once run by Bernard Madoff.
+New York Attorney General Eric Schneiderman, who announced the settlement on Friday, said Bank of America Merrill Lynch admitted that it systematically misled clients about how their stock orders were handled from March 2008 to May 2013.
+He said the bank concealed it was routing client orders to so-called electronic liquidity providers such as Madoff Securities, Citadel Securities, D.E. Shaw, Knight Capital and Two Sigma Securities, even as it told clients it was processing the trades in-house.
+Schneiderman said Bank of America went so far as to alter post-trade reports to conceal its"masking" scheme.
+"Bank of America Merrill Lynch went to astonishing lengths to defraud its own institutional clients about who was seeing and filling their orders, who was trading in its dark pool, and the capabilities of its electronic trading services," Schneiderman said in a statement.

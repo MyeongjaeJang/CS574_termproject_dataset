@@ -1,0 +1,6 @@
+
+We are proud to announce our sustaining community sponsors for April. Our wonderful sponsors are vital to the health of dev.to and it is great to work with companies contributing so much to the ecosystem. Digital Ocean 
+Digital Ocean is a much-loved cloud computing platform. I'm always impressed by how well-built and well-documented the Digital Ocean core products are. It's easier said than done, and they've been able to stay ahead of the curve. Flatiron School 
+Flatiron School is a code school/bootcamp with in-person and online courses and programs. I personally know several incredible developers who have come out of the Flatiron School, and I've been impressed by how they approach software development education with care and pragmatism. Bugsnag 
+Bugsnag provides error monitoring for web, mobile, and server apps. It is lightweight on the frontend and very sophisticated on the backend. It integrates with pretty much everything and has a free tier. All around great people on the team as well. 
+These three organizations are helping us build the best community we can. I urge you to check out their offerings if you are in the market for their services. Did you find this post useful? Show some love! 

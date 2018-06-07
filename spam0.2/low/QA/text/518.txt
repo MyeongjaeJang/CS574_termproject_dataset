@@ -1,0 +1,19 @@
+AFP
+Blazing fast 5G wireless networks promise to unlock the potential of internet connected devices, or the Internet of Things -- making driverless cars and talking fridges a reality.
+With most European operators targeting 2020 for its rollout, 5G is the term on everyone's lips at the Mobile World Congress in Barcelona.
+Like the 4G networks currently widely available, 5G is based on radio frequencies, the same used for television broadcasts, walkie-talkies, wi-fi signals or a garage door remote control.
+It will use a higher radio frequency which are not in use and can move data at a much faster speed.
+But since higher radio frequencies don't travel as far as lower frequencies, it will rely on denser arrays of small antennas and artificial intelligence to offer data speeds up to 50 or 100 times faster than current 4G networks.
+5G will allow people to send texts, make calls, and browse the web as always but will dramatically increase the speed at which data is transferred across the network.
+This will make it easier to download and upload Ultra HD and 3D video and allow smartphones to run more complex mobile internet apps.
+5G will also make room for the thousands of internet-connected devices entering our everyday world.
+The combination of speed and quicker response times could unlock the full capabilities of other hot trends in technology, offering a boost to self-driving cars, drones, virtual reality and the wider Internet of Things.
+Beyond speed, the biggest benefit of 5G is its low latency, or the short lag time between a device pinging the network and getting a response.
+A 5G network virtually eliminates it, meaning a surgeon may not need to be in the same room as a patient in the future for example.
+The tech industry is counting on 5G to trigger a wave of growth in equipment sales and mobile services.
+For years telecom operators and device makers have debated common standards, which will make it possible to have a similar network everywhere and develop products that could be targeted to it.
+The industry is still fighting over the nitty-gritty details of the technology itself and a lack of common standards could slow its adoption.
+5G compatible phones are still not on the market and in many countries 4G deployment is not yet complete. In a number of African countries it is only just starting.
+Telecoms operators must make a massive investment to deploy 5G.
+Deutsche Telekom CEO Timotheus Hoettges has estimated the cost of providing 5G networks in Europe alone at EUR300 billion to EUR500 billion ($370 billion to $615 billion).
+5G also faces competition from other technologies that may be better suited for the connected devices, such as French firm Sigfox's non-cellular IoT network or LoRa, a rival non-standardised low power wide area (LPWA) offering backed by France-based Orange amongst others.

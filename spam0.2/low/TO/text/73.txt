@@ -1,0 +1,9 @@
+
+In a conversation with a fellow software developer, he stated that all code should have an expiry date. I must say, I like the idea of setting an expiry date for code I write. 
+The author(s) perceived quality of code should determine its expiry date. 
+Some example questions to consider: How stable, complete, and validated were/are the requirements (functional and non-functional) Was the code rushed to production? Or was it developed with care and attention to detail? Is it using an antiquated or experimental technology or exotic/experimental/not widely used programming language? Does it have tests? Was the code written after the tests? Was it reviewed and/or pair programmed? ... 
+Answers to the above example questions and others can help determine until what date code is supposed to be used. By stamping the code with an expiry date, a developer or a team makes a statement on the quality practices used to produce it. 
+Another question is: who should set the expiry date? The developer? The code reviewer? Some other stakeholder? A combination of all? 
+I must say that there is some perversion in this. The expiry date makes anyone using a piece of code after that date responsible for their actions. Like eating yoghurt after the expiry date. You decide if you want to risk eating it or not. 
+Thye expiry date should be dynamic, if the code gets revisited, refactored this should have an impact on the expiry date. 
+What do you think? 

@@ -1,0 +1,53 @@
+
+So I recently played around with Bitbucket Pipelines to see what its capabilities are and to see whether I could quickly set up (within 1 day) a complete CI/CD pipeline for a React app. Here's the result! 
+Some prerequisites: A Google Cloud account/project, so you can create a Container Registry and Kubernetes Cluster Familiarity with basic gcloud / kubectl commands Step 1: Create remote repository 
+Login with your Bitbucket account and create a repository 
+Once you've clicked Create repository, an empty repository will be available to you. Step 2: Create React app 
+Using create-react-app , create a new React app. 
+We are not going to add any functionality, so leave it as is. 
+You could verify that it has been created successfully by running npm start or yarn start and then browsing to http://localhost:3000 to view it in the browser. Step 3: Push to remote 
+In the newly created React app, initialize a Git repository. Then push all code that is in the folder to the remote, so we can get going with Bitbucket Pipelines. cd <directory-of-react-app> git init git remote add origin https://<username>@bitbucket.org/<username>/<repo-name>.git git add --all git commit -m "Initial commit" git push -u origin master Step 3: Build React app 
+Now in your newly created Bitbucket repository, click on Pipelines. 
+This will give you a screen with some possibilities to choose from a template. Click on Javascript and copy the template that is given. 
+Then in <directory-of-react-app> , use your favorite text editor to create a bitbucket-pipelines.yml and paste the template. 
+Add npm run build to the scripts section to build a production ready version of the React app which we will use later to package the application in a Docker container. image: node:6.9.4 pipelines: default: - step: caches: - node script: - npm install - npm test - npm run build 
+Commit and push the file and verify on Bitbucket whether it is picked up by the Pipelines addon, by clicking on the Pipelines tab. git add bitbucket-pipelines.yml git commit -m "Added bitbucket-pipelines.yml" git push 
+Click Enable to kick off your first build! 
+If all goes well, you should end up with a screen like this. 
+Investigate the logs of the steps executed so you get a feeling with the UI and know where to look when problems occur. Step 4: Build Docker container 
+We want to deploy our React app to Kubernetes, therefore it is required to package the application in a Docker container. 
+Create a Dockerfile in the root of the directory with the following contents: FROM nginx COPY build /usr/share/nginx/html 
+Then in bitbucket-pipelines.yml , enable Docker by adding the following to the top of the file: options: docker: true 
+And add the following lines to the script section to build the container: - docker build -t example-react-app:$BITBUCKET_COMMIT . 
+The $BITBUCKET_COMMIT environment variable automatically gets filled with the commit hash. 
+Commit and push your changes and wait for it to build again. 
+Once again, if all goes well, you should end up with a screen like this. 
+One difference from the previous screen is the docker tab next to the Build tab in the Logs overview. This is the docker daemon that gets launched with your build to be able to run docker commands. Step 5: Push to GCR 
+The next step is to push the Docker container to a registry. We could push this to Docker hub , but because we want to learn new things we will be pushing this to a private Google Container Registry (GCR). 
+Open up the Google Cloud Console and go to Container Registry (under Tools). If asked, enable the API. 
+To be able to push images to the registry from Bitbucket Pipelines, we'll be using a JSON key file to authenticate. 
+Under IAM & admin > Service accounts, create a service account with roles Storage Object Creator and Storage Object Viewer enabled. 
+Once created, in the service account overview, click on the menu in the Options column and click on Create key. Choose JSON as Key type and save the key to your desktop. 
+We're going to inject these credentials into the build as a secured environment variable . 
+Open up the Bitbucket project and click on Settings -> Environment variables and add an environment variable (e.g. GCR_KEY ) with the contents of the JSON key file as value. Check the Secured checkbox and click Add. 
+Then adjust the bitbucket-pipelines.yml so that it looks like this: options: docker: true image: node:6.9.4 pipelines: default: - step: name: Build & Test caches: - node script: # Set IMAGE_NAME variable used throughout step - export IMAGE_NAME=gcr.io/<google-cloud-project-name>/<application-name>:$BITBUCKET_COMMIT # Install npm modules - npm install # Run tests - npm test # Create production build - npm run build # Build Docker - docker build -t $IMAGE_NAME . # Authenticate against Google Cloud Registry using service account JSON key - docker login -u _json_key -p "$GCR_KEY" https://gcr.io - docker push $IMAGE_NAME 
+We've added a few steps to the script section and gave our step a name. The changes are rather self-explanatory, so let's commit and push our changes and wait for the build to run! 
+Once built, you should end up with a screen like this: 
+As can be seen, we're succesfully logged in with the service account and are able to push the container to the registry. Next up, deployment! Step 6: Continuous Deployment Step 6a: Create Kubernetes Cluster 
+Create a Kubernetes cluster and configure your terminal to be able to communicate with it using kubectl . Step 6b: Create initial deployment 
+Create a placeholder Deployment object in Kubernetes by using the following kubectl run command: kubectl run <application-name> --labels="app=<application-name>" --image=gcr.io/<google-cloud-project-name>/<application-name>:latest --replicas=2 --port=80 
+If you then run kubectl get po , you will see that the pods have status ImagePullBackOff , because we haven't pushed a container with tag latest . 
+This will be fixed as soon as we setup the rest of the CD part in our Bitbucket Pipeline. Step 6c: Setup Kubernetes authentication and authorization 
+To authenticate against the Kubernetes cluster we're going to use a service account for Authentication and RBAC for Authorization. Step 6c1: Authentication 
+Create a service account and view the token and CA from the secret it generates: $ kubectl create serviceaccount bitbucket $ kubectl get serviceaccounts bitbucket -o yaml apiVersion: v1 kind: ServiceAccount ... secrets: - name: bitbucket-token-9s6fw $ kubectl get secrets bitbucket-token-9s6fw -o yaml apiVersion: v1 data: ca.crt: <base64-encoded-ca.crt> namespace: ZGVmYXVsdA== token: <base64-encoded-token> kind: Secret ... 
+Copy the value behind ca.crt and create a new Secured environment variable called KUBE_CA in Bitbucket. Do the same for the value behind token and call it KUBE_TOKEN . Step 6c2: Authorization 
+First, make yourself cluster admin by running the following commands ( credits ): ACCOUNT=$(gcloud info --format='value(config.account)') echo $ACCOUNT kubectl create clusterrolebinding owner-cluster-admin-binding --clusterrole cluster-admin --user $ACCOUNT 
+Then create the following Role and RoleBinding objects to allow the serviceaccount to deploy new versions of our app. kind: Role apiVersion: rbac.authorization.k8s.io/v1 metadata: namespace: default name: deploy rules: - apiGroups: ["extensions", "apps"] resources: ["deployments"] verbs: ["get", "update", "patch"] kind: RoleBinding apiVersion: rbac.authorization.k8s.io/v1 metadata: name: deploy-role-binding namespace: default subjects: - kind: ServiceAccount name: bitbucket namespace: default roleRef: kind: Role name: deploy apiGroup: rbac.authorization.k8s.io 
+Once that is done, we can continue with configuring the Pipeline to deploy the new image. Step 6d: Configure Bitbucket Pipeline 
+Add a new step to your bitbucket-pipelines.yml containing the following: - step: name: Deploy to Test deployment: test script: # Set IMAGE_NAME variable used throughout step - export IMAGE_NAME=gcr.io/<google-cloud-project-name>/<app-name>:$BITBUCKET_COMMIT # Download kubectl - curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl - chmod +x ./kubectl - mv ./kubectl /usr/local/bin/kubectl # Configure kubectl - echo $KUBE_TOKEN | base64 --decode > ./kube_token - echo $KUBE_CA | base64 --decode > ./kube_ca - kubectl config set-cluster <cluster-name> --server=<address-of-cluster> --certificate-authority="$(pwd)/kube_ca" - kubectl config set-credentials bitbucket --token="$(cat ./kube_token)" - kubectl config set-context development --cluster=<cluster-name> --user=bitbucket - kubectl config use-context development - kubectl set image deployment/<app-name><app-name>=$IMAGE_NAME 
+This downloads kubectl into the container that is used during the build proces, configures it using information extracted in previous steps and then deploys a new version of the application using kubectl set image . The address of the cluster can be found using kubectl cluster-info . 
+Commit and push these changes and wait for Bitbucket Pipelines to do its magic! 
+(If you are quick enough you can run the following command to follow the status of the rollout) $ kubectl rollout status deployment <app-name> Waiting for rollout to finish: 1 old replicas are pending termination... Waiting for rollout to finish: 1 old replicas are pending termination... Waiting for rollout to finish: 1 of 2 updated replicas are available... Waiting for rollout to finish: 1 of 2 updated replicas are available... deployment "<app-name>" successfully rolled out 
+You can further investigate the pods belonging to the deployment to check whether they are running the correct container by using commands such as kubectl get po and kubectl describe po <pod-name> . That's it! 
+We've setup a complete (but simple) CI/CD chain for a React app using Bitbucket Pipelines and Kubernetes! It took me a bit more than a day to figure some things out because I've made certain parts of the setup more difficult for the sole purpose of learning new things (using service accounts/RBAC over Basic HTTP Auth etc.)! 
+Thanks for reading, happy CI/CD'ing! Did you find this post useful? Show some love! 

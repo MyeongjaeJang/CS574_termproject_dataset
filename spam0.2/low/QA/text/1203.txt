@@ -1,0 +1,12 @@
+Reuters
+MUMBAI/NEW DELHI
+India is exploring new duties on the import of a key smartphone component, according to two government sources, the latest in a series of moves aimed at boosting domestic manufacturing in the world's second-biggest smartphone market.
+India's Ministry of Electronics and Information Technology has mooted a proposal to levy a 10 percent duty on the import of populated printed circuit boards (PCBs), two government officials told Reuters this week, declining to be named as the matter is not public.
+A PCB is a bed for key components such as processors, memory and wireless chip sets that are the heart of an electronic device. Once populated with components, PCBs account for about half the cost of a smartphone. Currently, most manufacturers of smartphones import PCBs which are already loaded with components to India and then assemble them locally.
+If India's finance ministry clears the recommendation on new duties, these could be levied in a matter of days, say government and industry sources, thus making populated PCB imports more expensive and pushing players to locally mount components instead.
+India's finance, electronics and trade ministries did not respond to requests for comment.
+In the near-term, such actions could spur players like Apple Inc to widen their limited manufacturing and assembly capabilities in India and give an edge to those like Korea's Samsung Electronics and homegrown firm Lava, which already have machines to mount components onto PCBs.
+Apple did not immediately respond to a request for comment.
+China's OPPO is also putting up surface mounting machines in a new facility it is building in north India, a company executive told Reuters in a recent interview. The local unit of Foxconn, one of the biggest global contract manufacturers of electronics, also has the capability, according to two industry sources.
+Foxconn was not immediately reachable for comment.
+"This will be a step in a good direction. This is how full-scale manufacturing happens," said S.N. Rai, co-founder of Lava, adding the move will gradually also boost local production of components such as smartphone cameras and screens.

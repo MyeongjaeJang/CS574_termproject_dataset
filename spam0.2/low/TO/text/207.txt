@@ -1,0 +1,11 @@
+
+Hi everyone! Today's objective is to describe and document a bunch of golang patterns. 
+As you know from my previous posts ( go concurrency and go lambdas ), I have recently entered the Go-land and found out quite soon that common idioms I knew from my previous experience did not quite apply to golang. 
+Well, I found out that there are some patters that are so common that in my humble opinion should be presented as part of any beginner guide about golang. All the code in the examples is on github . Group constants 
+The title said it all, we want to group common constants in the same namespace. Chain 
+A chain of suppliers that returns as soon as one of the suppliers returns a non-zero result or an error. The code shows an example in which we need to load a configuration value from one of the possible sources: env variable, config file or a database. We want to stop searching for the config value as soon as a non-zero result is returned. Code for the chain here . Options 
+Options shows a flexible way to construct an object. The major benefit is being able to add more parameters in the future to the object constructor without breaking the clients. In other languages, you would probably use an overloaded constructor or fall back to the builder pattern. Code for the option here . Maybe 
+Maybe is a container which may or may not contain a non-null value. Function type 
+Functions are first class citizen in Golang. They can be used as a type whenever we want to easily implement a Strategy pattern or similar. This pattern is heavily used in the golang http package . Conclusions 
+Thanks for reading! 
+Let me know if you found it useful and if there is a key pattern that should really be part of this list. Did you find this post useful? Show some love! 

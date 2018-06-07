@@ -1,0 +1,17 @@
+Reuters
+WASHINGTON
+Facebook Inc shares fell as much as 6.5 percent on Monday after the main U.S. consumer protection regulator said it was investigating how the social network allowed data of 50 million users to get into the hands of a political consultancy.
+Scrutiny by the U.S. Federal Trade Commission, which generally confirms the existence of an investigation only in cases of significant public interest, adds to pressure from lawmakers in the United States and Europe for Facebook Chief Executive Mark Zuckerberg to explain how his company handles user data.
+Facebook shares briefly dipped below $150 on Monday for the first time since July 2017, before recouping some losses. They were down 3.1 percent at $154.37 in afternoon trading.
+At the day's session low the company had lost $100 billion in market value since March 17, when newspapers first reported that Facebook member data was improperly used by consultants Cambridge Analytica to target U.S. and British voters in close-run elections.
+"FTC takes very seriously recent press reports raising substantial concerns about the privacy practices of Facebook," the regulator said in a statement."Today, the FTC is confirming that it has an open non-public investigation into these practices."
+The investigation is broader than looking into whether Facebook violated a 2011 consent order it reached with the FTC over its privacy practices, a person briefed on the matter told Reuters.
+"We remain strongly committed to protecting people's information," Facebook Deputy Chief Privacy Officer Rob Sherman said in a statement on Monday."We appreciate the opportunity to answer questions the FTC may have."
+If the FTC finds Facebook violated terms of the consent decree, it has the power to fine it thousands of dollars a day per violation, which could add up to billions of dollars.
+The FTC's move to make its probe public comes as lawmakers in the United States and Europe put more pressure on Facebook and Zuckerberg to explain the company's privacy practices.
+"Facebook's failure to protect confidential user information likely violated specific legally binding commitments, but also basic norms and standards," said U.S. Democratic Senator Richard Blumenthal, a member of the Senate Commerce, Science, and Transportation Committee.
+The U.S. Senate Judiciary Committee said on Monday it had invited the CEOs of Facebook, Alphabet Inc and Twitter Inc to testify at an April 10 hearing on data privacy.
+A bipartisan coalition of 37 state attorneys general also wrote to Facebook on Monday, demanding to know about the company's role in the manipulation of users' data by Cambridge Analytica and its policies and procedures for protecting private data.
+The U.S. House Energy and Commerce Committee and U.S. Senate Commerce Committee have already formally asked Zuckerberg to appear at a congressional hearing.
+Earlier in the day in Europe, the European Union Justice Commissioner asked Facebook if the company is"absolutely certain" that the Cambridge Analytica incident could not be repeated.
+Zuckerberg apologized last week for the mistakes the company had made and he promised to restrict developers' access to user information as part of a plan to protect privacy.

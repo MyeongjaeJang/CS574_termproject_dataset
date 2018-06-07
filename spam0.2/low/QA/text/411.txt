@@ -1,0 +1,11 @@
+Tribune News Network
+Doha
+AN automated transcription and translation system developed by Qatar Computing Research Institute (QCRI), part of Hamad Bin Khalifa University, has been awarded the Qatar Foundation Annual Research Conference 2018 Best Innovation Award.
+QCRI's Advanced Transcription System (QATS) automatically converts speech to text using state-of-the-art speech recognition techniques. QATS provides the ability to transcribe Arabic and translate into English, and vice versa.
+The speech transcription has been used by Aljazeera.net for automatic generation of subtitles in video segments for more than three years, and discussions are underway with other potential users. QATS speech recognition system has achieved an accuracy rate of 93 percent for broadcast news reports and more than 70 percent for broadcast conversations.
+The ARC'18 award was accepted by QCRI's Ahmed Ali, who is behind the transcription part of the technology, and Dr Hassan Sajjad, on behalf of the translation system team.
+Ali said QATS speech recognition was built with more than three thousand hours of semi-supervised transcribed speech using deep learning and big data a new milestone for the speech research community.
+"We are proud to see Arabic speech recognition is a world-class technology and mature enough to be trusted in the news room by world leading news organisations. Today, the application handles both modern standard Arabic and dialectal Arabic," Ali said.
+Dr Sajjad said both the transcription and translation systems used in QATS use a deep neural network architecture.
+"The quality of the systems has been recognised worldwide by commercial organisations and research institutes. Having said that, building and delivering this application in Qatar with a focus on Arabic language shows the research and development capabilities of Qatar," Dr Sajjad said.
+QATS' speech recognition has been shown by external evaluators to outperform IBM, Microsoft and Google on modern standard Arabic broadcast news. The technology was nominated for the World Summit Awards 2017 and also won first prize in the 2016 MGB (Multi-Genre Broadcast) Arabic competition.

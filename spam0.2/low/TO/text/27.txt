@@ -1,0 +1,12 @@
+#frontend #webdesign #javascript #css 
+I never liked doing back-end programming. 
+For me it was the means to an end, something that more logical persons loved to solve in order to help our apps do what they should. "Pain" lived there :) and separation of front-end and back-end development was pretty clear - front-end was more creative, while back-end was more logical. 
+Problem when people are talking about front-end today comes from this concept below - most of the web app logic is decoupled from back-end and it is being moved to front-end single page apps and frameworks like React, Vue or Angular. Today most back-end developers moved to front-end. 
+It is important to understand the following - while "the pain" (from my perspective) moved to front-end, not all front-end is like that. Creative front-end still exists, it is still essential for modern web apps and we need to make clear distinction between these two front-end occupations: 
+1) "Creative" front-end is focused on design, templating and mostly CSS scripting with JavaScript that is used for animations and visual interactivity. Appropriate name in 2018. would be "Front-end designers". 
+2) "Logical" front-end which lives between creative FE and back-end. Routing, state management and most of the app logic is now solved through JavaScript. Appropriate name for this profession would be "JavaScript developers / engineers" 
+I am confident that professionals from either of these two groups dislike doing the job from the other one. Just think of all of those JS developers who are in agony when they need to do anything with the advanced CSS. 
+In 2018. this distinction will become even more noticeable. 
+This separation may shock some people, but as a web designer, I have lived through all of them. I have seen webdesign being split to UX, UI and front-end and this is just the next phase. 
+Do you agree or do you think differently? 
+... 

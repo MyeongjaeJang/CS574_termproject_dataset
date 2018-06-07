@@ -1,0 +1,19 @@
+
+To solve these challenges, Microsoft and Google provides products. Microsoft and Google 
+Rather than Azure vs GCP, it's Microsoft vs Google. Why? Microsoft offers "Azure Service Fabric" and Google offers "Kubenetes" which can run anywhere . Azure supports K8s and I am supposed to run Azure Service Fabric on GCP (which I never tried). Therefore, I compare these two technologies in this article. Azure Service Fabric 
+Microsoft uses Service Fabric to provide their own services for years. This infers the framework is proven solution for enterprise grade and they provides it to developers. 
+It offers two options when I write code. .NET Application Windows/Linux container 
+This means, if I already have containers which has code in it, I can simply put them onto Service Fabric to make microservice architecture. No additional investment required. .NET Application 
+The advantage of Service Fabric, in my own opinion, is that it support writing code on the framework. This means, you don't have to think about how to separate your code into multiple containers. As a developer, I want to purely focus on writing code. 
+It offers several "Types" which works very well as part of micro services. Stateless service: Good for front-end Stateful service: Good for back-end Actor: This is an unique concept of Service Fabric. This service lets me easily create realizable instance of a class which has code, storage and queue. Guest Executable: I also can put existing application as it is. And of course it includes container. 
+Service Fabric solves many challenges microservice architecture has by using framework itself and SDK. For example, I don't explicitly provision discovery service to find service, rather, I use special schema to find the service which I write into my code. So many features are integrated into source code. Azure Portal Integration and support multiple platform 
+Actually, I can install service fabric any platform, any place. Windows and/or Linux. Azure, GCP, AWS, or even On-Premise. But Azure Portal is the best and easiest place to provision the service for sure. Kubenetes (K8s) 
+I personally don't know about the history, but according to many video or wikipedia , Google uses framework called "Borg" which is a container orchestration service, to host their own services. Thus it is another proven enterprise grade solution. 
+As previous said, it provides container orchestration. It solves many challenges microservice architecture has. K8s concepts 
+Though it is a container orchestration service, it has several unique concept to solve microservice architecture challenges. Pods: The set or containers for scheduling unit. Services: To discover pods for certain services. Labels: Selector to find components. I love this idea. 
+There are thing you don't have to know as well as a developer, such as controller, yet you should know it as K8s admin. GCP console integration 
+Same as Service Fabric, I can install K8s anywhere, if it's Linux. Azure, GCP, AWS or even On-Premise. But the best place to provision the service, for my own experience, is GCP. It is seamlessly integrated into project and easy to jump start. Differences 
+The most significant difference is if I can directly write code or not. As a developer, I really don't want to go out of my code. Thus Service Fabric is easier to understand, debug, and provision from C# developer point of view. Service Fabric also let us include existing application and/or container, which is big advantage, yet confusion point. 
+On the other hand, if you already have tons of containers and just need to orchestrate them, K8s is great solution. 
+Both solution won't lock me into one cloud vendor as I really can run them anywhere I want. From that point of view, it is not really Azure vs GCP. Similar services 
+There are bunch of similar services but Docker Swarm is another famous one. Reference 

@@ -1,0 +1,18 @@
+Credit card data stolen from 5 million customers of luxury stores Saks Fifth Avenue and Lord & Taylor, two high-end US department stores, acknowledge breach of sensitive information. 02 Apr 2018 10:26 GMT Analysis suggests that criminals siphoned the information from the stores between May 2017 to present [Lucas Jackson/Reuters] A well-known ring of cybercriminals has obtained more than five million credit and debit card numbers from customers of Saks Fifth Avenue and Lord & Taylor, two high-end US department stores. Gemini Advisory, a cybersecurity research firm that specialises in tracking stolen financial data, disclosed the data breach on Sunday, adding that the information was probably collected at store locations and that online shoppers were probably not affected. In a blog post Gemini said that a hacking group known as Fin7 announced the release for the sale of over five million stolen credit and debit cards on JokerStash, an online hub where stolen credit card regularly gets posted. {articleGUID} 
+JokerStash has previously been used for other high-profile breaches, including Whole Foods, Chipotle, Omni Hotels & Resorts and Trump Hotels. 
+According to Gemini, preliminary analysis suggests that criminals siphoned the information from the stores between May 2017 to present. 
+The company also said the entire network of Lord & Taylor and 83 Saks Fifth Avenue locations have been compromised. 
+The majority of stolen credit cards were obtained from New York and New Jersey. 
+Only a limited part of the five million records has been offered for sale so far, with approximately 35,000 records for Saks Fifth Avenue and 90,000 records for Lord & Taylor. 
+The data appears to have been stolen using software that was implanted into the cash register systems at the affected stores. 
+It is not clear how exactly the malware was installed in the stores' checkout systems, Gemini said it was most likely through phishing emails sent to Hudson's Bay employees. 
+By opening infected documents, the malicious software was able to spread through the computer system and gather the sensitive information. Foreign banks at risk 
+In a statement on its website Saks Fifth Avenue said the issue had been identified and steps were being taken to contain the issue. 
+"We will offer those impacted free identity protection services, including credit and web monitoring," Saks Fifth Avenue also said in the statement. Affected customers will "not be liable for fraudulent charges". 
+"We are working rapidly with leading data security investigators and also are coordinating with law enforcement authorities and the payment card companies." 
+Gemini said in the blog post that because the targeted stores offer relatively expensive goods, the potential damage to cardholders could be significantly higher in this attack. 
+It will be difficult for banks to identify fraudulent transactions from those of a legitimate nature, since "cardholders who frequently shop at luxury retail chains like Saks Fifth Avenue are more likely to purchase high-ticket items regularly". 
+International travellers are also at risk. "We anticipate a significant surge in fraudulent in-person purchases in the coming months, which will explicitly affect foreign banks," Gemini said. 
+Saks Fifth Avenue and Lord & Taylor are part of the Canada-based Hudson's Bay group, which was founded in 1670 and is one of North America’s oldest department store groups. 
+Hudson's Bay just recently appointed a new chief executive in February, Helena Foulkes, and the current data security issue will likely pose a new challenge for Foulkes. 
+SOURCE: Al Jazeera News

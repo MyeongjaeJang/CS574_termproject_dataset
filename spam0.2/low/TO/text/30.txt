@@ -1,0 +1,27 @@
+#azure #gcp #cloud 
+In previous article , I hands on Azure Functions App. In this article, I look into GCP functions. 
+However, the thing is, it doesn't support C#. Javascript on Node.js is the only supported language and execution environment at this moment. GCP 
+GCP also offers "Cloud Functions" service to support function technology. One language support: At this moment, Cloud Function supports Javascript on Node.js 6.11.5 Support multiple triggers: HTTP request, several web service webhook, several storage triggers. See here for detail. Scaling: It's support multiple scaling options. See here for detail. Flexible pricing: See here for detail. Integrate with platform: Security, Monitoring, Other services, etc. Write a code 
+As explained above, Javascript is the only option for now. Basic function 
+1. Go to Google cloud console and click cloud shell icon. 
+2. Create a directory and change directory to it. mkdir cloudcomparefunction cd cloudcomparefunction 
+3. Create index.js and add following code. exports . cloudcomparefunction = ( req , res ) => { res . send ( 'Hello World!' ); }; 
+4. Run the following command to deploy. If this is first time to use Cloud Functions, it asks you to enable Cloud Functions API. Type yes to enable it. gcloud beta functions deploy cloudcomparefunction --trigger-http 
+5. Once it's deployed, check the url and invoke it using tools such as postman or curl. I used postman here. Local Debugging Experience 
+Though I didn't explain the local debugging experience for Azure, as it's really the same as other .NET application, I try debugging for Cloud Storage. I can use Functions local emulator and Visual Studio Code to debug it. 
+1. First of all, install the local emulator. It says npm version 6.11.5 is supported so I installed the version for test. npm install -g @google-cloud/functions-emulator 
+2. Though I can download the code I already created, I just do it from scrach on the local pc. Create folder, add file and initialize npm project. cd <to anywhere you want> mkdir function_demo cd function_demo npm init --yes 
+3. Open the folder via Visual Studio Code and add index.js in the folder and add the following code. exports . cloudcomparefunction = ( req , res ) => { res . send ( 'Hello World!' ); }; 
+4. Run the functions emulator, and deploy locally. functions start functions deploy cloudcomparefunction --trigger-http --local-path = <path to the project folder> 
+5. Once deploy completed, I can see the deployed URL. 
+6. Access to the URL to confirm it's working. 
+7. Go back to Visual Studio Code, and select debug menu. Then click "gear icon" and select "Node.js" 
+8. By default, it adds "launch" config. Add "attach" type by start typing it. 
+9. Run the following command to start debugger. functions debug cloudcomparefunction 
+10. It should show you the debugger port. It was 5858 for me, so change the port to 5858. 
+11. Then, in Visual Studio Code, npm --select "Attach" from the dropdown and hit F5. Then set breakpoint to index.js and test it. Other debug options 
+GCP provides great tool called "Stack Driver" which enables break point on the production. It simply shows me the snapshot of the context and it didn't stop the application, which is very cool. Summary 
+From my experience, I think GCP needs more time to provide full feature to compete with Azure. Azure has a huge lead for functions technology at the moment, because: Azure supports multiple languages, whereas GCP supports Node.js only. Azure supports more variety of triggers. Azure offers "binding" to easily work with input/output Azure provides more IDE integration to GCP. Debugging experience is easier for Azure. Durable Functions: very unique capability 
+On the other hand, GCP also provides very attracted features such as: Stack Driver, the debugger works with any services. Simple UI (for my own opinion) Bunch of Cloud SDKs for Node.js 
+By the way, both cloud provides similar yet interesting features. Cloud Shell inside portal Online editor, which you can write code like IDE but in the browser. Integration with other services 
+In the next article, I look into micro services. Reference 

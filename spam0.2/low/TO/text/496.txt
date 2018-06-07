@@ -1,0 +1,21 @@
+#node #webdev #javascript The infamous left-pad controversy 
+Most people are probably aware of the left-pad controversy by now. If not, I'll get you up to speed: 
+The maintainer of a popular NPM package deleted their package in protest, breaking thousands of other packages that had depended on it. The problem was quickly remedied and solutions put in place to prevent it from happening again, however, following the controversy was a deluge of blog posts and articles asking why we're dependent on tiny libraries that solve such trivial problems. "Have we forgot how to program?" one blog post asked, illustrating the general sentiment at the time. Left-pad redux 
+The left-pad controversy still comes up from time-to-time, usually as the butt of jokes. I recently ran across a Medium article pointing out the absurdity of the is-odd package, which as of this writing has over 3 million downloads over the past seven days . Indeed, on the surface, relying on a package to determine if a number is odd appears to be the epitome of overkill. One of the most highly clapped comments made the following claim: 
+If you can’t write a function to determine if a given integral input is odd in under 10 seconds, you’re either a crappy typist or you shouldn’t be programming. 
+That's a pretty bold claim, and needlessly insulting to boot. Is it really that simple? The typical 10 second solution would probably look something like this: function isOdd ( i ) { return i % 2 === 1 ; } 
+Let's write some unit tests just for the hell of it: expect ( isOdd ( - 2 )). toBe ( false ); expect ( isOdd ( - 1 )). toBe ( true ); expect ( isOdd ( 0 )). toBe ( false ); expect ( isOdd ( 1 )). toBe ( true ); expect ( isOdd ( - 2 )). toBe ( false ); 
+Boom! Done. Let's call it a day. Just kidding. We're not done yet. 
+When we initially considered this problem, we kind of assumed that all inputs would be integers. However, there's no way to enforce that a particular type be passed to the function. Not only that, but all numbers in javascript are actually double precision floats. Let's add a few unit tests to make sure our function works with floating point inputs: expect ( isOdd ( 1.5 )). toBe ( true ); // FAIL! 
+Ok, so our function doesn't work with floating point numbers. There are a couple options at this point: 
+I don't intend to pass anything but whole numbers to the function, so I don't care if it returns the wrong result. 
+I'll just return true if it's a not a whole number. 
+I'll throw an exception if it's not a whole number. 
+None of these solutions is necessarily wrong , since the best solution could involve any number of considerations. Either way, it still warrants consideration . Not quite the 10 second solution we initially thought it was. Ok we're done. The end. 
+Just kidding, there's one last thing we need to consider here: Javascript is dynamically-typed and we need to determine how to handle non-numeric inputs. Again, we're faced with a few different solutions: 
+I don't intend on passing non-numeric inputs to the function, so I don't care what happens if I do. 
+I'll just let javascript do whatever wacky implicit conversion it wants and accept the result. 
+I'll throw an exception. 
+Again, none of these is necessarily wrong, but it's yet another consideration we didn't initially think of. Trivial libraries handle these considerations so we don't have to. Behavior is not trivial 
+Trivial libraries do more than just solve trivial problems. They consider all the little edge cases that we're likely to overlook and provide consistent and robust behavior. This is especially important with languages like javascript. 
+As a general rule of thumb, I try not to trivialize things that look trivial on the surface. Programming, like the real world, is non-trivial and full of nuance. Did you find this post useful? Show some love! 

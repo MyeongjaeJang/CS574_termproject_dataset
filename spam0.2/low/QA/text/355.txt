@@ -1,0 +1,12 @@
+AFP
+SAN FRANCISCO
+A PUBLIC apology by Facebook chief Mark Zuckerberg failed on Thursday to quell outrage over the hijacking of personal data from millions of people, as critics demanded the social media giant go much further to protect privacy.
+Speaking out for the first time about the harvesting of Facebook user data by a British firm linked to Donald Trump's 2016 campaign, Zuckerberg admitted to betraying the trust of its two billion users, and promised to"step up."
+Vowing to stop data leaking to outside developers, and to give users more control over their information, Zuckerberg also said he was ready to testify before Congress, and was not opposed to tougher regulation of internet titans. But with pressure ratcheting up on the 33-year-old CEO over a scandal that has wiped around $60 billion off Facebook's value, the initial response suggested his promise of self-regulation had failed to convince.
+"Frankly I don't think those changes go far enough,"Britain's culture and digital minister Matt Hancock told the BBC."It shouldn't be for a company to decide what is the appropriate balance between privacy and innovation and use of data,"he said.
+"The big tech companies need to abide by the law and we are strengthening the law."
+In Brussels, European leaders were sending the same message as they prepared to push for tougher safeguards on personal data online, while Israel became the latest country to launch an investigation into Facebook.
+The data scandal erupted at the weekend when a whistleblower revealed that British consultant Cambridge Analytica (CA) had created psychological profiles on 50 million Facebook users via a personality prediction app, developed by a researcher named Aleksandr Kogan.
+The app was downloaded by 270,000 people, but also scooped up their friends'data without consent -- as was possible under Facebook's rules at the time.
+Facebook says it discovered last week that Cambridge Analytica may not have deleted the data as it certified -- although the British firm denies wrongdoing.
+"This was a major breach of trust and I'm really sorry that this happened,"Zuckerberg said in an interview with CNN.

@@ -1,0 +1,26 @@
+#cloud #aws #webdev #devops 
+Originally posted at: https://www.powerdown.io/blog/posts/stories/checklist-to-lower-aws-cloud-costs.html 
+For many companies cloud computing is transformational. The advantages are compelling: improved flexibility, increased responsiveness, and let’s not forget, reduced capital expenditure. 
+However, the ease and speed of creating servers, databases, load balancers and containers in the cloud often leads to a loss of control and increased costs — sometimes with rude sticker shock. 
+This checklist is a simple set of items to help reduce your cloud bill. 
+Please comment if you have anything I can add to the list. Take Control — only run what you need 
+[ ] It is easy to start things in the cloud and then lose track. Monitor the number of resources you have running by type and track back to the owning team. Use resource tags liberally to categorize. HowTo . 
+[ ] Periodically audit your resources. Take inventory and check if you need all the resources and services you are running or have created. This includes: instances, RDS databases, ELBs, snapshots, ECS tasks, VPCs, security groups, etc. 
+[ ] Enable billing alerts at 25%, 50% and 75% of your expected monthly budget. That way you’ll quickly be alerted when something gets out of control. HowTo . 
+[ ] Run AWS Trusted Advisor regularly (perhaps quarterly) for excess capacity and security issues. HowTo . Pick the right region 
+[ ] AWS prices vary considerably across regions. For example: on-demand M4.large is $73/month in us-east-1 and $91/month in ap-southeast-2. Choose the cheapest region that is closest to your customers. HowTo . Choose the right instance type 
+[ ] Choose and re-evaluate the instance type for each application. Instance types vary in price by orders of magnitude. Choose carefully. Monitor your application performance by CPU, memory and disk to spot excess capacity and the opportunity to downsize the instance type. HowTo . 
+[ ] Migrate the newer instance types. AWS sometimes encourages movement to newer instances types by price. For example: M5.large is $70 in us-east-1 whereas M4.large is $73 in the same region. Use reserved instances for base production capacity 
+[ ] Your unvarying production base capacity should be on reserved instances. Pre-pay if possible to lock in the lowest price. Check your bill to make sure you are using all your purchased reserved instance capacity. HowTo . Use spot instances 
+[ ] Spot instances are usually the cheapest instances available and can be up to 90% less than the on-demand price. But spots are ephemeral. Use spot instances for variable, non-base capacity. Spot pricing is cheapest after hours and on weekends in most regions. Be prepared for AWS to reclaim all your spots. HowTo , HowTo . 
+[ ] Consider an automatic spot replacement service that will transparently convert on-demand instances to spot ( autospotting ). This is especially useful in AutoScale groups. Power down idle resources 
+[ ] Power down all idle resources. Evaluate when your dev, test, qa and staging environments are not required. You can save up to 70% off your DevOps bill via this step alone. Consider a service like PowerDown to automate this for you. 
+[ ] Power down unused ELBs. Use Terraform to destroy and re-create as required. Scale up and Scale Down 
+[ ] Scale your AutoScaleGroups and database replicas based on load. Consider scaling up if CPU is greater than 60% for 5 minutes and scale down if less than 30% for 20 minutes. HowTo , HowTo . Aggregate ELBs 
+[ ] ELBs are expensive especially if you use one ELB per mico-service. With the newer AWS ALB service, you can share a single ALB over multiple services by using different target rules. It works with TLS too via multiple certificates. HowTo . Reduce network traffic 
+[ ] Reduce the network traffic from your instances by caching static content at the edge. Consider CloudFront , CloudFlare and other edge cache services. Prune storage 
+[ ] S3 storage can grow over time to be a significant cost. Have policies to regularly examine unwanted S3 storage. Do similarly for orphaned EBS snapshots and detached EBS volumes. 
+[ ] Migrate rarely accessed S3 data to AWS Glacier . Retrieval is slower, but much less expensive. HowTo . 
+[ ] Set an expiry limit for all CloudWatch logs. The default is to never expire. HowTo . Know when to leave 
+[ ] Know when to leave the cloud. At large consistent scale, on-premises hosting may be preferable to cloud hosting. Dropbox and Stack Overflow migrated from the cloud for this reason. 
+See other checklists at: https://www.powerdown.io/blog , and lower your cloud costs with PowerDown at: https://www.powerdown.io Did you find this post useful? Show some love! 
