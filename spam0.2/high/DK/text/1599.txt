@@ -1,0 +1,5 @@
+SteamSpy closes down due to Valve's changed rules Privacy settings mean the same data can't be accessed anymore. Text: Jonas Mäki   11 
+SteamSpy is a reliable source we've used many times here at Gamereactor, as the site tracks Valve's game service Steam to reveal sales figures for games, how long they're played, player count, and more, but it seems like this is about to end, as the company has taken to Twitter to write: 
+"Valve just made a change to their privacy settings, making games owned by Steam users hidden by default. Steam Spy relied on this information being visible by default and won't be able to operate anymore." 
+We don't know why Valve decided to do this, but we know that it hasn't been a popular feature from publishers that have known exactly how much their games have sold, which made it a lot harder to spin PR in a positive way. If this has anything to do with it, we can't help but wonder why it took them this long to act on it. 
+Will you miss SteamSpy? You must be logged in to comment. If you are not yet a member - join now ! ×

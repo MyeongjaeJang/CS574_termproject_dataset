@@ -1,0 +1,9 @@
+5 
+Electronic Arts (EA) SEED-afdeling har skabt og demonstreret en selvlærende Battlefield 1 AI . “De” er ikke helt på niveau med rigtige spillere, men det er måske på vej inden længe. 
+De fleste af de store spiludgivere poster store ressourcer i AI og “machine learning”. På GDC kunne Electronic Arts’ SEED-afdeling (Search for Extraordinary Experiences Division) demonstrere, at de er nået ganske langt. De har har skabt en selvlærende AI / bots, som er i stand til at lære at spille Battlefield og også afvikle en simpel kamp. 
+EA bidrog med en video, som viser AI’en i first-person-view. De basale regler synes de at mestre, men som videon også demonstrer, forekommer der episoder, hvor AI’en synes noget forvirret. Det ser dog ganske underholdende ud. 
+SEED-chef Magnus Nordin har bidraget med et ganske informativt indlæg på EA’s website, hvor du kan læse mere om projektet og de udfordringer der stadig ligger forude. 
+EA grundlagde deres SEED-afdeling sidste år (blev præsenteret under E3). 
+You can’t play Battlefield by pressing a single button at a time. Rather it requires players to perform an array of simultaneous actions. So to help the self-learning agent get a head start with basic action combinations, we let it observe 30 minutes of human play—a process called imitation learning—before letting it train on its own. 
+The agents that we show in our demo have subsequently practiced for six days against versions of itself and some simple old-fashioned bots, playing on several machines in parallel. In total that equates to roughly 300 days of total gameplay experience. They’re constantly improving but not particularly fast learners. 
+The agent has the same field-of-view as a human player and is assisted by a mini-map. We quickly discovered, however, that Battlefield is too visually complex for the agent to understand, which meant we had to simplify what it sees.

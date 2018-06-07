@@ -1,0 +1,6 @@
+tyres 
+Continental has launched a new system for commercial fleets, called ContiConnect, to remotely monitor tyre pressure and temperature in real-time. It also notifies you in case of urgent alerts. Continental says this prevents tyre-breakdowns and increases the vehicle's uptime. 
+ContiConnect consists of different components, including sensors in the tyres, a yard reader station, a backend and a web portal with notification services. 
+Defined recipients can receive e-mails or SMSs when needed. 
+ContiConnect is available in the United States, Canada, Malaysia and Thailand. European and Asian markets will follow later in 2018 and next year. 
+Image: Continental 

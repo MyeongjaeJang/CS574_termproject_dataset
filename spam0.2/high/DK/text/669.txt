@@ -1,0 +1,2 @@
+MariaDB 10.2.14, MariaDB 10.1.32 and MariaDB Connector/J 2.2.3 and 1.7.3 now available 
+The MariaDB project is pleased to announce the availability of MariaDB 10.2.14 and MariaDB 10.1.32, both stable releases, as well as MariaDB Connector/J 2.2.3, the latest stable release in the MariaDB Connector/J 2.2 series, and MariaDB Connector/J 1.7.3, the latest stable release in the MariaDB Connector/J 1.7 series. See the release notes and changelogs for […]

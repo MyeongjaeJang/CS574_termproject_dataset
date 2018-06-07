@@ -1,0 +1,10 @@
+NHTSA 
+Toyota plans to start selling vehicles that can talk to each other in 2021. The technology is based on short-range wireless technology and it has the potential to prevent thousands of accidents each year. 
+Back in December 2016, the Obama administration considered requiring the technology in new cars. Carmakers would have had four years to come up with a system in which all cars speak the same language and use the same standard technology. In the end, legislation to that effect was never passed. 
+In Automotive News, group vice president for planning and strategy at Toyota said that the company's move is designed in part to spur other carmakers, governments and traffic-infrastructure providers to join in the effort despite the lack of legal mandates. 
+"Our commitment is: No. 1 we are going to deploy the technology and No. 2 we would like others to join," Mr Coetzee said. Cadillac 
+In 1999, a spectrum in the 5.9Ghz band was reserved for vehicle-to-vehicle and vehicle-to-infrastructure communications. Despite development efforts over the last decade, this spectrum has gone largely unused and some decision-makers would like to open it to other uses. 
+At this time, only Cadillac offers a commercially available vehicle that can communicate with other vehicles: the CTS. 
+Talking vehicles use dedicated short-range communications to transmit data up to 300 metres, including location, direction and speed to nearby vehicles. The data is broadcast up to 10 times per second, which can help identify risks and prevent crashes. 
+According to numbers published by the National Highway Traffic Safety Administration, this new technology could cost between $135 and $300 per vehicle or up to $5 billion per year. On the plus side, it could prevent up to 600,000 crashes and prevent up to $71 billion in damages each year. 
+Image: Toyota C-HR at the 2018 Detroit Motor Show 

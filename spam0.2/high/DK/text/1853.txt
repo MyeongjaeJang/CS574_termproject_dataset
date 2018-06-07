@@ -1,0 +1,10 @@
+New Heatmap Feature and General Upgrades Share this Share 
+We have just released the latest IWRAP Version 5.4.0., where we gave a the heatmap functionality an overall overhaul and added a new feature. 
+Below we will exemplify the use of the new heatmaps feature. To use the IWRAP tool and heatmaps you will need a commercial license – if you don’t have a commercial license don’t hesitate to contact us for an online demonstration or a trial period by contacting us at → 
+The difference between heatmaps and density plots is that heatmaps don’t use interpolation. The screenshots below show the difference – on the left-hand side the new heatmap plot is shown and on the right-hand side the density plot is shown for comparison. 
+A great benefit to these heatmaps is that they are fast to generate. When you import a new dataset, a heatmap is automatically generated and displayed if the “Inspect heatmap after import” option is enabled. This can be used to inspect the spatial quality of the imported data. 
+If you have already imported a dataset you can go to the menu show below and create a new heatmap. 
+When you have created the heatmap, you can open the map view settings and control different visual aspects. 
+For more information or a trial period, please contact us at → Per Engberg 
+Published April 13, 2018 in News Keep informed. Get updates in your inbox. 
+Subscribe here to receive our newsletter. Newsletter

@@ -1,0 +1,15 @@
+Could Denmark’s personal registration number be linked to Facebook accounts? Ritzau/The Local cpr number living in denmark social media facebook digital security Share this article A Danish yellow health insurance card - the ID that carries the CPR number - and an EU health insurance card. File photo: Jonas Skovbjerg Fogh/Ritzau Scanpix Ritzau/The Local 2 April 2018 17:22 CEST+02:00 The Danish personal registration number, commonly referred to as the CPR number, reached the milestone of 50 years since its introduction on Monday. 
+But the future of the personal numbers, which are assigned to everyone registered as living in Denmark, may be more far-reaching than during their first half-century, according to an analyst. 
+“I think that, in the future, we will see an extra register that also contains people’s identity on digital media, and that it will be linked to the CPR number,” said Copenhagen Business School professor and researcher in public IT systems Kim Normann Andersen. 
+“The government will be very concerned with this due to the potential for lawbreaking in the digital universe,” Andersen said. 
+That change would likely be made without much public dissent, he added. 
+“The public sector knows an astonishing amount about us, and we accept it, provided we are given social welfare in return,” he said. 
+Researchers have taken advantage of the CPR reaching maturity to look closer at data as well as security breaches and sloppy storage of personal information, Ritzau writes. 
+Such breaches could become more common in future, said Jesper Lund, chairperson with the IT-Political Association of Denmark NGO. 
+Lund said that problems were likely to arise as a result of all public sector services being connected to the CPR number. 
+Its broad usage makes the CPR database an attractive proposition for hackers, according to Lund. 
+“In 50 years’ time there could easily be a large hacking attack in Denmark in which large parts of the public database could be compromised,” he said. 
+Lund said that, instead of using the CPR number for access to various services – which include healthcare, tax and education – different IDs for different areas would be a safer alternative. 
+Carsten Grage, head of CPR at the database’s central office, told Ritzau that the system would be updated before 2057. 
+“With the algorithm currently used, unique numbers cannot be guaranteed after 2057,” Grage said. 
+READ ALSO:

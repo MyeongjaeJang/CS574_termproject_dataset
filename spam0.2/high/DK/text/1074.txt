@@ -1,0 +1,14 @@
+PrimeWire Becomes Unusable After Malicious Ad ‘Takeover’ 
+With millions of visitors per month, Primewire is one of the best-known pirate linking sites on the Internet. 
+The site originally started as LetMeWatchThis and later became 1Channel. After several of its domains were hijacked the operator eventually landed at Primewire.ag . ⇒Hide your connection on the internet with a reliable VIP VPN service like IPVanish. A VPN can make hide your internet traffic and make you appear as if you are from anywhere in the world. By using IPVanish you get: Native apps for Android TV, Android, iOS, Mac, Linux, and more OS Access all Kodi add-ons with Ipvanish / Access Kodi anonymously Tier 1 hardware (no speed slowdown) Prevent ISP Throttling Log-free, so you can’t be tracked 7 day money back guarantee The ability to be configured right at your router, for a hassle-free experience. ⇒Click here to get IPVanish VPN service now and stay worry-free! 
+
+That was five years ago and nothing significant has changed since then. At least, nothing that was noticeable to the public at large. Despite a few ISP blockades here and there, the site functioned normally. 
+This changed a few days ago when we noticed that the Primewire.ag DNS records were updated to EuroDNS, which caused the site to become unreachable. 
+Around the same time, the flow of new content also stopped on the backup domain Primewire.is, while existing links all changed to advertisements. 
+A few days have passed now and while Primewire.ag has returned online, the site is little more than an inventory of suspicious ad links. Instead of pointing people to the latest TV-shows and movies, they get scammy advertisements. 
+Scam ads 
+When clicking on a link, users are directed to dubious services such as Pushplay. These require people to enter their credit card details for a ‘free’ account, which leads to quite a few complaints from “ pissed consumers .” 
+It’s obvious that this is a ploy to generate cash but it’s unclear why this is happening. At the moment there are plenty of rumors floating around but no word from the site’s operator. The official Twitter and Facebook accounts remain quiet as well. 
+Interestingly, another popular streaming link site, gowatchfreemovies.to, appears to be suffering the same fate. This site has also become unusable with all links now pointing to ads. While we can only speculate at the moment, this could very well be related. 
+The question remains who’s behind all this? Has the operator given up or has the site been compromised by outsiders, again? 
+For now, the only conclusion we can draw is that hundreds of thousands of pirates will have to get by without their goto site. 

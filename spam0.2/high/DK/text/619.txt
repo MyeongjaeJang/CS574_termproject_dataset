@@ -1,0 +1,6 @@
+Nintendo Switch update 5.0.1 is here Don't get too excited as there's not much to report on. Text: Suzanne Berget Published on the 27th of Mar 2018 at 09 
+Nintendo has released a new update (version 5.0.1) for Nintendo Switch. As you've probably guessed by the version number this new update doesn't really change much. 
+The previous update, although not as impressive as hoped, made it possible to add friends via Facebook and Twitter through Friend Suggestions, offered more than 20 new avatars, enabled Parental Controls for specific titles, and resolved a Play Activity glitch. 
+That's what the update changed on the surface, but behind the scenes, it made it very dangerous to use a third party dock, like Insignia or Nyko, as doing so would lead to the console being bricked. The new Add Friends-feature also came with an exploit that lets you access your Facebook and Twitter feeds directly. 
+The new update, however, is not as exciting. All it does is provide "General system stability improvements to enhance the user's experience". That's it. 
+At least on the surface... and perhaps that's a good thing. You must be logged in to comment. If you are not yet a member - join now ! ×

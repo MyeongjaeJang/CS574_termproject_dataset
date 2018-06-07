@@ -1,0 +1,11 @@
+A file photo showing cyber security awareness posters. Photo: Raphael Satter/AP Photo/Ritzau Scanpix Ritzau/The Local 23 March 2018 17:13 CET+01:00 Denmark is amongst the countries that suffer from lowest numbers of cyber attacks, according to a report. 
+The study, Microsoft’s Security Intelligence Report, is based on data from 400 billion emails and 18 million websites. 
+It shows that Denmark is amongst the countries that falls victim to the fewest cyber attacks. 
+But despite the positive outlook of the report from a Danish point of view, consumers, businesses and public institutions in the Scandinavian country must continue to focus heavily on cyber security, given the country’s status as a highly digitalised society, Microsoft Denmark said. 
+“It is crucial that companies establish strong security procedures, a good security culture, use modern technological solutions and look for insights into the threat picture. 
+“But it is also important that they put together a strategy for how they not only protect themselves against attacks, but also how they cope with them if and when cyber criminals get in behind the walls,” Microsoft Denmark’s director of security and technology Ole Kjeldsen told Ritzau. 
+Although no ransomware-type attacks were traced to Danish computers during the period covered by the study, it is not certain that none actually took place, Kjeldsen said. 
+“The last few years have seen some serious headlines about large, global companies being hit by malware, and that has affected the bottom line. 
+“That paints a picture of more aggressive hackers with more sophisticated equipment at their disposal, and therefore organisations should always stay aware of current cyber security threats,” the director of security and technology said. 
+Microsoft scans 400 billion emails, 450 billion logins and 18 million websites every month for security breaches. 
+The Microsoft Security Intelligence Report is based on information from data spanning the period between February 2017 and January 2018.

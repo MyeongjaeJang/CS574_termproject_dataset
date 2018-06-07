@@ -1,0 +1,42 @@
+How smart is your city? April 5, 2018 - 06:25 Smart cities are much more than technology and big data. It’s about using technology sustainably and in a way that improves the lives of the people that live there. By: Lars Bodum, Associate Professor, Department of Planning, Aalborg University, Denmark. Smart Cities are much more than technology. It’s about using technology sustainably and in a way that improves the lives of the people that live there. (Photo: Shutterstock) 
+The proportion of the world’s population that lives in cities is growing quickly. This means that we need to develop strategies for infrastructure, water supply, habitation, and climate adaptation, in all cities around the globe. 
+Simultaneously, society is being digitised, producing and using masses of data. These data come from many different sources and in ever larger quantities. This is what we call, Big Data. 
+In reality, Big Data represents a form of powerlessness, which is created by a continuous, non-stop stream of new data creation. 
+In recent years, a number of sensors have been implemented across cities—besides our smartphones, which we increasingly use as sensors. They are characteristically small, cheap, and connected to the Internet of Things (IoT). 
+This could be temperature, which is measured and transmitted in short intervals to a server that is programmed to react when the temperature falls below a certain value. It could also be a rubbish bin, which knows when it is full and sends a signal to alert someone to come and empty it. 
+Read More: It’s time to claim ownership of our digital lives Smart Cities 
+Understanding how this digitalisation influences the development and planning of a city is an important field of research. 
+So city planners and data scientists are increasingly working together to exploit the technology and IoT and to come up with smart solutions for our cities. This is where the “Smart Cities” concept originated. 
+But Smart Cities are much more than technology. It’s about using technology sustainably and in a way that improves the lives of the people that live there. 
+The biggest potential for success occurs in cities that combine the technological possibilities with open management. In recent years, a number of sensors have been implemented across cities—besides our smartphones, which we increasingly use as sensors. They are characteristically small, cheap, and connected to the Internet of Things (IoT). (Illustration: Shutterstock) 
+Most cities know that achieving good results is not only about what happens in the town hall. It’s about creating an environment for innovation and growth from entirely new actors. This could be volunteer groups or organisations, or it could be small companies developing new solutions and apps. 
+But what might these solutions be and where might they lead? 
+Let’s look at examples from three Danish cities. So as not to gloss over developments in other cities, I will not name any names here. Instead, let’s call them scenario 1, 2, and 3. Scenario 1: Classroom air quality—where the teacher is alerted to poor air quality in class 
+It’s Thursday morning, just before lunch. Class 6B started at 8 am, with mathematics followed by Danish. Suddenly, an alarm sounds on the teacher’s phone and a message pop ups from the local council. 
+It says that the air quality has fallen below an unacceptable level and the teacher needs to open a window and allow fresh air into the room. The teacher sends the kids out to get some fresh air and the window is opened. 
+But how did the council know that the air quality was so bad? 
+They were alerted by the sensors placed in each of the classrooms, which continuously monitor air quality. They send these data to a shared server, where an automatic alarm sounds if a threshold is passed. 
+The alarm is a smart system that sends a message to the relevant person who can take action to improve air quality in that particular room. 
+Read More: Bad air quality makes children perform worse in schools Scenario 2: Rubbish collection—when the waste bin is nearly full and ready to be emptied. 
+On a hot day, when people have flocked to the beach or the park, it doesn’t take long for the bins to overflow with discarded bottles or cartons. But it can be difficult for the council to stay on top of the situation and empty the bins before they start to spill out onto the street. The international standard ISO 37120 for sustainable cities consists of 17 themes and a number of additional indicators. Each theme has an indicator, which can be used to trace the development of sustainable practices. (Credit: ScienceNordic) 
+This is made much easier since sensors were installed in all the rubbish bins in this particular town, and send an alert when they reach 75 per cent full. 
+This allows the cleaning team to plan ahead. It indicates which bins fill up most quickly, and where additional collections might be needed. 
+The same system allows the cleaning team to scale down during the low season, and plan their duties more effectively. Scenario 3: Water supply—automatic adjustment in water pressure according to consumption 
+Guaranteeing a stable supply of water to all residents in a city is a big task. 
+In Europe we take it for granted that we should have easy access to clean tap water and that the water pressure is constant all day and throughout the year. But this is certainly not the case everywhere in the world. 
+The problem is that water pipes leak, causing a change in pressure depending on how much water is used at various times of the day and week. Moreover, changes in outdoor temperature also have an effect. 
+This leads to significant water loss and broken pipes. The Danish company, Grundfos, has developed systems to intelligently adjust water pressure according to use and ensure that the pipes last longer. 
+Read More: Smartphone sensor can detect dirty water A new standard for sustainable development in cities 
+Common to all these examples is that they are all developed and implemented at single locations, but the problems that they aim to address are general and global. 
+We work with standards to create a common infrastructure both for communication and measuring. Facts 
+Book a Researcher 
+Lars Bodum is taking part in the Book a Researcher program, as part of the Danish Science Festival 2018. 
+Read more about the festival and the Book a researcher program at the festival website . 
+Lars's talk is entitled: Big Data and Smart Cities 
+There are many standards for technical infrastructure and data formats, but there are also standards for sustainable development in cities. 
+It’s called ISO 37120 and it is an international standard from Danish Standards—Denmark’s official member of the International Organisation for Standardisation (ISO). 
+It creates a common basis when discussing what constitutes sustainability. 
+It is not intended to be a rule book, since each city can have very different strategies. One example of an obligatory indicator for energy is “the annual energy consumption in public buildings per square metre.” 
+When cities begin to follow these standards, it is possible to compare them with other cities and see how they compare to the global competition. This will create incentives to go further, but also creates an international understanding of the challenges. 
+How are we doing in Denmark? How innovative are our cities compared with the global competition? How engaged are members of the public with the political system? How healthy are the city’s inhabitants? What about their education level and qualifications? What is the state of the environment and how many have access to the internet? 
+These are just some of the indicators that are measured when comparing the ability of cities to transform and develop the Smart Cities concept.

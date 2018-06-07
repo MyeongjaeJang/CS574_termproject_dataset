@@ -1,0 +1,35 @@
+5 quick website fixes for better SEO results 
+Search engine optimisation is constantly evolving. What started years ago as a rather simple act of publishing content on your website has evolved into so much more. 
+Search engine algorithms and ever-changing SEO trends have made it slightly more difficult for marketers and search engine optimisers to keep up. 
+In chasing these ever-changing trends, we often forget the basic, everyday fundamentals. The purpose of this blog post is to remind you of the very simple and fundamental techniques that can improve your site’s rankings in the search engine results pages (SERPs). 
+Let’s rewind the time and get back to the basics. Tip #1: Meta tags 
+Well-crafted meta tags (title tags and meta descriptions) can still have a significant impact on your site’s search engine rankings. 
+On the other hand, if you are not utilizing meta tags properly, you will find it rather difficult to consistently rank higher in the SERPs. 
+Despite all the recent changes and modern-day algorithms, search engines still rely on the keywords and content you provide to users and search engine crawlers. 
+Title tags and meta descriptions, therefore, become extremely crucial. 
+With the help of the right title tags and meta description, you have the opportunity to include the primary keywords that you want to rank for. Furthermore, with meta tags, you also convince users to click on your site’s results once they find it in the SERPs. 
+Further reading: on-page SEO advanced guide. 
+The last point to remember is that meta descriptions can also quite easily get outdated. When you are cranking a lot of content, it is easy to change the direction of your website and content marketing strategy. In that case, you need to have a fresh meta description that tells users and search engines what your website is all about. 
+Tip #2: Internal links 
+You may not be getting backlinks from high-quality third-party websites, but are you fully utilizing the power of internal links? 
+Well-crafted internal links transfer SEO juice to other pages on your site and help them improve their search engine position in the SERPs. Moreover, internal links also help decrease a site’s bounce rate and provide a much better user-experience to people who are looking for comprehensive information. 
+On the other hand, if you are not using internal links, you are missing good opportunities. 
+Scan your website and identify opportunities to create internal links within web pages on your site. 
+Furthermore, also scan your top-most pages (with higher search engine rankings) and create internal links to other pages from them. 
+Lastly, don’t forget to diversify the anchor text that you’d use to create those internal links. Make sure to use important keywords as the anchor text for internal links but don’t overdo them. Tip #3: A mobile-friendly website 
+You can’t realistically expect to rank a website that is not mobile-friendly. In today’s digital world, Google is putting a lot more focus on mobile-friendly websites than their desktop counterparts. 
+We believe that, eventually, mobile-friendliness (and mobile index) will also start playing a significant role in ranking desktop-versions of websites. 
+Use Google Analytics to acquire quantifiable data on how many mobile visitors you get and how they interact with your site and content. 
+Remember that a responsive website isn’t going to be enough. It’s not enough that your website adjusts to mobile devices. It also has to have a great user experience for mobile users. 
+For instance, if in Google Analytics you find that mobile users have a very high bounce rate or a low conversion rate, you know that something isn’t right with your site’s mobile-version, and it must be improved. Tip #4: Broken links 
+Broken links just don’t look good at all. 
+They lead to a bad user experience, a high bounce rate, lower conversions, and lower search engine rankings as well. 
+Fortunately, broken links aren’t difficult to fix. However, you do need to spend some time actively looking for links that are not working anymore. 
+In short, you need to look for two types of broken links: Links to third-party web pages (created from your website) that are no longer active. Internal links to your own web pages that are not functional anymore. 
+You need to fix both these links to provide website visitors the best possible experience — which, in turn, will also improve your site’s search engine rankings 
+You can also find all such broken links (and more) with the help of a free tool, such as Screaming Frog . Tip #5: Website loading speed 
+Although a relatively modern SEO factor, website loading speed has become very important for Google as well as users. 
+We believe that it is going to become an even bigger factor in the next few years. Google has already announced that page speed will become a ranking factor in mobile search from July 2018 . 
+Indirectly, it already affects user experience — which is an important search engine ranking factor. 
+Use free tools like Pingdom and GTMetrics to improve the loading speed of your website. It shouldn’t take a lot of time, but it will reward you greatly. 
+If you want to learn more about it, read our guide to Website Load Speed Optimisation . Ryan 

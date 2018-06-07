@@ -1,0 +1,5 @@
+Rainbow Six Siege's new detailed PTR patch is here Many problems are fixed and Lion is modified. Text: Islem Sharouda Published on the 1st of Apr 2018 at 12 
+Ubisoft continues to work hard on its tactical shooter Rainbow Six: Siege, and now we have the patch notes coming to the PTR, as revealed on Reddit , which you'll be pleased to know tones new operator Lion down a little bit. 
+Lion's scan, for instance, will no longer be effective in case of immobility, and on top of that his charges have been reduced from 3 to 2 and the reloading time has been lengthened from 10 to 20 seconds, so hopefully this should change how often he is used right now. 
+Another important point has also been corrected: the Weapon Sight Misalignment. This problem consisted of a viewfinder defect that will soon be a thing of the past, as shown by Ubisoft in a demonstration video . 
+There are the usual amount of bug fixes too, as you'd expect. Have you had issues with Lion? Related texts

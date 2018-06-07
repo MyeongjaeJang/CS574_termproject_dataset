@@ -1,0 +1,5 @@
+SXSW Interactive Innovation Awards 
+Ridecell, a platform developer for car-sharing and ride-sharing operators, has won the Interactive Innovation Award at South by Southwest (SXSW) in Austin, Texas. The San Francisco-based company received the accolade for its Autonomous Operations Platform. According to the judges, Ridecell was “the most exciting tech development among New Economy finalists”. 
+“While many innovators, including our own Auro brand, are teaching vehicles how to drive, the Ridecell Autonomous Operations Platform teaches fleets of driverless vehicles how to maintain themselves and manage their own emergency situations”, explained Aarjav Trivedi, Ridecell CEO. 
+Ridecell's Autonomous Operations Platform enables on-demand ride-hailing and automates operations for autonomous-vehicle fleets. It handles rider on-boarding, routine vehicle deployment, user accounts and response to emergency situations, as well as both scheduled and unscheduled refuelling, maintenance, cleaning and roadside assistance stops. 
+Image: Tiku Deepti/Ridecell 

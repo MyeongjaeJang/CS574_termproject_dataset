@@ -1,0 +1,13 @@
+44 Delt 
+For a couple of months Facebook has been testing new buttons, that can be used to vote comments up or down. Facebooks vice president and head of newsfeed now confirms, that these so-called up- and downvote buttons very possibly can become a new part of our Facebook experience. 
+“I think it’s quite likely that we’ll do it. The question is exactly how,” says Facebooks head of newsfeed, Adam Mosseri in an interview with Danish Medietrends.dk. 
+In the beginning of February, Facebook confirmed, that they were testing a downvote button on 5 percent of Android-users in the US. An upvote button wasn’t considered at the time, but according to Adam Mosseri, Facebook is now working with two buttons. 
+He explains that two buttons aren’t the same as a dislike and like button, but that they will work as a way for Facebook-users to signal what they mean is an inappropriate comment. 
+In the test, on the 5 percent of Android-users, they were asked to inform whether they thought the comment was offensive, misleading or off topic, when they downvoted a comment. The upvote button wasn’t included in the test, og it hasn’t been possible to be informed what effect it will have. 
+“We try to make sure we build it properly. There are different ways to do it. To show the up- and downvote buttons, to show the net effect, how you design the UI, how you make sure people understand what it does, what you do with that signal. But i think it’s an established pattern that it is an effective way of having people self-monitor their conversation,” says Adam Mosseri. 
+Read more after the ad. 
+Even though he twice in the interview says that it’s likely the buttons are coming, he won’t make any guarantees. 
+“I don’t want to promise anything, maybe there is something I don’t know,” he adds. 
+Reddit is especially known among social platform for their up- and downvote buttons. Mosseri confirms that it’s a platform way to study if you want to understand Facebooks possible new buttons. 
+“Reddit has a similar system and a number of other websites has similar systems. We are going to try to make sure it’s useful and works on Facebook and is specifically designed for the people who use Facebooks needs are. And then we figure out,” says Adam Mosseri. 
+The conversation about up- and downvote buttons is a part of a longer interview. Listen to the up- and down vote part: DEL DIN NYE VIDEN 
