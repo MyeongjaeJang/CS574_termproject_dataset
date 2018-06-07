@@ -1,0 +1,17 @@
+Smurfit Kappa in Piteå, Sweden upgrades to next-generation monitoring system from SKF Wed, Mar 28, 2018 09:00 CET 
+Increased level of control over machines from vibrations to pressure and temperatures with SKF’s next generation IMx-8 monitoring system from SKF. 
+Gothenburg, 21/02/2018: In order to avoid unplanned stoppages, the Smurfit Kappa paper mill in Piteå is upgrading to the next-generation IMx-8 monitoring system from SKF. The system measures simultaneously and emits an alarm at the slightest change in performance, thus increasing the level of control over the condition of the machinery. In addition to vibrations, the system can also incorporate other process parameters, such as pressure and temperatures, to further improve the insight of the machine health. 
+Smurfit Kappa is upgrading the existing LMU monitoring units from SKF to IMx-8 and is connecting the measurement units to the latest version of the monitoring software, @ptitude Observer from SKF. Over 1,000 measurement points in the PM1 and PM2 paper machines are continuously monitored. 
+“Reactive maintenance is four times as expensive as planned maintenance, so the trend within the industry is towards planned maintenance,” says Hans Steding, Business Coordinator for condition monitoring at SKF in Luleå. 
+SKF is a pioneer in the development of advanced condition monitoring, with research activities in Sweden and tried-and-tested technology and documented performance in many industrial plants around the world. 
+“By identifying the source of a fault in machinery, it is possible to create the means to prevent a stoppage. This increases the life of the machine and saves huge sums in maintenance costs for the company,” says Hans. 
+Smurfit Kappa in Piteå is Europe’s largest kraftliner mill and every year manufactures 700,000 tonnes of kraftliner, a paper used to manufacture high-class corrugated cardboard. Kraftliner is made from new fibres, raw wood material that means that the paper has good printability, is very strong in humid environments and is chemically and biologically clean. Smurfit Kappa in Piteå has around 510 employees. 
+“Here at Smurfit Kappa in Piteå we are looking forward to the new system, which will help us to automate much of what is currently manual analysis of the condition of the machinery. This is a good next step in our digitalisation work,” says Jonas Snäll, maintenance engineer at Smurfit Kappa in Piteå. 
+
+For further information, please contact: 
+Press Relations: Sandy Reinholdsson, +46 31 337 18 25; +46 724 57 18 25; 
+
+Aktiebolaget SKF 
+(publ) 
+SKF is a leading global supplier of bearings, seals, mechatronics, lubrication systems, and services which include technical support, maintenance and reliability services, engineering consulting and training. SKF is represented in more than 130 countries and has around 17,000 distributor locations worldwide. Annual sales in 2016 were SEK 72 787 million and the number of employees was 44 868. www.skf.com ® SKF is a registered trademark of the SKF Group. About Us 
+SKF is a leading global supplier in the areas of bearings, seals, mechatronics, services and lubrication systems. The Group’s service offer includes technical support, maintenance services, engineering consultancy and training. Contacts

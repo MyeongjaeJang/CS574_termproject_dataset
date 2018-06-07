@@ -1,0 +1,5 @@
+OT Systems enhances transmission for Royal Oman Police Muscat, Oman and Hong Kong, China 
+One of the most high-tech police forces in the world, the Royal Oman Police has replaced their transmission systems in one of their main police stations. The faster and more stable fibre optical switch with video analytics technology helps the Police force to improve on efficiencies. 
+OT Systems’ industrial managed switch IET8242MPpH-S-DR with strong 6KV surge protection and PoE functionality, supports 20km optical distance and the embedded software “Surveillance Device Management” is a cutting-edge solution for the operator at the transmission monitoring systems side, providing real-time monitoring and troubleshooting. 
+Inside the police station, there are more OT Systems' industrial IP CCTV switch ( ET4222Pp-S-DR, ET8122PpH-S-DR ) which connect with the IP cameras to guard the security of the police cells. 
+OT Systems' full portfolio of managed, self-configured / smart and unmanaged Ethernet switches include applications to secure and boost IP-communication networks in police stations, parking areas, and for sensor devices etc. Email:

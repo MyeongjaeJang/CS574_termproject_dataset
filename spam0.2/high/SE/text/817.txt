@@ -1,0 +1,6 @@
+Microsoft Virtualization Links Honolulu have been released as Windows Admin Center (WAC) 
+In the agile world we live in now Microsoft have released their new administration tool for servers formerly called Honolulu which was the project name and it is now by marketing named as Microsoft Windows Admin Center 
+I am running it on a Windows Server 2019 (core) build 17639 
+Using the AD module from Patrick Grünauer I can via the PowerShell remoting see viable information from the AD controller in WAC, 
+To manage a 2016 Hyper-V Server with WAC you need to add some features and roles Enable Remote Management. Enable Hyper-V Module for PowerShell. 
+And the following OS can be managed by WAC: Version Managed node via Server Manager Managed cluster via Failover Cluster Mgr Managed HCI cluster via HCI Cluster Mgr (preview) Windows 10 Fall Creators Update (1709) or newer Yes (via Computer Management)
