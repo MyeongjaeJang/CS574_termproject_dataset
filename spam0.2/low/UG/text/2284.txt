@@ -1,0 +1,17 @@
+Home / TECH NEWS / US, Britain warn of Russian campaign to hack networks US, Britain warn of Russian campaign to hack networks The Independent April 17, 2018 TECH NEWS , WORLD Leave a comment 157 Views A hacker 
+London, United Kingdom | AFP | Russian government-sponsored hackers are compromising the key hardware of government and business computer networks like routers and firewalls, giving them virtual control of data flows, Britain and the United States warned Monday. 
+The operation was “to support espionage, extract intellectual property, maintain persistent access to victim networks and potentially lay a foundation for future offensive operations,” Washington and London said in a joint statement. 
+“Whoever controls the routing infrastructure of a network essentially controls the data flowing through the network.” 
+The US Department of Homeland Security said the hacking was part of a broad operation dubbed Grizzly Steppe, which DHS says comprises concerting cyberattacks by Moscow’s civilian and military intelligence agencies. 
+The router hacking operation has targeted both government and private sector groups, and the key providers of network infrastructure and internet services serving them. 
+The announcement came in an unprecedented joint alert that underscored closer cooperation between Western governments fighting what they say is an ongoing, multifaceted hacking and online disinformation campaign by Moscow. 
+The alert came from the Britain’s National Cyber Security Centre, DHS and the US Federal Bureau of Investigation. 
+In came after more than one year of separate warnings over the attempted hacking of key infrastructure like power and water utilities in Western countries. 
+The two sides did not give any examples of systems that had been broken into, but said those compromised risked losing data, identities, passwords and even control of their own systems. 
+– Critical network components targeted – 
+The hacking effort goes to the critical components of a computer network: the routers, switches and firewalls designed to safely and accurate deliver data from one computer to another. 
+Taking over a router virtually would give a hacker the ability to manipulate, divert or stop any data from going through it. 
+In an operation like an electric power plant, the hacker could shut down the service or physically damage a plant. 
+A hacker could also “potentially lay a foundation for future offensive operations,” the joint alert said. 
+“The current state of US and UK network devices, coupled with a Russian government campaign to exploit these devices, threatens our respective safety, security, and economic well-being,” it said. 
+Both countries have accused Moscow of concerted efforts to use social media to interfere with public affairs, particularly with the British Brexit referendum and US presidential election in 2016. Share on:

@@ -1,0 +1,608 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="Zimbabwe's up to date business news website. Business Daily carries a selection of Business stories from Zimbabwean newspaper" name="description"/>
+	<meta content=",Zimbabwe,News,African,South African" name="keywords"/>
+	<meta content="eDuzeNet" name="Author"/>
+	<meta content="all" name="robots"/>
+	<meta content="document" name="resource-type"/>
+	<meta content="7 days" name="revisit-after"/>
+	<meta content="Global" name="distribution"/>
+	<meta content="General" name="rating"/>
+	<meta content="copyright 2018 eDuzeNet" name="copyright"/>
+	<meta property="fb:app_id" content="555791234484574">
+	<meta http-equiv="refresh" content="900" />
+	<meta property="og:image" content="http://businessdaily.co.zw/public/images/site_bg/default.png"/>
+    <link rel="shortcut icon" href="public/images/fav_icon.png"/>
+	<title>
+		Business Daily News Zimbabwe
+	
+		</title>
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link href="public/styles/main.css" rel="stylesheet">
+    
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+   <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+   <script src="http://code.jquery.com/jquery-migrate-1.1.1.min.js"></script>
+   <script type="text/javascript" src="public/scripts/site_function.js"></script>
+   <script type="text/javascript" src="public/scripts/eduzeEditor.js"></script>
+   
+
+    	   
+	 
+   <link href="public/styles/videos.css" rel="stylesheet"> 
+   <link href="public/styles/left.css" rel="stylesheet">
+   <link href="public/styles/right.css" rel="stylesheet">
+   <link href="public/styles/ticker.css" rel="stylesheet">
+   <script type="text/javascript">
+     
+    var clockTime = setInterval("siteClock()",1000);
+    
+  </script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43881731-1', 'businessdaily.co.zw');
+  ga('send', 'pageview');
+
+</script>    
+	  </head>
+	<body onload="resizeAll('column_left','column_right')" >
+  <header>
+        <div id="headerAd" class="site_wrap">
+        <div id="login" style="float:left;width:650px">
+                  </div>
+         <!--  <img src="public/images/adverts/guroo.png" alt="guroo" width="" height="" /> -->
+         <div id="s_box">
+    <form action="http://businessdaily.co.zw/index-id-search.html" id="cse-search-box">
+      <div>
+        <input type="hidden" name="cx" value="partner-pub-9770496592056255:2765644179" />
+        <input type="hidden" name="cof" value="FORID:10" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="submit" name="sa" value="" id="sa" />
+        <input type="text" name="q" id="s_b" />
+      </div>
+    </form>
+ 
+
+
+</div>
+        </div>
+		<div id="header" class="site_wrap">
+			<div id="header1">
+			<div id="site_logo"><h1><a href="/">Businessdaily</a></h1></div>
+			<div id="top_ad">
+				<div id="rol1">
+				<h2>Latest News</h2>
+					<ul>
+					      <li><a href="index-id-africa-zk-42123.html">Responsible investors channel over $400bn into Afr...</a></li><li><a href="index-id-national-zk-42122.html">Mnangagwa dispensation brings hope to business...</a></li><li><a href="index-id-business-zk-42121.html">Zimbabwe expects boom in telecomms sector...</a></li><li><a href="index-id-national-zk-42120.html">BCC debt races to $174 million...</a></li>					</ul>
+				</div>
+				<div id="rol2">
+<div>
+<img width="136" src="public/images/articles/africa_1.jpg" align="left">
+<a href="index-id-africa-zk-42123.html">Responsible investors channel over $400bn into Africa</a>
+</div>
+
+<div>
+<img width="136" src="public/images/articles/Mnagagwa-and-Chiwenga123.jpg" align="left">
+<a href="index-id-national-zk-42122.html">Mnangagwa dispensation brings hope to business</a>
+</div>
+
+<div>
+<img width="136" src="public/images/articles/Supa-mandiwanzira-147.jpg" align="left">
+<a href="index-id-business-zk-42121.html">Zimbabwe expects boom in telecomms sector</a>
+</div>
+
+<div>
+<img width="136" src="public/images/articles/bulawayo-revenue-hall.jpg" align="left">
+<a href="index-id-national-zk-42120.html">BCC debt races to $174 million</a>
+</div>
+
+<div>
+<img width="136" src="public/images/articles/TelOne-Zimbabwe_1.jpg" align="left">
+<a href="index-id-business-zk-42119.html">TelOne cuts interest on bills</a>
+</div>
+
+<div>
+<img width="136" src="public/images/articles/Victoria-Falls-rainbow.jpg" align="left">
+<a href="index-id-national-zk-42118.html">Vic Falls join top must-visit sites</a>
+</div>
+
+<div>
+<img width="136" src="public/images/articles/school-of-mines-demo-17-April-18.jpg" align="left">
+<a href="index-id-national-zk-42117.html">School of Mines students block CEO</a>
+</div>
+
+<div>
+<img width="136" src="public/images/articles/hulett-bursaries.png" align="left">
+<a href="index-id-national-zk-42116.html">Tongaat Hulett commissions Chiredzi gas plant</a>
+</div>
+
+<div>
+<img width="136" src="public/images/articles/afdb.png" align="left">
+<a href="index-id-national-zk-42114.html">AfDB, Export Trading Group sign $200m loan deal</a>
+</div>
+
+<div>
+<img width="136" src="public/images/articles/independence-welcome.jpg" align="left">
+<a href="index-id-national-zk-42113.html">Zimbabwe celebrates Independence Day</a>
+</div>
+
+</div>
+				<div id="rol3">
+				      <div id="rol3_inner">
+				      </div>
+				</div>
+			</div>
+			</div>
+			<div id="header2"><div id="time">
+<div id="date">
+ <span id="day">19</span> <span id="mnth">April</span> <span id="yr">2018</span>
+
+</div>
+
+
+<div id="clock">
+<div id="hour_min"><span id="hour"></span><span id="min"></span></div>
+<div id="sec"></div>
+</div>
+</div>
+</div>
+</div>
+
+	<div id="top_nav"  class="site_wrap"><div id="site_nav"><div class="main_btn_outer Home current_page" ><div class="main_btn"><a href="index-id-home.html">Home</a></div></div><div class="main_btn_outer National"><div class="main_btn"><a href="index-id-national.html">National</a></div><div class="top_sub">   <div class="spacer_10"></div>
+   <div class="nav_main_story">
+   <h2>Top Story</h2>
+           <a href="index-id-national-zk-42122.html"><img src="http://businessdaily.co.zw/public/images/articles/Mnagagwa-and-Chiwenga123.jpg" width="250">
+            Mnangagwa dispensation brings hope to business</a>            <p>The new dispensation has brought with it some fresh impetus on the business front with Bulawayo's indigenous entrepreneu...
+</p>
+   </div>
+   <div class="nav_sub_links">
+   <div class="subBusiness News"><a href="index-id-national-sc-business+news.html">Business News</a><ul><li><a href="index-id-national-zk-42122.html">Mnangagwa dispensation brings hope to business</a></li><li><a href="index-id-national-zk-42120.html">BCC debt races to $174 million</a></li></ul></div><div class="subPolitics"><a href="index-id-national-sc-politics.html">Politics</a><ul><li><a href="index-id-national-zk-42113.html">Zimbabwe celebrates Independence Day</a></li><li><a href="index-id-national-zk-42112.html">Six more Zim kids to be deported from SA</a></li></ul></div><div class="subEducation"><a href="index-id-national-sc-education.html">Education</a><ul><li><a href="index-id-national-zk-41767.html">Teachers snub Mnangagwa</a></li><li><a href="index-id-national-zk-41676.html">Zimsec urged to revise grading system</a></li></ul></div><div class="subOpinion"><a href="index-id-national-sc-opinion.html">Opinion</a><ul><li><a href="index-id-national-zk-42091.html">Chamisa, quest for political endorsement</a></li><li><a href="index-id-national-zk-42077.html">Zim scores major foreign policy breakthroughs</a></li></ul></div><div class="subLifestyle"><a href="index-id-national-sc-lifestyle.html">Lifestyle</a><ul><li><a href="index-id-national-zk-39730.html">Hugh Masekela dies</a></li><li><a href="index-id-national-zk-39575.html">Zimbabwe scores another HIV first</a></li></ul></div><div class="subHow to"><a href="index-id-national-sc-how+to.html">How to</a><ul><li><a href="index-id-national-zk-32151.html">How to write a perfect business plan</a></li><li><a href="index-id-national-zk-31933.html">Negotiating project scope for successful project management</a></li></ul></div><div class="subClassifieds"><a href="index-id-national-sc-classifieds.html">Classifieds</a><ul><li><a href="index-id-national-zk-31470.html">Getting your business listed, ALL FREE:</a></li></ul></div><div class="subEntrepreneurs"><a href="index-id-national-sc-entrepreneurs.html">Entrepreneurs</a><ul><li><a href="index-id-national-zk-27285.html">Dhlomo penetrating media world across SADC region</a></li><li><a href="index-id-national-zk-25191.html">Africa is Cool launches an investment solutions mobile app</a></li></ul></div><div class="subTechnology"><a href="index-id-national-sc-technology.html">Technology</a><ul><li><a href="index-id-national-zk-27272.html">Pay4App allows you to buy airtime and more online with EcoCash</a></li><li><a href="index-id-national-zk-27177.html">Pastel, Utande introduce a joint cloud accounting package</a></li></ul></div></div></div></div><div class="main_btn_outer Africa"><div class="main_btn"><a href="index-id-africa.html">Africa</a></div><div class="top_sub">   <div class="spacer_10"></div>
+   <div class="nav_main_story">
+   <h2>Top Story</h2>
+           <a href="index-id-africa-zk-42123.html"><img src="http://businessdaily.co.zw/public/images/articles/africa_1.jpg" width="250">
+            Responsible investors channel over $400bn into Africa</a>            <p>Responsible investment in Africa continues to rise. According to the latest data from the 2017 African Investing for Imp...
+</p>
+   </div>
+   <div class="nav_sub_links">
+   <div class="subAfrica news"><a href="index-id-africa-sc-africa+news.html">Africa news</a><ul><li><a href="index-id-africa-zk-41039.html">White South African farmers packing for Perth</a></li><li><a href="index-id-africa-zk-40401.html">MDC-T recalls Manyenyeni</a></li></ul></div><div class="subAfrica business"><a href="index-id-africa-sc-africa+business.html">Africa business</a><ul><li><a href="index-id-africa-zk-42123.html">Responsible investors channel over $400bn into Africa</a></li><li><a href="index-id-africa-zk-41966.html">'The start of an African economic resurgence'</a></li></ul></div></div></div></div><div class="main_btn_outer World"><div class="main_btn"><a href="index-id-world.html">World</a></div><div class="top_sub">   <div class="spacer_10"></div>
+   <div class="nav_main_story">
+   <h2>Top Story</h2>
+           <a href="index-id-world-zk-41209.html"><img src="http://businessdaily.co.zw/public/images/articles/Brexit.jpg" width="250">
+            UK, EU agree terms for Brexit transition period</a>            <p>The UK and EU have agreed on a "large part" of the agreement that will lead to the "orderly withdrawal" of the UK.Brexit...
+</p>
+   </div>
+   <div class="nav_sub_links">
+   <div class="subAfrica"><a href="index-id-world-sc-africa.html">Africa</a><ul><li><a href="index-id-world-zk-31717.html">Ecobank locked in boardroom battle over outstanding debts</a></li><li><a href="index-id-world-zk-31651.html">NUM to strike at four De Beers businesses</a></li></ul></div><div class="subEurope"><a href="index-id-world-sc-europe.html">Europe</a><ul><li><a href="index-id-world-zk-41209.html">UK, EU agree terms for Brexit transition period</a></li><li><a href="index-id-world-zk-38682.html">Gold miners' Q3' 17 preview</a></li></ul></div><div class="subAsia Pacific"><a href="index-id-world-sc-asia+pacific.html">Asia Pacific</a><ul><li><a href="index-id-world-zk-35915.html">Oil prices rise further but analysts expect downward correction</a></li><li><a href="index-id-world-zk-33433.html">China assumes KP chair</a></li></ul></div><div class="subMiddle East"><a href="index-id-world-sc-middle+east.html">Middle East</a><ul><li><a href="index-id-world-zk-37504.html">Iran could restart nuclear programme</a></li><li><a href="index-id-world-zk-33423.html">Oil drops more than 2% after Iran deal</a></li></ul></div><div class="subAmericas"><a href="index-id-world-sc-americas.html">Americas</a><ul><li><a href="index-id-world-zk-37156.html">Jeff Bezos surpassed Bill Gates</a></li><li><a href="index-id-world-zk-37111.html">US nicotine announcement threatens tobacco producers</a></li></ul></div></div></div></div><div class="main_btn_outer Markets"><div class="main_btn"><a href="index-id-markets.html">Markets</a></div><div class="top_sub">   <div class="spacer_10"></div>
+   <div class="nav_main_story">
+   <h2>Top Story</h2>
+           <a href="index-id-markets-zk-42097.html"><img src="http://businessdaily.co.zw/public/images/articles/ZSE.jpg" width="250">
+            Market Commentary 17 April 2018</a>            <p>The All Share index gained a further 2.55 points (2.81%) to close at 93.23 points. DELTA (DLTA.zw) jumped up $0.1233 to ...
+</p>
+   </div>
+   <div class="nav_sub_links">
+   <div class="subZSE today"><a href="index-id-markets-sc-zse+today.html">ZSE today</a><ul><li><a href="index-id-markets-zk-42097.html">Market Commentary 17 April 2018</a></li><li><a href="index-id-markets-zk-42058.html">Market Commentary 16 April 2018</a></li></ul></div><div class="subZimbabwe"><a href="index-id-markets-sc-zimbabwe.html">Zimbabwe</a><ul><li><a href="index-id-markets-zk-42014.html">ZSE sheds 1,19% as investors wait for polls</a></li><li><a href="index-id-markets-zk-41915.html">ZSE extends CFI suspension</a></li></ul></div><div class="subAfrica"><a href="index-id-markets-sc-africa.html">Africa</a><ul><li><a href="index-id-markets-zk-38493.html">JSE sees R90bn in outflows</a></li><li><a href="index-id-markets-zk-38489.html">Brainworks to list on JSE</a></li></ul></div><div class="subEurope"><a href="index-id-markets-sc-europe.html">Europe</a><ul><li><a href="index-id-markets-zk-37272.html">Tech shares crumble after Dow breaks 22,000</a></li><li><a href="index-id-markets-zk-37150.html">Europe's first rate hike may be coming this week</a></li></ul></div><div class="subAsia Pacific"><a href="index-id-markets-sc-asia+pacific.html">Asia Pacific</a><ul><li><a href="index-id-markets-zk-33324.html">Asia shares mostly up</a></li><li><a href="index-id-markets-zk-31653.html">Asia shares up 1.25% by break</a></li></ul></div><div class="subMiddle East"><a href="index-id-markets-sc-middle+east.html">Middle East</a><ul><li><a href="index-id-markets-zk-31882.html">Hyundai Heavy wins $3.3bn order</a></li><li><a href="index-id-markets-zk-31464.html">Taliban attacks Kabul airport</a></li></ul></div><div class="subAmericas"><a href="index-id-markets-sc-americas.html">Americas</a><ul><li><a href="index-id-markets-zk-32505.html">Twitter plans stock market listing</a></li><li><a href="index-id-markets-zk-32115.html">Stocks close higher after 3-hour Nasdaq trading halt</a></li></ul></div><div class="subLatest Published Reports"><a href="index-id-markets-sc-latest+published+reports.html">Latest Published Reports</a><ul><li><a href="index-id-markets-zk-39195.html">PWS.zw | Audited Financial Results FY17</a></li><li><a href="index-id-markets-zk-39194.html">NTS.zw | Unaudited Financial Results HY18</a></li></ul></div><div class="subAnnouncements"><a href="index-id-markets-sc-announcements.html">Announcements</a><ul><li><a href="index-id-markets-zk-40407.html">SIM.zw | Notice of Extraordinary General Meeting and Circular to Shareholders</a></li><li><a href="index-id-markets-zk-40356.html">ZBFH.zw | Further Cautionary Statement</a></li></ul></div></div></div></div><div class="main_btn_outer Economy"><div class="main_btn"><a href="index-id-economy.html">Economy</a></div><div class="top_sub">   <div class="spacer_10"></div>
+   <div class="nav_main_story">
+   <h2>Top Story</h2>
+           <a href="index-id-economy-zk-41249.html"><img src="http://businessdaily.co.zw/public/images/articles/inflation_1811026b.jpg" width="250">
+            Annual inflation rate now 3.52%</a>            <p>Zimbabwe's annual rate of inflation gained 0,6 percentage points in December 2017 to 3,52 percent in January 2018, lates...
+</p>
+   </div>
+   <div class="nav_sub_links">
+   <div class="subZimbabwe"><a href="index-id-economy-sc-zimbabwe.html">Zimbabwe</a><ul><li><a href="index-id-economy-zk-41083.html">Forex crisis weighs on Zimbabwe economy</a></li><li><a href="index-id-economy-zk-39837.html">Zimbabwe strikes World Bank deal</a></li></ul></div><div class="subEconomc indicators"><a href="index-id-economy-sc-economc+indicators.html">Economc indicators</a><ul><li><a href="index-id-economy-zk-41249.html">Annual inflation rate now 3.52%</a></li><li><a href="index-id-economy-zk-41183.html">Inflation declines, experts query data</a></li></ul></div><div class="subAfrica"><a href="index-id-economy-sc-africa.html">Africa</a><ul><li><a href="index-id-economy-zk-34104.html">Rand remains under pressure</a></li><li><a href="index-id-economy-zk-31667.html">Mandela banknotes defective</a></li></ul></div><div class="subEurope"><a href="index-id-economy-sc-europe.html">Europe</a><ul><li><a href="index-id-economy-zk-32540.html">UK inflation rate falls to 2.7% in August</a></li><li><a href="index-id-economy-zk-31725.html">BoE signals retreat from quantitative easing</a></li></ul></div><div class="subAsia Pacific"><a href="index-id-economy-sc-asia+pacific.html">Asia Pacific</a><ul><li><a href="index-id-economy-zk-31889.html">Australia cuts key interest rate to record low</a></li><li><a href="index-id-economy-zk-31881.html">Japan's tough choice on tax hike</a></li></ul></div><div class="subMiddle East"><a href="index-id-economy-sc-middle+east.html">Middle East</a><ul><li><a href="index-id-economy-zk-31665.html">Lalu Samuel ranked among top 100 Indian leaders in the UAE</a></li><li><a href="index-id-economy-zk-31455.html">Saudi prince sues Forbes - report</a></li></ul></div><div class="subAmericas"><a href="index-id-economy-sc-americas.html">Americas</a><ul><li><a href="index-id-economy-zk-32860.html">Obama to nominates a woman as Fed chair</a></li><li><a href="index-id-economy-zk-32125.html">Brazil to launch $60bn currency programme</a></li></ul></div></div></div></div><div class="main_btn_outer Business"><div class="main_btn"><a href="index-id-business.html">Business</a></div><div class="top_sub">   <div class="spacer_10"></div>
+   <div class="nav_main_story">
+   <h2>Top Story</h2>
+           <a href="index-id-business-zk-42121.html"><img src="http://businessdaily.co.zw/public/images/articles/Supa-mandiwanzira-147.jpg" width="250">
+            Zimbabwe expects boom in telecomms sector</a>            <p>The government is expecting a boom in the country's telecommunications sector following reforms that will see three stat...
+</p>
+   </div>
+   <div class="nav_sub_links">
+   <div class="subBusiness News"><a href="index-id-business-sc-business+news.html">Business News</a><ul><li><a href="index-id-business-zk-42079.html">March inflation drops to 2.68%</a></li><li><a href="index-id-business-zk-41990.html">Dodgy US$1m bank deposit under probe</a></li></ul></div><div class="subFinancial Services"><a href="index-id-business-sc-financial+services.html">Financial Services</a><ul><li><a href="index-id-business-zk-42098.html">Golix expands to South Africa</a></li><li><a href="index-id-business-zk-42096.html">Zimnat launches affordable life policy</a></li></ul></div><div class="subIndustrials & Energy"><a href="index-id-business-sc-industrials+%26+energy.html">Industrials & Energy</a><ul><li><a href="index-id-business-zk-42084.html">Delta revenue jumps 18%</a></li><li><a href="index-id-business-zk-42078.html">Zim puts wind energy plan on hold</a></li></ul></div><div class="subMining & Retail"><a href="index-id-business-sc-mining+%26+retail.html">Mining & Retail</a><ul><li><a href="index-id-business-zk-42101.html">Hwange calls off exploration deal?</a></li><li><a href="index-id-business-zk-42080.html">Moti Group agreeable to selling shares in Zim</a></li></ul></div><div class="subTelecoms & Technology"><a href="index-id-business-sc-telecoms+%26+technology.html">Telecoms & Technology</a><ul><li><a href="index-id-business-zk-42121.html">Zimbabwe expects boom in telecomms sector</a></li><li><a href="index-id-business-zk-42119.html">TelOne cuts interest on bills</a></li></ul></div><div class="subTransport & Tourism"><a href="index-id-business-sc-transport+%26+tourism.html">Transport & Tourism</a><ul><li><a href="index-id-business-zk-42092.html">flyafrica fails to take off again</a></li><li><a href="index-id-business-zk-42082.html">Air Zimbabwe feels the heat</a></li></ul></div><div class="subLands & Agriculture"><a href="index-id-business-sc-lands+%26+agriculture.html">Lands & Agriculture</a><ul><li><a href="index-id-business-zk-42072.html">Tobacco farmers hail payment in forex</a></li><li><a href="index-id-business-zk-42046.html">Tobacco farmers' deal turns sour</a></li></ul></div><div class="subConstruction & Property"><a href="index-id-business-sc-construction+%26+property.html">Construction & Property</a><ul><li><a href="index-id-business-zk-41888.html">Zimre to turn Nicoz House into students quarters</a></li><li><a href="index-id-business-zk-41664.html">Masimba projects cautious outlook</a></li></ul></div><div class="subTrade & Industry"><a href="index-id-business-sc-trade+%26+industry.html">Trade & Industry</a><ul><li><a href="index-id-business-zk-39663.html">Bitcoin dips below $10,000</a></li><li><a href="index-id-business-zk-37022.html">Petra Schools fall on hard times</a></li></ul></div></div></div></div><div class="main_btn_outer Sports"><div class="main_btn"><a href="index-id-sports.html">Sports</a></div></div><div class="main_btn_outer e-Newsletter"><div class="main_btn"><a href="index-id-e-newsletter.html">e-Newsletter</a></div></div><div class="main_btn_outer Jobs"><div class="main_btn"><a href="index-id-jobs.html">Jobs</a></div><div class="top_sub">   <div class="spacer_10"></div>
+   <div class="nav_main_story">
+   <h2>Top Story</h2>
+           <a href="index-id-jobs-zk-41462.html"><img src="http://businessdaily.co.zw/public/images/articles/Job-Vacancy.jpg" width="250">
+            Vacancy - Derivative Traders</a>            <p>A Midrand based company have the following vacancies : Derivative tradersKnowledge, Skills and Experience:&nbsp;&nbsp;&n...
+</p>
+   </div>
+   <div class="nav_sub_links">
+   <div class="subJobs"><a href="index-id-jobs-sc-jobs.html">Jobs</a><ul><li><a href="index-id-jobs-zk-41462.html">Vacancy - Derivative Traders</a></li><li><a href="index-id-jobs-zk-41457.html">Air Force of Zim in massive recruitment drive</a></li></ul></div><div class="subCareers"><a href="index-id-jobs-sc-careers.html">Careers</a><ul><li><a href="index-id-jobs-zk-40382.html">United World College Scholarships</a></li><li><a href="index-id-jobs-zk-38402.html">ZESA Holding national training intake</a></li></ul></div><div class="subPeople Moves"><a href="index-id-jobs-sc-people+moves.html">People Moves</a><ul><li><a href="index-id-jobs-zk-34053.html">Zesa CEO's contract expires </a></li><li><a href="index-id-jobs-zk-33852.html">Mawocha becomes AfrAsia Bank MD</a></li></ul></div></div></div></div><div class="main_btn_outer Videos"><div class="main_btn"><a href="index-id-videos.html">Videos</a></div></div></div>
+</div>
+</header>
+	<div id="leaderBoard" class="site_wrap">
+	<div style="height:90px;">
+
+
+<div style="width:728px;height:90px;float:left">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- business-homepage-top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8379586688508235"
+     data-ad-slot="9062342048"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<div style="width:290px;height:90px;float:right">
+<a href="index-id-business_listing.html"><img width="290" height="90" src="http://img.bulawayo24.com/siteBg/business_ads.gif"></a>
+</div>
+	</div>      
+        </div>
+      
+	<div id="container" class="site_wrap">
+<div id="column_left">
+<div id="cat_mid">
+
+<div id="main_story">
+  <h2 id="main_hdr"><a href="index-id-National-zk-42094.html">WATCH: Mangudya discusses Zim's strategy to revive its economy</a></h2>
+<div id="the_main">
+    <a href="index-id-National-zk-42094.html"><img src="public/images/articles/Mangudya_Bloomberg.jpg" height="160" align="left" style="margin-right:10px"></a>
+<p>
+
+Reserve Bank of Zimbabwe Governor John Mangudya discusses Zimbabwe's strategy to revive its economy. He speaks with Bloomberg's David Westin and Alix Steel on "Bloomberg Daybreak: Americas."https://www.youtube.com/watch?v=49THnBmsRD8
+
+......<br><span class="time_pub">17 April 2018</span></p>
+</div>
+<div id="the_main_li">
+
+  <ul>
+  <div >
+    <li class="slid_h2"><a href="index-id-Business-zk-42080.html">Moti Group agreeable to selling shares in Zim</a></li>
+    <li class="slid_h2"><a href="index-id-National-zk-42108.html">Developers reduce housing backlog by 50%</a></li>
+    <li class="slid_h2"><a href="index-id-National-zk-42071.html">Govt urges nurses to end strike</a></li>
+    <li class="slid_h2"><a href="index-id-Business-zk-42072.html">Tobacco farmers hail payment in forex</a></li>
+    </ul>
+</div>
+</div>
+
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- business-article-inside -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8379586688508235"
+     data-ad-slot="7226516199"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><a href="http://hellomukoma.com/" target="_blank"><img src="http://hellomukoma.com/public/images/banner/mukoma.gif" style="width:100%"></a>
+</center>
+<div class="spacer_20"></div>
+
+<!--
+<div id="market_h">
+      <h2 class="cat_header">Markets</h2>
+
+</div>
+
+
+<div class="mid_right_outer_id">
+  <div class="mid_left_inner_id">
+  <div id="stock_results">
+	
+  </div>
+  </div>
+</div>
+<div class="spacer_20"></div><div class="spacer_20"></div>
+-->
+<div class="cat_feature">
+              <h2 class="cat_header">Business</h2>
+              <div class="cat_smal_img s1">
+              <a href="index-id-Business-zk-42121.html"><img src="public/images/articles/Supa-mandiwanzira-147.jpg" height="135"/></a>
+              <h2><a href="index-id-Business-zk-42121.html">Zimbabwe expects boom in telecomms sector</a></h2><ul><li><a href="index-id-Business-zk-42101.html">Hwange calls off exploration d...</a></li><li><a href="index-id-Business-zk-42099.html">Powertel, Africom and ZARnet t...</a></li><li><a href="index-id-Business-zk-42098.html">Golix expands to South Africa...</a></li><li><a href="index-id-Business-zk-42096.html">Zimnat launches affordable lif...</a></li><li><a href="index-id-Business-zk-42092.html">flyafrica fails to take off ag...</a></li><li><a href="index-id-Business-zk-42088.html">Makamba on the ropes...</a></li><li><a href="index-id-Business-zk-42084.html">Delta revenue jumps 18%...</a></li></ul> </div><div class="cat_smal_img s2">
+              <a href="index-id-Business-zk-42119.html"><img src="public/images/articles/TelOne-Zimbabwe_1.jpg" height="135"/></a>
+              <h2><a href="index-id-Business-zk-42119.html">TelOne cuts interest on bills</a></h2><ul><li><a href="index-id-Business-zk-42080.html">Moti Group agreeable to sellin...</a></li><li><a href="index-id-Business-zk-42079.html">March inflation drops to 2.68%...</a></li><li><a href="index-id-Business-zk-42078.html">Zim puts wind energy plan on h...</a></li><li><a href="index-id-Business-zk-42076.html">'NRZ joint venture agreement e...</a></li><li><a href="index-id-Business-zk-42072.html">Tobacco farmers hail payment i...</a></li><li><a href="index-id-Business-zk-42057.html">Agarwal hires AngloGold's CEO ...</a></li><li><a href="index-id-Business-zk-42046.html">Tobacco farmers' deal turns so...</a></li></ul> </div></div><div class="ad_486"></div>
+
+<div class="spacer_40"></div>
+<div class="cat_feature">
+     <h2 class="cat_header">Featured Video</h2>
+<iframe width="486" height="273" src="//youtube.com/embed/bDTyfm7Rp1g?rel=0&amp;autoplay=0&amp;modestbranding=1;autohide=1&amp;showinfo=0&amp;controls=0" frameborder="0" allowfullscreen></iframe><div class="mid_right_outer_id">
+  <div class="mid_left_inner_id" style="min-height:70px !important;height:70px">
+  Explore Zimbabwe with this video. ATA will host its 2012 World Congress in this "world of wonders."... - <a href="index-id-videos.html">More Videos</a>
+</div></div>
+</div>
+
+<div class="spacer_40"></div>
+<div class="cat_feature">
+              <h2 class="cat_header">Economy</h2>
+              <div class="cat_smal_img s1">
+              <a href="index-id-Economy-zk-41249.html"><img src="public/images/articles/inflation_1811026b.jpg" height="135"/></a>
+              <h2><a href="index-id-Economy-zk-41249.html">Annual inflation rate now 3.52%</a></h2><ul><li><a href="index-id-Economy-zk-41083.html">Forex crisis weighs on Zimbabw...</a></li><li><a href="index-id-Economy-zk-41079.html">Zimbabwe inflation declines to...</a></li><li><a href="index-id-Economy-zk-40477.html">Inflation rises to 3.52%...</a></li><li><a href="index-id-Economy-zk-39837.html">Zimbabwe strikes World Bank de...</a></li><li><a href="index-id-Economy-zk-39665.html">Zimbabwe inflation hits 5-year...</a></li><li><a href="index-id-Economy-zk-39645.html">Inflation stands at 3%...</a></li><li><a href="index-id-Economy-zk-39351.html">Zimbabweans stash $1 billion o...</a></li></ul> </div><div class="cat_smal_img s2">
+              <a href="index-id-Economy-zk-41183.html"><img src="public/images/articles/inflation-101.jpg" height="135"/></a>
+              <h2><a href="index-id-Economy-zk-41183.html">Inflation declines, experts query data</a></h2><ul><li><a href="index-id-Economy-zk-38806.html">Zim trade deficit narrows to $...</a></li><li><a href="index-id-Economy-zk-38640.html">Zim inflation to reach double ...</a></li><li><a href="index-id-Economy-zk-38616.html">September inflation at 0.78%...</a></li><li><a href="index-id-Economy-zk-38436.html">Zimbabwe-SA trade deficit shri...</a></li><li><a href="index-id-Economy-zk-38407.html">RBZ insists inflation will clo...</a></li><li><a href="index-id-Economy-zk-38175.html">Inflation remains unchanged...</a></li><li><a href="index-id-Economy-zk-37881.html">MDC Alliance targets $100 bill...</a></li></ul> </div></div>  <div class="ad_486"></div>
+<div class="spacer_40"></div>
+  <div class="cat_feature">
+              <h2 class="cat_header">National</h2>
+              <div class="cat_smal_img s1">
+              <a href="index-id-National-zk-42122.html"><img src="public/images/articles/Mnagagwa-and-Chiwenga123.jpg" height="135"/></a>
+              <h2><a href="index-id-National-zk-42122.html">Mnangagwa dispensation brings hope to business</a></h2><ul><li><a href="index-id-National-zk-42118.html">Vic Falls join top must-visit ...</a></li><li><a href="index-id-National-zk-42117.html">School of Mines students block...</a></li><li><a href="index-id-National-zk-42116.html">Tongaat Hulett commissions Chi...</a></li><li><a href="index-id-National-zk-42115.html">Private firm to set up 125MW s...</a></li><li><a href="index-id-National-zk-42114.html">AfDB, Export Trading Group sig...</a></li><li><a href="index-id-National-zk-42113.html">Zimbabwe celebrates Independen...</a></li><li><a href="index-id-National-zk-42112.html">Six more Zim kids to be deport...</a></li></ul> </div><div class="cat_smal_img s2">
+              <a href="index-id-National-zk-42120.html"><img src="public/images/articles/bulawayo-revenue-hall.jpg" height="135"/></a>
+              <h2><a href="index-id-National-zk-42120.html">BCC debt races to $174 million</a></h2><ul><li><a href="index-id-National-zk-42110.html">Khupe fights expulsion in cour...</a></li><li><a href="index-id-National-zk-42109.html">Mnangagwa targets middle-incom...</a></li><li><a href="index-id-National-zk-42108.html">Developers reduce housing back...</a></li><li><a href="index-id-National-zk-42107.html">Kickbacks delay city road reha...</a></li><li><a href="index-id-National-zk-42106.html">NSSA bars Vela, ex-CEO Chitiga...</a></li><li><a href="index-id-National-zk-42105.html">Munyaradzi Gwisai savages Cham...</a></li><li><a href="index-id-National-zk-42104.html">'Zimbabwe has leadership crisi...</a></li></ul> </div></div>  <div class="ad_486"></div>
+<div class="spacer_40"></div>
+  <div class="cat_feature">
+              <h2 class="cat_header">Africa</h2>
+              <div class="cat_smal_img s1">
+              <a href="index-id-Africa-zk-42123.html"><img src="public/images/articles/africa_1.jpg" height="135"/></a>
+              <h2><a href="index-id-Africa-zk-42123.html">Responsible investors channel over $400bn into Africa</a></h2><ul><li><a href="index-id-Africa-zk-41039.html">White South African farmers pa...</a></li><li><a href="index-id-Africa-zk-40662.html">Black executive quits MMI for ...</a></li><li><a href="index-id-Africa-zk-40401.html">MDC-T recalls Manyenyeni...</a></li><li><a href="index-id-Africa-zk-40378.html">Zim, Bots agree on Bi-National...</a></li><li><a href="index-id-Africa-zk-39415.html">Comesa hunts for Ngwenya succe...</a></li><li><a href="index-id-Africa-zk-39390.html">White Zimbabwean farmer return...</a></li><li><a href="index-id-Africa-zk-39065.html">Comesa explores ways to reshap...</a></li></ul> </div><div class="cat_smal_img s2">
+              <a href="index-id-Africa-zk-41966.html"><img src="public/images/articles/Anil-Agarwal-Chairman-Vedanta-Group-2.jpg" height="135"/></a>
+              <h2><a href="index-id-Africa-zk-41966.html">'The start of an African economic resurgence'</a></h2><ul><li><a href="index-id-Africa-zk-39020.html">Zim, Zambia inch towards One-s...</a></li><li><a href="index-id-Africa-zk-38899.html">Moody's places SA Inc on downg...</a></li><li><a href="index-id-Africa-zk-38777.html">S&P Global downgrades SA to ju...</a></li><li><a href="index-id-Africa-zk-38354.html">Comesa countries urged to embr...</a></li><li><a href="index-id-Africa-zk-38267.html">JSE hit by a technical glitch,...</a></li><li><a href="index-id-Africa-zk-38182.html">SA starts processing permits f...</a></li><li><a href="index-id-Africa-zk-38104.html">SA expected to cut interest ra...</a></li></ul> </div></div><div class="cat_feature">
+              <h2 class="cat_header">World</h2>
+              <div class="cat_smal_img s1">
+              <a href="index-id-World-zk-41209.html"><img src="public/images/articles/Brexit.jpg" height="135"/></a>
+              <h2><a href="index-id-World-zk-41209.html">UK, EU agree terms for Brexit transition period</a></h2><ul><li><a href="index-id-World-zk-38303.html">Uber's London licence revoked...</a></li><li><a href="index-id-World-zk-38207.html">The world's biggest wealth fun...</a></li><li><a href="index-id-World-zk-37504.html">Iran could restart nuclear pro...</a></li><li><a href="index-id-World-zk-37207.html">Facebook to launch TV shows...</a></li><li><a href="index-id-World-zk-37156.html">Jeff Bezos surpassed Bill Gate...</a></li><li><a href="index-id-World-zk-37111.html">US nicotine announcement threa...</a></li><li><a href="index-id-World-zk-37034.html">UK to ban new diesel and petro...</a></li></ul> </div><div class="cat_smal_img s2">
+              <a href="index-id-World-zk-38682.html"><img src="public/images/articles/gold-refining.jpg" height="135"/></a>
+              <h2><a href="index-id-World-zk-38682.html">Gold miners' Q3' 17 preview</a></h2><ul><li><a href="index-id-World-zk-36139.html">British business leaders plan ...</a></li><li><a href="index-id-World-zk-36138.html">Euro rises as Greece offers ne...</a></li><li><a href="index-id-World-zk-35918.html">UK watchdog to tackle HSBC on ...</a></li><li><a href="index-id-World-zk-35917.html">UK watchdog to tackle HSBC on ...</a></li><li><a href="index-id-World-zk-35916.html">Gold rally extends to 4th day ...</a></li><li><a href="index-id-World-zk-35915.html">Oil prices rise further but an...</a></li><li><a href="index-id-World-zk-34116.html">Microsoft's Bill Gates steps d...</a></li></ul> </div></div>
+
+<div class="spacer_40"></div>
+
+</div><div id="cat_Ad_160x600">
+
+<div class="spacer_20"></div>
+<!--
+<div class="mid_right_outer_id">
+<div class="mid_right_inner_id rss_com">
+<img src="public/images/site_bg/live_wire.png" width="60" height="52" align="left" style="margin-right:5px;"/>
+Have a story we missed? A link we have to click? A sharp opinion about the news? Instead of waiting for us to post it, tell us on the Live Wire.
+</div></div>
+<div class="spacer_20"></div>
+-->
+
+
+
+<div class="pink_h2">
+<h2>Editor's Pick</h2>
+</div>
+
+<div class="mid_right_outer_id">
+<div class="mid_right_inner_id rss_com"> 
+        <ul>
+
+           <li>
+           <a href="index-id-home-zk-42123.html">           <img  src="public/images/articles/africa_1.jpg" width="136"/></a>
+                      <a href="index-id-home-zk-42123.html">Responsible investors channel over $400bn into Africa</a>
+           </li>
+           <li>
+           <a href="index-id-home-zk-42122.html">           <img  src="public/images/articles/Mnagagwa-and-Chiwenga123.jpg" width="136"/></a>
+                      <a href="index-id-home-zk-42122.html">Mnangagwa dispensation brings hope to business</a>
+           </li>
+           <li>
+           <a href="index-id-home-zk-42121.html">           <img  src="public/images/articles/Supa-mandiwanzira-147.jpg" width="136"/></a>
+                      <a href="index-id-home-zk-42121.html">Zimbabwe expects boom in telecomms sector</a>
+           </li>
+           <li>
+           <a href="index-id-home-zk-42120.html">           <img  src="public/images/articles/bulawayo-revenue-hall.jpg" width="136"/></a>
+                      <a href="index-id-home-zk-42120.html">BCC debt races to $174 million</a>
+           </li>
+           <li>
+           <a href="index-id-home-zk-42119.html">           <img  src="public/images/articles/TelOne-Zimbabwe_1.jpg" width="136"/></a>
+                      <a href="index-id-home-zk-42119.html">TelOne cuts interest on bills</a>
+           </li>
+          </ul>
+
+
+</div></div>
+
+<div class="spacer_20"></div>
+<div class="pink_h2">
+<h2>Announcements</h2>
+</div>
+
+<div class="mid_right_outer_id">
+<div class="mid_right_inner_id rss_com"> 
+
+<ul>
+               <li class="li_announcements">
+           <a href="index-id-markets-zk-40407.html">SIM.zw | Notice of Extraordinary General Meeting and Circular to Shareholders</a>
+           </li>
+           <li class="li_announcements">
+           <a href="index-id-markets-zk-40356.html">ZBFH.zw | Further Cautionary Statement</a>
+           </li>
+           <li class="li_announcements">
+           <a href="index-id-markets-zk-40355.html">PROL.zw | Dividend Announcement</a>
+           </li>
+           <li class="li_announcements">
+           <a href="index-id-markets-zk-40354.html">SEED.zw | Increase in shares in issue</a>
+           </li>
+           <li class="li_announcements">
+           <a href="index-id-markets-zk-40353.html">DLTA.zw | Increase in shares in issue</a>
+           </li>
+           <li class="li_announcements">
+           <a href="index-id-markets-zk-40352.html">AFDS.zw | Decrease in shares in issue</a>
+           </li>
+           <li class="li_announcements">
+           <a href="index-id-markets-zk-40351.html">PPC.zw | Increase in shares in issue</a>
+           </li>
+           <li class="li_announcements">
+           <a href="index-id-markets-zk-40350.html">OML.zw | Increase in shares in issue</a>
+           </li>
+           <li class="li_announcements">
+           <a href="index-id-markets-zk-40349.html">ARIS.zw | Increase in shares in issue</a>
+           </li>
+           <li class="li_announcements">
+           <a href="index-id-markets-zk-40348.html">ARIS.zw | Notice of Annual General Meeting</a>
+           </li>
+           <li class="li_announcements">
+           <a href="index-id-markets-zk-40347.html">ARTD.zw | Notice of Annual General Meeting</a>
+           </li>
+           <li class="li_announcements">
+           <a href="index-id-markets-zk-40346.html">TSL.zw | Dividend Announcement</a>
+           </li>
+</ul>
+        
+</div></div>
+
+
+
+<div class="spacer_20"></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- business-article-inside -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8379586688508235"
+     data-ad-slot="7226516199"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><div class="spacer_20"></div>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- business-article-inside -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8379586688508235"
+     data-ad-slot="7226516199"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>	
+
+<div id="column_right">
+		<div class="fb-page" data-href="https://www.facebook.com/Business-Daily-Zimbabwe-569255129783016/" data-width="336" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Business-Daily-Zimbabwe-569255129783016/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Business-Daily-Zimbabwe-569255129783016/">Business Daily Zimbabwe</a></blockquote></div>
+
+
+<script src="public/scripts/lib/Highcharts-3.0.1/js/highcharts.js"></script>
+<script src="public/scripts/lib/Highcharts-3.0.1/js/modules/exporting.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- business-homepage-side -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8379586688508235"
+     data-ad-slot="2647486244"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><div class="spacer_20"></div>
+
+<div id="live_Box">
+<div class="mid_right_outer_id">
+<div class="mid_right_inner_id signUp">
+<h1>Get <span class="ZimKasi">BusinessDaily</span> Updates Alerts</h1>
+<form  action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=co/GZpGN', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+<input id="u_email" name="email" type="text" value="e-mail" title="e-mail"/>  <input id="com_btn_signup" type="submit" value="SignUp" />
+<p>By clicking 'SIGN-UP' you agree to our <a href="index-id-policy.html" style="font-weight:normal;font-style:italic;font-size:12px">Terms of Service</a></p>
+<input type="hidden" value="co/GZpGN" name="uri"/>
+<input type="hidden" name="loc" value="en_US"/>
+
+</form>
+</div></div>
+
+</div>
+
+<div class="spacer_20"></div>
+<div id="h2_pink">
+<h2>Latest News</h2>
+</div>
+<div class="mid_right_outer_id">
+<div class="mid_right_inner_id">
+<ol>
+<li><span>1</span> <a href="index-id-africa-zk-42123.html">Responsible investors channel over $400bn into Africa</a></li><li><span>2</span> <a href="index-id-national-zk-42122.html">Mnangagwa dispensation brings hope to business</a></li><li><span>3</span> <a href="index-id-business-zk-42121.html">Zimbabwe expects boom in telecomms sector</a></li><li><span>4</span> <a href="index-id-national-zk-42120.html">BCC debt races to $174 million</a></li><li><span>5</span> <a href="index-id-business-zk-42119.html">TelOne cuts interest on bills</a></li><li><span>6</span> <a href="index-id-national-zk-42118.html">Vic Falls join top must-visit sites</a></li><li><span>7</span> <a href="index-id-national-zk-42117.html">School of Mines students block CEO</a></li><li><span>8</span> <a href="index-id-national-zk-42116.html">Tongaat Hulett commissions Chiredzi gas plant</a></li><li><span>9</span> <a href="index-id-national-zk-42115.html">Private firm to set up 125MW solar plant in Vic Falls</a></li><li><span>10</span> <a href="index-id-national-zk-42114.html">AfDB, Export Trading Group sign $200m loan deal</a></li>
+</ol>
+<ul>
+<li class="more"><a href="index-id-latest.html">More News >></a></li>
+<ul>   
+</div>
+</div>
+
+<div class="spacer_20"></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- business-homepage-other -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8379586688508235"
+     data-ad-slot="3562603354"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="spacer_20"></div>
+
+<div id="h2_pink">
+<h2>Latest Published Reports</h2>
+</div>
+<div class="mid_right_outer_id">
+<div class="mid_right_inner_id">
+<ul>
+<li class="pdf"><a href="index-id-markets-zk-39195.html"><span class="company_name">PWS.zw </span> |  Audited Financial Results FY17</a></li>
+<li class="pdf"><a href="index-id-markets-zk-39194.html"><span class="company_name">NTS.zw </span> |  Unaudited Financial Results HY18</a></li>
+<li class="pdf"><a href="index-id-markets-zk-38937.html"><span class="company_name">SACL.zw </span> |  Unaudited Financial Results HY18</a></li>
+<li class="more"><a href="index-id-markets-sc-latest+published+reports.html">More Reports >></a></li>
+</ul>
+  
+</div>
+</div>
+<div class="spacer_20"></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- business-homepage-other -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8379586688508235"
+     data-ad-slot="3562603354"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="spacer_20"></div>
+<div id="h2_pink">
+<h2>Latest jobs</h2>
+</div>
+<div class="mid_right_outer_id">
+<div class="mid_right_inner_id">
+<ul>
+<li class="jobs"><a href="index-id-jobs-zk-41462.html"><img src="public/images/site_bg/find-a-job.png" alt="" align="left"/>Vacancy - Derivative Traders</a><br>
+A Midrand based company have the following vacanci...
+
+</li>
+<li class="jobs"><a href="index-id-jobs-zk-41457.html"><img src="public/images/site_bg/find-a-job.png" alt="" align="left"/>Air Force of Zim in massive recruitment drive</a><br>
+The Air Force of Zimbabwe has embarked on a massiv...
+
+</li>
+<li class="more"><a href="index-id-jobs.html">More Jobs >></a></li>
+</ul>
+  
+</div>
+</div>
+<div class="spacer_20"></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- business-homepage-other -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8379586688508235"
+     data-ad-slot="3562603354"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="spacer_20"></div>
+</div>
+	
+
+</div>	
+
+<div id="bottom_ad" class="site_wrap">
+    <a href="http://hellomukoma.com/" target="_blank"><img src="http://hellomukoma.com/public/images/banner/mukoma.gif" style="width:100%"></a>
+    
+</div>
+
+
+<div id="footer">
+<div class="site_wrap" onload="resizeAll('column_left','column_right')">
+	
+<div id="copy_right">
+  <div id="footerNav" >  &copy; Copyright 2018 Businessdaily is not responsible for the content of external sites | <a href="index-id-policy.html">IP Policy</a> | <a href="index-id-policy.html">Terms of Service</a> | <a href="index-id-help.html">Help</a> | <a href="index-id-help.html">Contact Us</a> | <a href="/rss">RSS Feeds</a> | <a href="/sitemap">Sitemap</a></div>
+  <div id="shaanky">
+      <a target="_blank" href="http://eduzenet.com"><img alt="Powered by eDuzeNet" src="http://eduzenet.com/images/logo.png" height="32" width="100"/></a>
+   </div>
+ 
+</div></div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+Home / Business / Facebook launches audit of data leaked to Trump consultant Facebook launches audit of data leaked to Trump consultant   20, 2018 Business , TECH   57 Views 
+  Facebook announced Monday it has hired a digital forensics firm to investigate the handling of data on millions of Americans leaked to a consulting firm working on Donald Trump’s 2016 presidential campaign. 
+The move by Facebook came amid an onslaught of criticism after reports that British firm Cambridge Analytica harvested personal data from the profiles of 50 million users of the social network without their knowledge or consent. 
+A Facebook statement said the forensics firm Stroz Friedberg would “conduct a comprehensive audit of Cambridge Analytica,” and that the company had agreed to comply and provide access to its servers and systems. 
+Facebook said University of Cambridge psychologist Aleksandr Kogan, who developed the app used to harvest user data, also agreed to cooperate. 
+It added that Christopher Wylie, a Canadian data analytics expert who worked with Kogan and who revealed the data leak to media, had declined to cooperate with the audit. 
+“This is part of a comprehensive internal and external review that we are conducting to determine the accuracy of the claims that the Facebook data in question still exists,” the California social network giant said. 
+It noted that the parties involved had certified to Facebook the data in question had been destroyed, but said that “if this data still exists, it would be a grave violation of Facebook’s policies and an unacceptable violation of trust and the commitments these groups made.” 
+Facebook says its terms of service were violated when Kogan “lied” and used the results of his personality quiz to pass on data to Cambridge Analytica, which helped in Trump’s 2016 campaign. 
+“We remain committed to vigorously enforcing our policies to protect people’s information,” Facebook said. 
+“We also want to be clear that today when developers create apps that ask for certain information from people, we conduct a robust review to identify potential policy violations and to assess whether the app has a legitimate use for the data. We actually reject a significant number of apps through this process.” Share on:
