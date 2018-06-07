@@ -1,0 +1,9 @@
+4A Games' Metro Exodus to support Nvidia RTX technology by Email 
+Should put a lot of strain on the hardware 
+4A Games has confirmed that its upcoming Metro Exodus game will support Nvidia's recently announced RTX raytracing technology. 
+We already saw a lot about raytracing at the Game Developers Conference 2018 and the fact that Nvidia managed to get some big names behind its RTX raytracing technology did not really come as a surprise. 
+One of those developers, 4A Games, has confirmed that its upcoming Metro Exodus game, set to come out this year, will actually support Nvidia RTX technology and has released a tech demo which shows the RTX real-time raytracing in the game's engine. 
+In case you missed it, Nvidia's RTX raytracing technology , promises some impressive visual eye candy with raytraced area shadows, raytraced glossy reflections, and raytraced ambient occlusion. 
+Metro series has been known to be hard on the hardware and it appears that the Metro Exodus won't be an exception and with support for Nvidia RTX, it will certainly push both currently available and any further hardware to its limits. 
+The video does not show much but it does show actual game content with some impressive looking reflections in the water. 
+While Metro Exodus is just one of the first AAA titles to have support for Nvidia RTX, we are quite sure that others will join soon and, we suspect that Nvidia's upcoming Geforce consumer graphics card will have something to do with it. 

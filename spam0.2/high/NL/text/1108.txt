@@ -1,0 +1,11 @@
+Microsoft steps in to help open source with its licensing by Email 
+Gamekeepers helps poachers 
+Software King of the World Microsoft is joining Red Hat, Facebook, Google and IBM in helping the open source movement how it can sort out its licensing woes. 
+On March 19, officials from Microsoft -- along with CA Technologies, Cisco, HPE, SAP and SUSE -- said they'd work with open together with the already-committed vendors to provide more "predictability" for users of open source software. 
+Open Source has a bit of a problem with outfits who see the code as "free" and use it as they like without paying or following the licences. The cost of enforcement is often beyond the powers of many open saucy developers. 
+Red Hat said that large ecosystems of projects using the GPLv2 and LGPLv2.x licences will benefit from adoption of a more balanced approach to termination derived from GPLv3. 
+The companies which have agreed to adopt the "Common Cure Rights Commitment" said before they file or continue to prosecute those accused of violating covered licenses, they will allow for users to cure and reinstate their licenses. More of the specific legal language around this is in Red Hat's press release. 
+Microsoft's blog post said that licensees of GPLv2 code will get "a reasonable period of time to correct licence compliance issues". 
+The move is the latest from Microsoft in its campaign to become a leading open-source ecosystem member. As today's post from Microsoft notes, it's been 10 years since Microsoft submitted its first patch to a GPLv2 project ADOdb, a database abstraction layer for PHP. 
+What is more interesting is that a decade ago I was writing stories about how Microsoft was threatening Linux vendors by claiming free and open-source software infringed on 235 of Microsoft's patents. In 2007, Microsoft was very openly and publicly anti-GPLv3, claiming it was an attempt "to tear down the bridge between proprietary and open source technology that Microsoft has worked to build with the industry and customers". 
+Microsoft ex-CEO, the shy and retiring Steve "there's a kind of hush" Baller dubbed Linux a cancer on the IT industry. 

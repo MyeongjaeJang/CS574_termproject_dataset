@@ -1,0 +1,11 @@
+by Expert Video: The driver of the autonomous Uber was distracted before fatal crash 
+The Tempe, Arizona police department have released a video showing the moments before the fatal crash that involved Uber’s self-driving car . The video includes the view of the street from the Uber and a view of minder behind the wheel of the autonomous Uber. 
+Warning: This video is disturbing. Tempe Police Vehicular Crimes Unit is actively investigatingthe details of this incident that occurred on March 18th. We will provide updated information regarding the investigation once it is available. pic.twitter.com/2dVP72TziQ 
+— Tempe Police (@TempePolice) March 21, 2018 
+The video shows the victim crossing a dark street when an Uber self-driving Volvo XC90 strikes her at 40 mph. It also shows the person who is supposed to be babysitting the autonomous vehicle looking down moments before the crash. It’s unclear what is distracting the minder. It’s also unclear why Uber’s systems did not detect and react to the victim who was clearly moving across its range of sensors at walking speeds. 
+Uber provided the following statement regarding the incident to TechCrunch: 
+Our hearts go out to the victim’s family. We are fully cooperating with local authorities in their investigation of this incident. 
+Since the crash on March 19, Uber has pulled all its vehicles from the roads operating in Pittsburgh, Tempe, San Francisco and Toronto. This is the first time an autonomous vehicle operating in self-driving mode has resulted in a human death. In a statement to TechCrunch , the NHTSA said it has sent over its “Special Crash Investigation” team to Tempe. This is “consistent with NHTSA’s vigilant oversight and authority over the safety of all motor vehicles and equipment, including automated technologies,” a spokesperson for the agency told TechCrunch. 
+“NHTSA is also in contact with Uber, Volvo, Federal, State and local authorities regarding the incident,” the spokesperson said. “The agency will review the information and proceed as warranted.” 
+Toyota also paused its self-driving testing in the US following the accident. 
+This tragic accident is the sort of situation self-driving vehicles are supposed to address. After all, these systems are supposed to be able to see through the dark and cannot get distracted by Twitter. Share this:

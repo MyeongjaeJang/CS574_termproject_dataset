@@ -1,0 +1,5 @@
+Sending a non-animated Animoji with a custom expression is pretty simple — you just need to tap. Open a Messages conversation. Tap the Messages App Store icon. Choose Animoji. Make an expression. Rather than tapping the red record button, tap right on the Animoji itself. 
+Once you’ve tapped on the Animoji, a still image of the expression you were making will be input into the chat bar, and you can tap on the blue arrow to send it to the person you’re conversing with. Using an Animoji as a Sticker 
+Animoji can be manipulated like any other sticker, and to do so, you’re going to follow the same steps from above. Open a Messages conversation. Tap the Messages App Store icon. Choose Animoji. Pick your favorite Animoji. Make an expression. Instead of tapping, place a finger over the Animoji and drag it up into the Messages field, where it can be placed over any chat bubble, image, or sticker. 
+While in drag mode, an Animoji behaves like any other sticker. Keep your finger on it and use pinch gestures to make it smaller or slide a finger over the screen to rotate it to a different angle. 
+Discuss this article in our forums Share this:

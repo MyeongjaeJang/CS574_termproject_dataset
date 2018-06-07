@@ -1,0 +1,4 @@
+Telegram faces ban in Russia after losing court appeal over encryption keys  47 CET | News 
+The Russian Supreme Court has rejected an appeal from the messaging app Telegram against the Federal Security Service's request for the company to disclose encryption keys to access messages from Telegram users, reports Tdaily.ru. Russian federal telecommunications regulator Roskomnadzor ordered Telegram to fulfill the requirement within 15 days. 
+The watchdog plans to block the messenger if the company refuses to disclose the keys. 
+Telegram has resisted the blanket access to its platform, saying access to private correspondence should be possible only with a court warrant.  

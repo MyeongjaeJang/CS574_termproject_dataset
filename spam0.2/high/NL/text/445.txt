@@ -1,0 +1,4 @@
+Tele2 Russia expands contract with Anam   15:38 CET | News 
+Mobile operator Tele2 Russia has concluded a major three-year contract with Anam involving the overlay of Anam’s Managed A2P SMS Services portfolio on the currently deployed SMS firewall. Tele2 Russia initially purchased the Anam firewall back in 2014 to manage spam SMS and the two companies have worked closely since then to tackle SMS fraud on the Tele2 Russia network, including empowering subscribers through the introduction of a user-controlled feature to blacklist message originators. The Anam firewall protects subscribers from unauthorised SMS messages and SMS-driven fraud, as well as fulfilling Russian regulations in this area. 
+Tele2 Russia is using a multi-level protection system to detect and block mobile fraud on its network. Free Headlines in your E-mail 
+Every day we send out a free e-mail with the most important headlines of the last 24 hours.

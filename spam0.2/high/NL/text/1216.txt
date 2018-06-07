@@ -1,0 +1,5 @@
+Orange Poland, T-Mobile Poland may stop sharing spectrum in Networks! - report  30 CET | News 
+Orange Poland and T-Mobile Poland may be about to scale back their network sharing in the joint venture Networks!, reported Rpkom.pl based on unofficial information. The operators would stop sharing frequencies in the 900 MHz and 1800 MHz bands, as they each have enough of their own spectrum now, according to the report. 
+That could mean that Orange, which used T-Mobile's frequencies in the 1800 MHz band, is closer to an agreement with Polkomtel on the purchase of a 20 MHz block in the 1800 MHz band. 
+To increase data speed in the networks, operators are deploying three-carrier, and recently four-carrier aggregation. Carrier aggregation works best with adjacent frequencies. Therefore, reshuffling of awarded spectrum ranges will be necessary. The regulator UKE is dealing with the applications from operators and several scenarios are possible. 
+If there is an agreement with Polkomtel, Orange and T-Mobile would have 20 MHz each in the 1800 MHz band, just like Cyfrowy Polsat (Play has 15 MHz).  

@@ -1,0 +1,10 @@
+Spring Creators Update will take 30 minutes to install by Email 
+Better than one to two hours 
+Software King of the World Microsoft has sped up the amount of time it will take to upgrade its Windows 10 major feature upgrade. 
+Apparently, the Spring Creators Update will take around 30 minutes to install, unlike previous variants that took between one and two hours. 
+Vole said that the boost was thanks to working engineers have done on the "Feature Update" process. The Feature Update process consists of two separate phases —the "online" and "offline" stages. 
+During the "online" phase, the user's computer downloads the necessary update files and executes various operations in the OS' background without affecting the device's battery life or system performance. 
+The "offline" stage occurs when the OS needs to restart several times and keep the user trapped into an "applying update" screen while Windows updates itself with new features. 
+Ever since Microsoft released Windows 10 and subsequent Feature Updates (Anniversary Update, Creators Update, Fall Creators Update), this process has been offline-heavy, meaning users had to wait considerable amounts of time for Windows to finish the update. The average "offline" time to upgrade to last year's Windows 10 Creators Update version was 82 minutes. 
+Vole has moved many update procedures from the "offline" stage to the "online" phase that runs in the OS background. The first results of this mammoth task were seen last October when the average "offline" installation time for the Fall Creators Update went down to only 51 minutes. 
+The downside is that the "online" phase now takes longer to complete, but that most users will never notice when this takes place as it happens in the background. Last modified on

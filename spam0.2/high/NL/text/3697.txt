@@ -1,0 +1,1 @@
+New features On the book details page, you can now edit any metadata and change covers by clicking the edit metadata icon in the right area of the top bar. Note that only users that have write permissions for the library can edit metadata.

@@ -1,0 +1,3 @@
+Vivaldi web browser picks DuckDuckGo for private search   14:01 CET | News 
+The web browser Vivaldi announced an agreement to use DuckDuckGo as the default search engine on its 'Private Windows' service. Opening a Private Window in Vivaldi allows users to browse in a more secure way, with sites visited, cookies and temporary files not stored. 
+With this integration, Vivaldi continues its focus on privacy and security for its users. It does not track or gather any private information from its users.  

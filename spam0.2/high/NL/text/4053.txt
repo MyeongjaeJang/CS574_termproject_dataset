@@ -1,0 +1,6 @@
+Free Webinar: Why voice quality is still a differentiator in todays mobile networks on April 26, 2018 WEBWIRE – Monday, March 26, 2018 
+Please join us at 10:00 CET (Paris) - 17:00 CST (Beijing) or 18:00 CET (Paris) - 12:00 EDT (New York) 
+The proportion of mobile network traffic represented by voice communications has been steadily decreasing so now it represents around 2% of traffic compared with around 70% for video. We have also seen the rise of OTT voice services competing with operators. Additionally, the emergence of new voice codecs and complex network technology make measuring end user voice quality more challenging. 
+However, voice remains the principle service for which most subscribers use their mobile device and voice quality continues to be a critical factor in how they perceive their operator and OTT applications. This webinar will examine the significance of voice in todays mobile networks and look at the importance of an integrated metric that quantifies voice quality from an end user perspective. 
+In this webinar, you will learn: The significance of voice services in todays mobile networks The factors that determine voice quality How to measure voice quality and how to troubleshoot issues The increasing role of OTT voice services incl. comparison with operator voice services based on real measurements 
+Who should attend?

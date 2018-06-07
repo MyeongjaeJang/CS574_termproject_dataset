@@ -1,0 +1,4 @@
+T-Mobile Austria waives its own Android adjustments   10:57 CET | News 
+Following the recent announcement by Deutsche Telekom that it would waive its own pre-installed apps and modified firmware on Telekom-brand Android smartphones, its Austrian subsidiary T-Mobile Austria said upon enquiry that it had already cancelled its own modifications in the middle of 2017, reported Der Standard. 
+The network operator's ready-installed software is one of the most unpopular phenomena of the smartphone world. For years, users have been complaining about components perceived as "bloatware". Waiving the practice can also speed up the delivery of software updates, since the time required for all these adjustments is eliminated, and the software can be directly adopted by the manufacturer. 
+T-Mobile Austria does offer its own apps while setting up a new smartphone, but these remain completely optional and can also be easily removed later.  

@@ -1,0 +1,13 @@
+Mark 0 Comment Hey Guys,
+Been lurking for a while and finally started jumping in and buying parts after doing a lot of studying. 
+I have an SCX10 II Kit version and a few weeks ago I bought a puller pro 3500kV and BLE PRo from Holmes. 
+I geared down to a 9T pinion and the performance is awesome and speed is just about where I want it to be on 4S LiFePo4 (13.2volts) 
+I was digging around on pinion sizes and see hot racing offers them all the way down to a 6T 32P size. 
+Soooo just for fun, I was thinking of going up to a 4500kV motor and down to a 7T pinion… to see what differences I feel. I am hoping for better low speed control and braking. Not that it isn’t great already, but can it be better? 
+Not that I need more torque, but it seems the faster the motor spins, the better it responds, brakes, etc….. 
+I am not worried about breaking parts, I just enjoy learning stuff and researching new parts to upgrade as a break stuff 😉 
+Will these small pinions hold up with a good metal spur gear in these situations? 
+I plugged the numbers into the calculator I made and the top speed is identical between 9T and 3500kV and 7T 4500kV…. 
+So what do you say? 
+Attached are the results from the changes in my calulator. 
+7T 4500kV 

@@ -1,0 +1,32 @@
+RALEIGH, N.C. 
+Red Hat, Inc. ( NYSE: RHT 
+In Nov. 2017, Red Hat, Facebook, Google, and IBM Common Cure Rights Commitment 
+The commitment language adopted by each company is: 
+Before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, [Company] commits to extend to the person or entity (you) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term this License refers to the specific Covered License being enforced. 
+However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation. 
+Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice. 
+pany] and assignees of or successors to [Company]s copyrights. 
+[Company] may modify this Commitment by publishing a new edition on this page or a successor location. 
+Covered License means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public License, version 2.1 (LGPLv2.1), or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation. 
+Defensive Action means a legal proceeding or claim that Red Hat brings against you in response to a prior proceeding or claim initiated by you or your affiliate. 
+[Company] means [Company] and its subsidiaries. 
+Read the individual commitments: R https://www.redhat.com/en/about/gplv3-enforcement-statement and https://www.redhat.com/en/blog/ability-correct-errors-gplv2-compliance-right-thing-do 
+https://www.suse.com/licensing/gplv3-enforcement-statement/ and https://www.suse.com/c/gpl-enforcement-statement/ 
+Supporting Quotes 
+Michael Cunningham, executive vice president general counsel, Red Hat 
+rtant statement that license enforcement activities should foster greater development participation and adoption of open source software. 
+Christopher Herbst, vice president assistant general counsel, CA Technologies 
+Open source software is an important component of the modern software factory. As an active participant in open source and open standards, and consistent with our mission to eliminate the barriers between ideas and business outcomes, we are happy to join in this Commitment to bring greater predictability to open source licensing. 
+Willie Hernandez, vice president deputy general counsel, HPE 
+HPE has been a supporter of and leader in open source and Linux for more than 15 years. We remain committed to open source and open standards as important ways to encourage collaboration across the industry. To that end, we hope incorporating the cure period into additional flavors of GPL licenses provides users the comfort to utilize open source software as they strive for innovation. 
+Eileen Evans, Micro Focus deputy general counsel and board member of the Linux Foundation 
+It is heartening to see such a diverse group of companies standing behind the common cause of promoting fairness in license compliance. This initiative will both further confidence in open source and support its future growth. 
+Erich Andersen, corporate vice president chief IP counsel, Microsoft 
+ure opportunity if they miss a step in license compliance. We believe that todays announcement will help advance an industry norm on this important issue and help increase collaboration and innovation in the Linux community. 
+Janaka Bohr, head of Licensing Compliance, SAP 
+Increasingly users of open source software are concerned about unintentional noncompliance with associated license terms and inadvertent exposure to legal risk. SAP believes that the initiative of applying GPLv3s non-compliance cure provisions to GPLv2 is a step in the right direction to protect the principles of open source. 
+Nils Brauckmann, CEO, SUSE 
+SUSE believes promoting more equitable and consistent practices in open source license enforcement will increase both participation in the open source community and actual value derived from open source software by developers and users. As other GPLv2 copyright holders embrace this licensing approach, the resulting growth in development and adoption will, in turn, fuel greater innovation and opportunity. About Red Hat 
+Red Hat is the worlds leading provider of open source software solutions, using a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage and virtualization technologies. Red Hat also offers award-winning support, training, and consulting services. As a connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT. Learn more at http://www.redhat.com. Forward-looking statements 
+Certain statements contained in this press release may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements provide current expectations of future events based on certain assum 
+( Press Release Image:

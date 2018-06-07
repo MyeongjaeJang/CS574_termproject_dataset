@@ -1,0 +1,15 @@
+Universal Robots debuts at US supply chain expo MODEX March 23, 2018 by Anna 
+Universal Robots will showcase its collaborative robot arms in new application, at MODEX, from April 9-12 in Atlanta, USA. 
+Warehouse processes such as order fulfillment require the ability to recognize and pick a wide range of items that are different sizes, weights, and materials, often jumbled together in bins. 
+While traditional industrial robots usually stay bolted down in protective cages, dedicated to one handling task only, collaborative robots, or cobots, effectively address this automation challenge with flexible implementation and low upfront cost. 
+RightPick.AI™ from RightHand Robotics (RHR) is the first vision-guided machine learning-based software designed to enable autonomous “lights out” robotic item-picking for warehouse order fulfillment. 
+Learning from both sensor feedback of the RightHand Robotics intelligent gripper and an integrated vision system, RightPick.AI provides the “brains” behind the RightPick solution suite for e-commerce fulfillment operations. 
+RightPick.AI can run on any robot arm, but RHR chose Universal Robots as they can safely work side-by-side with humans in warehouse environments. 
+RightPick.AI enables validated picking and placement of the industry’s widest range of items (SKUs) regardless of orientation – including items the system has not seen before, eliminating the need for 3D CAD models of new SKUs. 
+The system can handle a variety of customer workflows, such as picking items from ASRS (Automate Storage and Retrieval Systems), inducting items onto sorters, sorting batch-picked items to put walls, and order quality assurance. 
+Utilizing machine learning, the system becomes increasingly more intelligent, expanding the range of pickable SKUs and first-pick success, as well as pick and place validation capabilities. 
+Also on display at MODEX will be the new Electrical CobotPump (ECBPi) – a new generation of intelligent vacuum generators that do not require compressed air, developed by Schmalz. 
+The intelligent vacuum generator enables purely electrical operation and is able to handle airtight and slightly porous pieces. 
+The CobotPump’s programming interface is integrated directly on the UR cobot’s touch screen through the UR+ platform that certifies and showcases 3rd party plug & play products for UR cobots. 
+The CobotPump will be exhibited with Schmalz’ Vacuum End Effector (VEE), a flexibly configurable component kit that can be assembled by the customer to fit the workpiece and application they are working with. 
+UR robots will also be exhibited at MODEX by EuroSort, RightHand Robotics, SencorpWhite and Vecna. Share this:

@@ -1,0 +1,13 @@
+Written by Stuart Thomson 1 day ago 
+Swiss mobile telco Salt is launching a TV offering as part of its entry into the fixed-line business to offer a triple-play comparable to that of rival providers. 
+Salt has struck partnerships with Swiss Fiber Network, city authorities and other organisations to deliver fibre coverage in over 30 cities and regions, with further expansion promised. 
+Salt is deploying the Apple TV 4K box for the TV element of its offering, which will see the telco provide10Gbps broadband and telephony services. 
+The company has tapped German technology outfit Zattoo to deliver the technology platform for the TV service, which will integrate Apple TV 4K features in a dedicated Salt TV application. 
+The TV service will provide over 300 channels, including 150 in HD and some in 4K. It will offer a German-language bundle of over 30 channels alongside a French bundle of 35 services and access to Canal+’s MyCanal app. Salt TV will also include an Italian bundle and an international bundle. 
+Salt said that the Canal+ partnership would see a high number of premium channels included in its basic offer. 
+Salt’s video-on-demand service will be powered by Hollystar and was developed in collaboration with Sky. Salt Video will be offered via a second dedicated app on the Apple TV 4K box. The service will be based on the Sky Sport and Sky Show streaming offerings alongside a video library of over 10,000 titles, including US TV series available 48 hours after their initial broadcast. 
+Salt’s choice of Apple TV flies in the face of the growing trend among telcos to choose Android TV-based devices for their TV offerings. 
+Salt said its choice of Apple TV 4K as the set-top for the service would mean that users would be able to benefit from the cinematic experience for 4K and HDR that the device supports. The Salt app will be automatically installed for triple-play customers, with the box enabling them to view and purchase other online TV services. 
+The Salt Fiber Box can support symmetrical 10Gbps broadband with a 10Gbit LAN port. Salt said that its WLAN technology could support WiFi speeds of up to 2.2Gbps. 
+For Salt mobile customers, the service is available for CHF39.95 a month with an activation fee of CHF99.95. 
+Andreas Schönenberger, CEO Salt Mobile said: “Salt Fiber is clearly the most attractive triple play product on offer in Switzerland. While giving access to a 10Gbps technology and more than 300 TV channels, it has also by far the most attractively priced offer in the country. I am so proud that Salt is revolutionising the Swiss market thanks to this extraordinary offer.”

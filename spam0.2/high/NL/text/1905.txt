@@ -1,0 +1,10 @@
+Swisslog and Kuka join forces to strengthen CarryPick March 21, 2018 by Anna 
+CarryPick, an automated storage and order fulfillment system, has a new KMP600 automated guided vehicle (AGV), developed in close collaboration between KUKA and Swisslog . 
+Synergies have allowed for a number of technical enhancements that make the AGV suitable for use in multiple industries. The CarryPick solution will be globally supported as part of the KUKA portfolio. 
+Better mechatronics make the vehicle much quieter and enable a more ergonomic workspace, while also increasing battery life. 
+This new approach will offer Swisslog and KUKA customers the ability to interact with a single supplier, lower risk and support from a global service network. 
+“We are now able to perfectly integrate all components, adapt them quickly to new market challenges and test them in diverse scenarios,” Dr. Christian Baur, COO Swisslog Group & CEO Swisslog Logistics Automation. “This will yield advantages that will make the new CarryPick system more easily aligned to customer needs.” 
+With all components of the CarryPick system, from the AGV through software and support, located in-house, Swisslog will be able to further develop the entire solution to meet exact customer requirements. 
+A dedicated team of experts will collaborate closely with the customer, ensuring answers to the most important questions and service assistance are available from a single source. 
+Swisslog and KUKA also identified software as a critical factor for a seamless and positive user experience. With a specific CarryPick module within Swisslog’s new SynQ software platform, the customer will no longer need to run several different software systems, reducing the risk of errors and downtime. 
+“Since we have control over all elements of the platform we will constantly update and add features to provide the best solution across the entire lifecycle of the solution,” concluded Dr. Baur. Share this:

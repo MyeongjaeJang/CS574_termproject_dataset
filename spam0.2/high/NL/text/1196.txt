@@ -1,0 +1,6 @@
+AMD rolls out Radeon Software 18.3.3 driver by Email 
+One to have for Sea of Thieves and A Way Out 
+AMD has released its newest Radeon Software Adrenalin Edition 18.3.3 driver update which brings support for Sea of Thieves and A Way Out games, support for Vulkan 1.1, as well as fixing a couple of bugs. 
+According to the release notes, the new AMD Radeon Software Adrenalin Edition 18.3.3 driver adds support for Microsoft's Sea of Thieves and EA/Hazelight's A Way Out games and official support for Vulkan 1.1. 
+In addition to added support, it also fixes a couple of problems including intermittent stutter in Forza Motorsport 7, corruption or audio distortion in some Radeon ReLive recorded clips, flickering or disappearing objects in Final Fantasy XV on multi-GPU configurations, and a system hang on the initial splash screen issue in Star Wars Battlefront 2 on multi-GPU configurations. 
+The Radeon Software Adrenalin Edition 18.3.3 supports all graphics cards since Radeon HD 7700/7900 series and is available over at AMD's support page for Windows 7 and Windows 10 in both 32-bit and 64-bit versions. 

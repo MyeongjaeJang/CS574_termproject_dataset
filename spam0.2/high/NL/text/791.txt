@@ -1,0 +1,4 @@
+AWS Key Management Service Now Offers FIPS 140-2 Validated Cryptographic Modules 
+Posted On: Mar 19, 2018 
+Today we’re announcing that the AWS Key Management Service (KMS) provides customers with more assurance around the secure use and management of their keys. Customers now get assurance that keys are created and used by hardware security modules (HSMs) in KMS that meet Federal Information Processing Standard (FIPS) Publication 140-2 requirements. Customers can also choose to make requests of KMS using API endpoints that terminate TLS sessions using a FIPS 140-2 validated cryptographic software module. 
+Support for FIPS 140-2 validated cryptographic modules is available today in all AWS Regions where AWS KMS is offered. 

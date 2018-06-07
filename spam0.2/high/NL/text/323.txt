@@ -1,0 +1,9 @@
+3D printing gives design flexibility for bathroom manufacturer March 19, 2018 by Anna 
+Kitchen and bath product maker Kallista has made a the spout of a tap produced using 3D Systems ’ 3D printing materials and technology. 
+“Designers usually need to consider a manufacturing process and they have to design around that process,” said Bill McKeone, design studio manager, Kallista. 
+“3D Systems’ breadth of materials and technologies allowed us the freedom to create a unique, functional faucet (tap) which would not have been possible with a traditional manufacturing process.” 
+The taps were produced by metal 3D printing specialist, 3rd Dimension, a metal manufacturer specializing in 3D direct metal printing based in Indianapolis. 
+3rd Dimension employed 3D Systems’ ProX® DMP 320 high-performance metal additive manufacturing system. To avoid rust and corrosion, the faucets are printed with 3D Systems’ LaserForm® 316L, a high quality stainless steel 316 powder material. 
+As this was the first additively manufactured product for Kallista, the team at 3rd Dimension led them through a program to develop the as-designed concept for the 3D printing process. 
+Developing the design for additive manufacturing meant that Kallista was able to avoid the common delays needed for any kind of production tooling. Because of the efficiencies and repeatability afforded by 3D printing, the parts were rapidly produced within hours. 
+“This is just one example of the value 3D printing brings to a production environment,” said David Cullen, director of applications engineering, 3D Systems. “Through the combination of materials, print technology, software and services, Kallista was able to bring their visionary design to market.” Share this:

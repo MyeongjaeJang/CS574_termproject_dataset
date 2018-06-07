@@ -1,0 +1,79 @@
+Nxt Introduction and Frequently Asked Questions By 0 - Advertisement - 
+Since there are major updates to [this old FAQ](https://www.reddit.com/r/NXT/comments/55svmu/frequently_asked_questions/), I thought it would be better to create a new one entirely. Thanks to all those who helped with its creation. I’ll be adding more as needed. Feel free to ask follow-up questions on this thread. Anything related to Ardor or Ignis will be addressed in the upcoming Ardor and Ignis FAQ. Though some mentions of Ardor and Ignis may come up in this FAQ, please do not ask questions here about Ardor or Ignis, unless it’s directly related to Nxt. Questions about the Ignis ICO should be directed to that FAQ as well and not here. *A link will be posted here once that is up.* 
+#Introduction 
+**What is Nxt?** 
+Nxt is a blockchain platform with multiple core-level features that has been running publicly since late 2013. It is coded from scratch in Java, unlike most of the other platforms launched at the time. It’s 100% Proof of Stake, meaning that the more NXT you have the higher chances you have of processing the next block. Because it’s not dependent on computational power, a full node can run on something as light as a Raspberry Pi. 
+Only 1 billion tokens were created and since there is no inflation, there will be no new coins created. So, when blocks are forged, (mining in Nxt) only the transaction fees are given as a block reward. 
+**Was there an ICO for Nxt?** 
+Yes. Actually, when BCNext, the anonymous creator of Nxt, held the ICO, it was one of the first ICOs in crypto with a total of about 21 BTC collected in late 2013. At the time, this was worth around USD 6000. 
+**What is Jelurida?** 
+Jelurida BV is the corporate entity of developers and owns the IP rights of Nxt, which is currently released with a GPLv2 license. It was created in 2016 and provides licenses for private versions of Nxt as well as consulting and modification services to interested parties. However, Jelurida will not do so for chains that would compete against Nxt. The current active core developers are all part of Jelurida. They are: Jean-Luc, Lior Yaffe (Riker), Petko, Tomislav Gountchev (Berzeleus), and Ronald Hoffman (ScripterRon), in addition to Kristina Kalcheva, their legal expert. Members of Jelurida have regularly been at events, whether as an attendee, an exhibitor, or as a speaker, and continue to do so. 
+For more information about Jelurida, visit their website at [Jelurida.com](https://www.jelurida.com/) 
+**What is the Nxt Foundation?** 
+The Nxt Foundation was created in 2014 when some members of the Nxt community came together at an event and decided to present themselves under that banner since there was no entity surrounding Nxt at that time. It was officially established in 2015 as a nonprofit in the Netherlands (Stichting NXT) to be the primary point-of-contact for businesses wishing to use Nxt and raised the equivalent of about EUR 70 000 in donations in the TNSEE campaign. Though funds from that campaign still remain beyond the 1-year estimate, most of its funding today comes from the [Supporter Program](https://www.nxtfoundation.io/supporters/). Its role has since evolved into supporting the community through the creation and moderation of community channels, such as the [NxtChat Slack Team](https://nxtchat.herokuapp.com), this subreddit, and [Nxtforum.org](https://nxtforum.org), as well as the maintenance of [Nxt.org](https://nxt.org) and social media accounts, among others. It also helps interested project leaders, businesses, and organizations with the use of the technology. Like Jelurida, the Nxt Foundation also regularly has a presence at events in a similar capacity. 
+For more information about the Nxt Foundation, visit their website at [NxtFoundation.io](https://nxtfoundation.io) 
+#Nxt FAQ 
+**Where do I get started?** 
+Aside from this post, Nxter Magazine has a great section on their site called [Nxt 101](https://www.nxter.org/nxt-tutorials/) for people new to Nxt. 
+**What wallet/client should I use?** 
+We recommend using the Nxt core client which you can download from [Nxt.org](https://nxt.org/download/) 
+**Is there a light wallet/client?** 
+There is no dedicated light core wallet/client, but you can activate a light mode in the Nxt core client this way: 
+1) Locate directory nxt/conf. 
+On Windows it is here: C:Users<UserName>AppDataRoamingNXTconf 
+Mac: ~/.nxt/conf 
+Linux: /conf folder under the root installation 
+2) Create a text file nxt.properties in this directory with a single line: 
+nxt.isLightClient=true 
+3) Start the Nxt client and it will not be downloading the blockchain. 
+*Thanks to /u/lurker10k for providing this in a [previous post](https://www.reddit.com/r/NXT/comments/6by3em/discovered_old_nxt_account_newbie_question/dhqfyf2/)* 
+**Is there a mobile wallet?** 
+There is one for Android which you can download from [Nxt.org/download](https://nxt.org/download/). No iOS wallets at the moment. 
+**What are the transaction fees for Nxt?** 
+You can see the summary of transaction fees [here](https://nxtwiki.org/wiki/Transaction_Fees). 
+**How do I set up Nxt on a Raspberry Pi?** 
+/u/coretechs wrote a great guide on Nxtportal.org which you can find [here](https://nxtportal.org/blog/nxt-in-a-box-rpi2.html). 
+**How do I get NXT?** 
+Check the sidebar of this subreddit for places where you can get NXT with CNY, EUR, USDT, and BTC. You can also use the [Shapeshift integration](http://i.imgur.com/SNlU2d3.png) within the Nxt client itself. 
+**What is the size of the Nxt blockchain?** 
+As of May 2017, the Nxt blockchain is less than 3 GB. 
+**What is the roadmap of Nxt?** 
+There currently is not one publicly available for Nxt. However, Jelurida may release one soon after the launch of Ardor. 
+**Where can I find more detailed information about Nxt and its features?** 
+We recommend taking a look at the [Nxt Wiki](https://nxtwiki.org/wiki/Main_Page) for detailed information. 
+**Where do I find news about Nxt?** 
+[Nxter magazine](http://nxter.org/) provides weekly newsletters about Nxt and topics related to it such as important announcements from Jelurida and the Nxt Foundation, 3rd party projects, community developments, event participation, and other news. 
+**Where do I find information about the API?** 
+Information about the API can be found on the [API page of the Nxt Wiki](https://nxtwiki.org/wiki/The_Nxt_API). 
+**What features does Nxt have?** 
+Nxt has numerous core-level features such as the ability to issue assets, which are tokens on Nxt that use NXT for transaction fees, a decentralized asset exchange, decentralized voting, shuffling (for anonymity), alias system, decentralized marketplace, multisig capabilities, and a monetary system for currencies. For more information about these features check [this overview on Nxt.org](https://nxt.org/overview-main-features/) 
+**How many nodes are up for Nxt?** 
+[PeerExplorer](http://peerexplorer.com/) is a great tool to see live information about nodes. 
+**Where is the source code?** 
+You can find the source code in [Jean-Luc’s Bitbucket](https://bitbucket.org/JeanLucPicard/nxt/src) 
+**Where can I get the changelog?** 
+You can download the changelog by clicking [this link](https://bitbucket.org/JeanLucPicard/nxt/downloads/changelog-full.txt) 
+**Does Nxt have a testnet?** 
+Yes. You can find information on how to access testnet on [this Nxt Wiki page](https://nxtwiki.org/wiki/Testnet) and request testNXT or participate in discussions [here on Nxtforum](https://nxtforum.org/testnet/) 
+**What projects are currently using or testing Nxt?** 
+There are multiple projects currently using or testing Nxt utilizing one or more of its features. A comprehensive list is not possible to be made as there can be projects running on Nxt that even the core developers will not be aware of due to the decentralized nature of Nxt. There is no permission needed to use Nxt. In addition, since it is open source GPLv2, people may be testing it in a private research environment without anyone in the community knowing. Additionally, projects may be abandoned without the knowledge of the community, or have gone into justified “hibernation” status. However, that said, here are some resources which you can use to see which projects are running publicly on Nxt: 
+* [Nxtforum – Assets Board](https://nxtforum.org/assets-board/) 
+* [Nxtforum – Community News & Announcements](https://nxtforum.org/news-and-announcements/) 
+* [Nxtforum – Projects](https://nxtforum.org/nxt-projects/) 
+* [MyNxt.info (Assets, Currencies and Marketplace Blockexplorer)](https://www.mynxt.info/blockexplorer/) 
+* [Nxter Magazine Asset Hub](https://www.nxter.org/assethub/) 
+**How is Nxt different from X?** 
+While a lot of people in the Nxt community are familiar with other platforms as well, it will help us to answer your question if you ask us to compare a certain feature or features of another platform with Nxt. It might be better for you to [start your own post](https://www.reddit.com/r/NXT/submit?selftext=true) instead of commenting here for greater visibility. 
+**How do I access my MyNxt account on the Nxt client/wallet?** 
+Please follow [these instructions](https://nxtforum.org/mynxt-info/accessing-your-mynxt-wallet-accounts-in-the-nxt-client/) to see how you can do so. Your Master Password is likely not the same as your passphrase. 
+**Why did Nxt never catch on?** 
+I answer this question [here](https://www.reddit.com/r/NXT/comments/6m2tyd/why_did_nxt_never_catch_on/djyjxa6/) 
+#Post-Ardor FAQ 
+**What will happen to Nxt after Ardor launches?** 
+Nxt will continue to be maintained by Jelurida. A portion of the funds from the Ignis ICO will be going towards Nxt development as well. 
+**What will happen to my Nxt account after Ardor launches?** 
+Though aliases, assets, currencies, NXT, and other things will stay on your account, some projects may choose to move, such as assets that are moving to Ardor. If you are following a project closely and are interested to know whether they’ll stay on Nxt or move to Ardor, please ask the respective project team or leader. However, if they are migrating, please be aware that no official announcement has been made yet about the migration process. 
+**How do I migrate my application to Ardor?** 
+If you want to migrate your application to Ardor, please refer to [this guide on the Nxt Wiki](https://nxtwiki.org/wiki/Nxt_to_Ardor). 
+**What does Nxt have that Ardor will not?** 
+When pruning is activated, intended to address the blockchain bloat issue with multiple chains powered by Ardor, only transactions on the Ardor main chain (ARDR) will be kept by all full nodes. Most of the features found on Nxt will not be found on the main chain and only on child chains like Ignis. However, because of pruning, child chain transaction records will be snapshotted (to continue on from the pruning point) then pruned from full nodes after every 1440 blocks (~24 hours), though secured cryptographically on the main chain blocks. Basically, with Nxt, all full nodes keep all transactional data, while on Ardor only archival nodes will for the child chains. Other features and use cases may utilize this for purposes unique to Nxt. 

@@ -1,0 +1,9 @@
+Denso increases stake in microcontroller firm Renesas March 26, 2018 by Anna 
+Denso Corporation is increasing its shareholding in Renesas Electronics Corporation from 0.5% to 5% to accelerate the development of various in-vehicle systems, including automated driving systems. 
+Renesas has cutting-edge technologies for semiconductors that serve as the key devices in such systems. 
+Recently, in order to meet the needs of complicated vehicle control, the functionality of in-vehicle microcontrollers has been increasing. This is causing their design and manufacturing processes to be more difficult. 
+Manufacturers are expected to accelerate the development of new semiconductors for diversely advanced systems for automated driving, electrification, IoT, and connected driving through a combination of communication and AI-related technologies. 
+In order to develop competitive vehicle control systems in new fields such as automated driving, Denso wants to further enhance collaboration with semiconductor manufacturers that have profound experience and expertise. 
+Renesas is a top supplier of in-vehicle microcontrollers and has Renesas autonomy™ to offer complicated and advanced technologies as an open platform. 
+Its basic growth strategy is to offer comprehensive solutions from cloud services that contribute to automated driving, sensing, and vehicle control. Denso will continue the joint development with Renesas and accelerate the development of technologies to create competitive in-vehicle systems. 
+Denso will strengthen and expedite the development of technologies focusing on safety for automated driving and connected vehicles, and on the environment through electrification in order to offer new value to mobility of the future. Share this:

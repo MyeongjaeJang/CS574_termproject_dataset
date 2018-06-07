@@ -1,0 +1,5 @@
+Simplify User Logon Names in AWS Managed Microsoft AD 
+Posted On: Mar 22, 2018 
+You can now simplify Active Directory (AD) logon names for your users by adding an alternate user principal name (UPN) suffix in your AWS Directory Service for Microsoft Active Directory , also known as AWS Managed Microsoft AD. 
+UPN logon names consist of a username, an “@” symbol, and a UPN suffix. The default UPN suffix in AWS Managed Microsoft AD is your Directory Domain Name System (DNS), such as 'corp.example.com'. You can add an alternate UPN suffix, such as 'example.com', to simplify a user's logon name. In this example, 'jsmith@corp.example.com' can now be simplified to 'jsmith@example.com'. 
+If your organization has multiple subsidiaries, you can add a UPN suffix for each subsidiary to create user accounts such as 'jsmith@subsidiary1.com' and 'pjames@subsidiary2.com'. This gives AD administrators flexibility in how they manage users in the directory while simplifying the user logon experience. 

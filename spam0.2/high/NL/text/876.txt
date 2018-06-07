@@ -1,0 +1,4 @@
+Object Matrix provides private cloud platform to Francaise d'Images   09:59 CET | News 
+Object Matrix, provider of object storage and business continuity software to the media industry, has deployed its MatrixStore platform to the entire media digital archive of French content provider Francaise d’Images, which manages the broadcast activities for the leading operator of France’s national lottery games. The private cloud platform provides scalable data and metadata storage with built-in disaster recovery and business continuity protection. 
+Object Matrix is represented in France by media industry service provider Ivory. As strategic advisor to Francaise d’Images, Ivory collaborated with local partner Videlio-Cap’Cine to deliver the technical integration of MatrixStore on its client’s production site in Boulogne-Billancourt. Free Headlines in your E-mail 
+Every day we send out a free e-mail with the most important headlines of the last 24 hours.

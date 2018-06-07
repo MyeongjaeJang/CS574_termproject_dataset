@@ -1,0 +1,14 @@
+Microsoft and ClearSky announce SMB licensing partnership REDMOND, Wash., and BOSTON – WEBWIRE – Friday, March 23, 2018 
+Microsoft Corp. and ClearSky Data announced they have entered into a licensing agreement to enable access to Microsofts Server Message Block (SMB) file transport technology for ClearSkys on-demand, hybrid cloud storage service for backup and disaster recovery (DR). The agreement will enable users to seamlessly transport multiple files or programs between ClearSkys service and Windows tools simultaneously. 
+We are excited to announce this agreement with ClearSky Data to offer its customers our SMB file transport services for cloud-based storage solutions, said Micky Minhas, head of Microsoft Technology Licensing. This agreement demonstrates Microsofts commitment to licensing our SMB intellectual property to enable innovative cloud solutions that integrate with the Windows ecosystem. 
+Our partnership with Microsoft offers ClearSky Data the opportunity to provide a more robust network file sharing protocol for our enterprise customers moving to the cloud, said ClearSky CTO and co-founder Laz Vekiarides. This will help our customers get to the cloud seamlessly and more easily access their programs and efficiently manage their data, which is key to the success of their cloud operations. 
+Microsofts commitment to licensing IP 
+The partnership is another example of the important role intellectual property (IP) plays in ensuring a healthy and vibrant technology ecosystem. Since Microsoft launched its IP licensing program in December 2003, it has entered into more than 1,200 licensing agreements. More information about Microsofts licensing programs is available at http://www.microsoft.com/iplicensing . 
+About Microsoft Technology Licensing 
+Microsoft Technology Licensing LLC was formed in 2014 to acquire, manage and license Microsofts patent portfolio. 
+About ClearSky 
+ClearSkyŽ delivers on-demand primary storage, offsite backup and DR as a single service, and empowers enterprise IT teams with the flash performance of on-premises storage and the elasticity of the cloud while reducing their storage costs by +50%. 
+ClearSky allows enterprises to access all data wherever its needed, on-prem or in the cloud, without ever needing to replicate the data. The ClearSky service is fully elastic; pay for only what you use and scale up or down on-demand. 
+About Microsoft 
+Microsoft (Nasdaq MSFT @microsoft) is the leading platform and productivity company for the mobile-first, cloud-first world, and its mission is to empower every person and every organization on the planet to achieve more. 
+ //photos.webwire.com/prmedia/6/221816/221816-1.png )

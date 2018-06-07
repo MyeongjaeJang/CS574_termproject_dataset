@@ -1,0 +1,6 @@
+by Expert Apple Releases Safari Technology Preview 52 With Bug Fixes and Feature Improvements 
+Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced two years ago in March of 2016. Apple designed the Safari Technology Preview to test features that may be introduced into future release versions of Safari. 
+Safari Technology Preview release 52 includes bug fixes and feature improvements for Service Workers, Loading, JavaScript, CSS, Web API, Accessibility, Web Driver, Web Inspector, WebAssembly, and Media. Today’s update also removes support for running legacy NPAPI plug-ins other than Adobe Flash. 
+The Safari Technology Preview update is available through the Software Update mechanism in the Mac App Store to anyone who has downloaded the browser . Full release notes for the update are available on the Safari Technology Preview website . 
+Apple’s aim with Safari Technology Preview is to gather feedback from developers and users on its browser development process. Safari Technology Preview can run side-by-side with the existing Safari browser and while designed for developers, it does not require a developer account to download. 
+Discuss this article in our forums Share this: 

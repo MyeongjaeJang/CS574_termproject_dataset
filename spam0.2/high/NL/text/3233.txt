@@ -1,0 +1,8 @@
+News 
+Mushkin Enhanced MFG, an industry-leading designer and manufacturer of high-performance computer products, is announcing the Mushkin Source Series, a new line of solid state drives (SSDs) for the retail, e-tail, system integrator, and channel markets. The Source Series features a powerful, yet cost-effective design suitable for a wide-range of applications. 
+“The market has never been more ready for SSDs,” says Brian Flood, Director of Product Development for Mushkin Enhanced MFG. “With the ultimate balance of value, capacity, and performance, the Source Series leverages all of the great benefits expected from an SSD without breaking the bank.” 
+Source SSDs are ideal for mainstream computing – from gaming desktops and notebooks to mini-PCs (NUCs) and everything in between. Offered in 2.5″ and M.2 2280 form factors, the Source Series is an excellent choice for almost any system. Source SSDs are available in 120GB, 250GB, 500GB and 1TB capacities and can achieve max sequential performance of up to 560MB/s read and 520MB/s write. Each Source SSD is protected by M.E.D.S. (Mushkin Enhanced Data-protection Suite) ensuring valuable data is protected and is backed by a 3-year warranty to ensure peace of mind. 
+Key Features 
+Capacities: 120GB, 250GB, 500GB, 1TB Controller: Silicon Motion SM2258XT NAND Flash: Equipped with 3D NAND flash Max Sequential: 560MB/s read / 520MB/s write Max Random 4K: 75,000 read IOPS / 81,000 write IOPS Available Form Factors: 2.5″ and M.2 2280 Interface: SATA 6Gb/s MTBF: 1.5 million hours MTBF 
+Warranty: 3-year warranty with free technical support 
+Availability Mushkin 2.5″ Source SSDs are available now at Newegg.com, Amazon and other online retailers. The M.2 version is scheduled for release in April 2018. Share On

@@ -1,0 +1,39 @@
+
+BAGS — Possession of altcoins, with every altcoin being stored in a different “bag”. 
+BEARISH — Is used to describe market pessimism or the assumption that prices will fall. 
+BITCOIN-WARS — Twitter war between advocates of Bitcoin and those of Bitcoin Cash. The involved parties insult each other and confuse the uninvolved. As if the existence of seven different Bitcoins wasn’t confusing enough. 
+BLOCKCHAIN ​​– The distributed ledgers for creating and storing transactions with Bitcoins and other cryptocurrencies. The distributed ledgers are public databases that can be read by anyone and can be stored and run on thousands of servers and computers around the world. 
+BULLISH — Is used to describe market optimism or the assumption that prices will rise. 
+CATCHING A FALLING KNIFE — You bought a coin. The course is falling. You still have it. Now you’re thinking: if I buy the coin at a lower price, then it will be easier to reach a profit for the entire amount. This fallacy is called “catching a falling knife”. The reason is that it usually goes wrong. Why? Because nobody can know when the course has reached the lowest point. 
+COLD STORAGE — A method for storing the private keys for a cryptocurrency offline to avoid hacking or theft. 
+CONBASE — Ill-natured renaming of the Coinbase exchange. Points out the accusations that Coinbase is conducting illegal insider trading and is generally evil. Where there is success, FUD isn’t far. 
+DOLPHIN — Someone that has emerged from the rows of small traders and can influence the price development of a cryptocurrency but hasn’t reached the status of a whale yet. 
+FIAT — Despite the fact that cryptocurrency enthusiasts are obsessed with Italian cars, this is not the carmaker Fiat. It is used to describe the central currencies that are issued by the world’s governments and central banks. 
+FOMO — Fear of missing out. Can lead to cryptocurrencies turning into “mooning”, when speculators enter a coin as a reaction of their fear of missing out. 
+FORK — A fork occurs when a blockchain divides into two separate chains that both contain the entire previous history of the chain but where all future blocks are completely different and separated. One example is Bitcoin that has separated into Bitcoin Cash, Bitcoin Gold, Bitcoin Diamond, UnitedBitcoin, BitcoinX and Super Bitcoin, with other forks already in development. Forks are undesirable because they often divide the Bitcoin community and dilute their strength. They are also desirable because those that own Bitcoins at time of separation receive the same amount of the new coins, which creates prosperity from nothing. 
+FUD — Fear, uncertainty, doubt. Is used to describe negative news about cryptocurrencies and often brings down prices, in some cases significantly so. 
+DIP — Courses never run linearly upwards or downwards, but always in waves. A dip is the valley or the peak of such a wave. If a value’s trend is generally going up, then the advice is often: “Buy the dip”. This means that you should buy at the lowest (and therefore cheapest) time of a wave movement. Conversely: If the trend is going downwards, then the advice is “Sell the dip” — selling at the highest point of a wave. 
+HODL — A typo of the word “hold”. Some say that the typo was deliberate and that HODL stands for “Hold for Dear Life”. Describes the actual or only proclaimed attitude of crypto enthusiasts to never ever sell their coins. 
+ICO — Acronym for initial coin offering. Similar to a public offering of stocks. In contrast with this, an ICO often happens without a business foundation. People that bet on the right ICO can increase their investment manifold within a short time. Or shrink it manifold. 2017 was the year of the unchecked ICOs. This will change in 2018. 
+CRYPTO GURUS — You can follow them on Twitter. It is unclear whether they actually know something or whether their prognoses come true because many people follow their advice. Here is a selection: 
+LAMBO — Short for Lamborghini (an Italian sports car) and the preferred mode of transport for cryptocurrency enthusiasts as soon as they have made their fortune. Lambos are the counterpart to Hodlers. 
+LONG — Buying coins. Opposite of short. 
+MARKET CAP — The value of a cryptocurrency. The total volume of coins x the value per coin. 
+NODES — The servers or computers that run the software required for storing the databases known as blockchain . 
+PRIVATE KEY — The encryption key that is linked to the cryptocurrency and that enables the transmission or the sale. Private keys should be kept secret and only be known to the creator of the private key. 
+PUBLIC KEY — And encryption/decryption key that can be used by anybody for sending cryptocurrencies to a specific wallet address. 
+PUMP & DUMP — The artificial and illegal manipulation of an altcoin (pump) to find a lot of fools that hop on board. Once the pumpers are satisfied, they sell everything, the value crashes (dump) and leaves behind many sour faces. Pump & dumpers announce the pumps in telegram groups in order to get as many fools to participate as possible. 
+REKT — From “wrecked”. If the course of one’s own account sinks to almost zero due a price drop of altcoins. 
+RESISTANCE — In theory, there are psychological price barriers for a value that are difficult to surpass. Crypto traders watch at which prices the upwards trends stop. If it is often in the same price region, they call it resistance. They then often give the order to buy, even if the resistance price is surpassed. Counterpart to support. 
+ROI — Return on Investment. How much have you earned (or lost) since buying your cryptocurrency? 
+SHITCOIN — An Altcoin that is viewed as worthless in due to a lack of products or useful attributes in the development of its blockchain. Even though shitcoins are viewed as worthless, that doesn’t necessarily stop them from rising To The Moon. 
+SHORT — In the stock space, a bet on falling prices. In the crypto space however it is mostly used for selling a coin. 
+STOP-LOSS — Protecting a trade from excessive losses. We buy BTW for USD 10,000. In order to protect ourselves, we enter a selling order stop-loss of USD 9,500. Should the course fall below this mark, then our position is automatically sold in order to avoid bigger losses. The riskier a trade seems, the more important the stop-loss. 
+SUPPORT — In theory, there are psychological price barriers for a value that are difficult to surpass. Crypto traders watch at which prices the downwards trends stop. If it is often in the same price region, they call it support. They then often give the order to buy, even if the support price is surpassed. Counterpart to resistance. 
+TA — Technical analysis of a course graph. Mix of mathematical calculations, interpretation and magic. See below a graph of trader Catoshi Catamoto (Twitter: @Cryptonoobie) 
+This shows a course that has a potential for future profits. 
+TELEGRAM — Software that serves as chat for (among others) crypto topics. Trading signals aren’t sent in Facebook but on Telegram (and sometimes Twitter). 
+TO THE MOON / MOONING — A drastic increase in a cryptocurrency’s value (usually over 100%) over a short period of time. 
+TRADING SIGNAL — The public hint of a crypto trader to buy or sell a certain value now. Is usually verified with a course graph that is supposed to prove the predicted future through complex graphics and calculations. Examples for calculation methods are Ichimoku, MacD, RSI. 
+WALLET — The software for storing the private keys that are linked to a specific cryptocurrency. Wallets can be software-based or hardware-based and even paper-based. 
+WHALE — A person that owns a large amount of a specific cryptocurrencies, usually an amount that is viewed as sufficient for influencing the price of a cryptocurrency if he or she would sell all of their inventory at once. 

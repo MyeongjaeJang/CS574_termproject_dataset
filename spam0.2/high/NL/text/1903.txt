@@ -1,0 +1,4 @@
+Robot used to remove burner in gas-fired power plant March 21, 2018 by Anna 
+Removing a burner from inside a gas turbine is a tricky task. Siemens decided to use a Kawasaki robot to perform this maintenance operation, which heralds the way for reduced outage times for power plant operators. 
+This Kawasaki MG10HL robot, installed at the Siemens Lausward power plant in Dusseldorf, has a payload capacity of up to 1,000 kg and a 4-metre reach. The powerful, extra large payload Kawasaki robot was installed to perform the dangerous, routine maintenance task of replacing burners and transitions on huge gas turbines. 
+Watch the video here

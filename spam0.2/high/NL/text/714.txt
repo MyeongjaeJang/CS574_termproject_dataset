@@ -1,0 +1,12 @@
+High-speed super resolution for live cell imaging N-SIM S Super Resolution Microscope WEBWIRE – Monday, March 19, 2018 Sup 
+Nikon Corporation (Kazuo Ushida, President, Tokyo) is pleased to announce the release of the new N-SIM S Super Resolution Microscope, which enables super-solution imaging of live cells at ten-times the speed of conventional SIM. N-SIM S is powered at its core by the ECLIPSE Ti2-E Inverted Research Microscope, taking advantage of its advanced optics, superior stability and intelligent features. 
+Product Name: 
+Availability: 
+Features 
+Nikon has developed a novel high-speed, structured illumination system to enable imaging at rates 
+N-SIM S can be easily combined with various imaging modalities including N-STORM Super Resolution which provides single molecule level resolution, confocal (e.g. A1 + Confocal series), and standard wide-field observation. 
+*1Green: Actin labeled with Alexa488 Red: Microtubules labeled with TRITC-phalloidin Imaging mode: 3D-SIM Objective lens: CFI Plan Apo λ40x / 0.95 
+*2Blue: Nucleus labeled with DAPI Green: Microtubules labeled with Alexa488 Red: Actin labeled with TRITC-phalloidin Imaging mode: 3D-SIM Objective lens: CFI SR HP Apo TIRF 100xH /1.49 Photo courtesy of: Dr. Kaoru Katoh, The National Institute of Advanced Industrial Science and Technology (AIST) 
+For more information 
+The information is current as of the date of publication. It is subject to change without notice. 
+ //photos.webwire.com/prmedia/7/221615/221615-1.png )

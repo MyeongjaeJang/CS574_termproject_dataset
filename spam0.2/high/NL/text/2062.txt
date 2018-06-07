@@ -1,0 +1,8 @@
+by Expert Jack Dorsey believes bitcoin will be the world’s sole currency within 10 years 
+We knew Jack Dorsey was bullish on bitcoin, but some new quotes reveal that he’s really, really bullish. 
+In an interview with The Times of London , the Twitter and Square chief executive expressed a strong belief in bitcoin’s shot at outliving its growing pains in order to grow into a ubiquitous digital currency. 
+“The world ultimately will have a single currency, the internet will have a single currency. I personally believe that it will be bitcoin,” Dorsey said. He added that the timeline would play out “probably over ten years, but it could go faster.” 
+In spite of conceding that bitcoin “does not have the capabilities right now to become an effective currency,” Dorsey thinks that it will grow into a better one over time as improvements to the core technology roll out. 
+“It’s slow and it’s costly, but as more and more people have it, those things go away. There are newer technologies that build off of blockchain and make it more approachable,” Dorsey told The Times . 
+Just last week, Dorsey contributed to a $2.5 million seed round for Lightning Labs , a Bay Area startup focused on the Lightning Network, a protocol that layers on top of a cryptocurrency like bitcoin. That layer aims to speed things up by creating a secondary channel with its own mini digital ledger that keeps excess traffic off of a congested blockchain (you can read more about how that works in this helpful Coindesk explainer ). 
+Dorsey also intends to continue supporting bitcoin through Square , his mobile payments company. Square Cash added support for bitcoin last year and the feature recently rolled out to all Square Cash users . Share this:

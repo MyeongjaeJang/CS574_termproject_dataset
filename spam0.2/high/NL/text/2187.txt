@@ -1,0 +1,4 @@
+15 hours ago 
+We are running configuration Manager update to 1702 version however it fails on Database upgrade. 
+We have SQL server 2014 SP2 (Standard) and trying to upgrade SCCM from 1610 version to 1702. Please advise if you are aware of any fix for the same. 
+Could you please advise? 

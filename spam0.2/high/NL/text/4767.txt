@@ -1,0 +1,9 @@
+AMD and Nvidia to suffer from increased competition by Email 
+Susquehanna Financial warns about the rise of Bitmain's bitmining chips 
+Susquehanna Financial has warned that AMD and Nvidia are about to lose a big chunk of the cash that they have been making from crypto-miners. 
+Susquehanna’s Christopher Rolland said that the mining hardware manufacturer Bitmain had developed an application-specific integrated circuit (ASIC) chip to mine the cryptocurrency Ether — and an ASIC from Bitmain could pose new competition for AMD’s and Nvidia’s graphics-processing units (GPUs). 
+Rolland estimates Ether mining-related sales accounted for about 20 percent of AMD’s sales and 10 percent of Nvidia’s revenue. For this reason, he cut AMD's rating from “neutral” to “negative,” writing that Bitmain’s moves could impact the 20 percent of AMD’s sales that come from mining. 
+“Additionally, we have learned of the development of another hyperscale AI (artificial intelligence) ASIC,” writes Rolland, “similar to Google’s TPU2, which begins production in 2Q18 and may reduce AI GPU growth in the data centre”. Based on this proliferation of AI chips, Rolland cut his price target on Nvidia to $200 from $215, while keeping a “neutral” rating on the shares. 
+Nvidia will not suffer so much because it has a stronger more durable gaming franchise which would help it work through this potential Ethereum-related unwind, Rolland adds. 
+Bitmain recently announced the upcoming release of a new model, the Antminer X3, that has been purpose-built for mining the privacy-oriented cryptocurrency Monero. 
+Apparently, Monero is not that happy, and an emergency software upgrade set for April is explicitly meant to change the rules of the system to block the effort entirely, rendering the Antminer X3 ineffective. To keep hardware manufacturers from catching up, these algorithm edits are planned to continue with bi-annual network upgrades. 

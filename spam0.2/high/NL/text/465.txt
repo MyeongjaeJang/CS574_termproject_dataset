@@ -1,0 +1,11 @@
+OldTwitter 
+Signal also supports self-deleting messages . Not having to worry about archives or chat history can help reduce digital anxiety. 
+Invite your friends to join Signal, and tell them this will be the primary way you message from now on. Ask them to sign up. Move the Signal App to a primary place on your home screen so you develop a habit to use it . The second-best alternative: WhatsApp. 
+Yes, I hear you scream, WhatsApp is owned by Facebook! However WhatsApp messages are encrypted using the same underlying technology as Signal. And if you have trouble converting your friends away to Signal, you will likely have less trouble switching them to WhatsApp — mainly because they possibly already use it. The key is to stop using Facebook Messenger. 
+The trade-off for this convenience is that Facebook still maintains data about you, including your inferred social network (via your Contacts list when you share your Contacts with WhatsApp), and other data like how long you spend on the app, your active/inactive time (so knowing when you likely wake up or go to sleep) etc. 
+WhatsApp is better than using Facebook Messenger, since the messages are encrypted by default. But that doesn’t mean WhatsApp is great for privacy. It’s not. 
+Try to use to use Signal if at all possible. The other alternatives: 
+iMessage: yes it’s encrypted end-to-end, but this is Apple-only so you won’t be able to message your friends who have Android phones. 
+Viber: No. 
+Wickr: No. 
+Telegram: Maybe. But their encryption is proprietary rather than open source and it’s relatively unaudited. Stick with Signal if you can. 

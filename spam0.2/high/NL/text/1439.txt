@@ -1,0 +1,7 @@
+OldTwitter 
+Under these provisions, the holding period of the forked coin would start at the time of the hard fork. Such guidance would allow taxpayers opting to follow the safe-harbor guidance to be safe from understating their federal tax liability due to their forked coins. 
+The letter reads: 
+“This temporary rule has the benefit of encouraging consistency among taxpayers with respect to 2017 hard forks, avoiding difficult timing and valuation issues (including the ability of tax payers to benefit from hindsight depending on how the values fluctuated during 2017), and providing information to the service regarding holders of the original forked cryptocurrencies.” 
+The letter also notes that adopting the recommended guidance may mean that capital gains taxes, rather than income taxes, would apply to the forked coin holdings, but “it preserves the full value of the forked coin for taxation when the taxpayer sells it.” 
+The taxation of cryptocurrencies has been something of a point of contention since the IRS first announced that it would treat cryptocurrencies as property in 2014. 
+In January, major exchange and wallet provider Coinbase began reminding its customers to fulfill their crypto tax obligations and subsequently unveiled a tax calculator tool, which outlines users crypto capital gains and losses on its platform, last week. 

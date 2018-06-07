@@ -1,0 +1,4 @@
+Domain .pl ranks 4th in security, with 20% domain names secured by DNSSEC   13:55 CET | News 
+Poland's biggest domain registry Nazwa.pl, in cooperation with the national research institute NASK, has significantly increased security of the domain .pl. The number of web sites secured by the protocol DNSSEC has increased to 490,000, or about 20 percent of all domain names, growing from 1.6 percent at the end of 2017. 
+The register of the domain .pl ranks fourth among more than 60 members of CENTR (Council of European National Top-Level Registries), after the Netherlands with more than 2.87 million names, Sweden with more than 870,000 names and the Czech Republic with more than 620,000 names. Free Headlines in your E-mail 
+Every day we send out a free e-mail with the most important headlines of the last 24 hours.

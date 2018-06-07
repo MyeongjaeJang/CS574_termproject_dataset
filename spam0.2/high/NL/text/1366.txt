@@ -1,0 +1,8 @@
+Google Maps for iOS Gains Restaurant Wait Times, Improved Transit Directions and More 
+Google Maps for iOS was today updated to version 4.47, introducing new and improved features. 
+When searching for a restaurant using Google Maps, you can now see wait times at more than a million restaurants around the world that will let you know just how long you can expect to wait before being seated. 
+Google says the update also introduces the ability to sort and search through reviews of a restaurant, store, or other business, so you can find specific information that you’re looking for, and it includes more robust transit directions. 
+The new transit directions feature in Google Maps is designed to let you know which transit entrance you need to go to, and it is available in New York, Hong Kong, Taipei, Paris, Los Angeles, Delhi, Moscow, Singapore, Madrid, Barcelona, Kiev, and Budapest. 
+Thanks for using Google Maps! This release brings bug fixes and awesome new features to help you discover new places and navigate to them:– See average wait times at over a million restaurants worldwide.– Search and sort through reviews of a place.– Get transit directions that tell you exactly which entrance you need to go into. This feature is available now in New York, Hong Kong, Taipei, Paris, Los Angeles, Delhi, Moscow, Singapore, Madrid, Barcelona, Kiev, and Budapest, with more on the way! 
+Google Maps can be downloaded from the App Store for free. [ Direct Link ] 
+Discuss this article in our forums Share this: 

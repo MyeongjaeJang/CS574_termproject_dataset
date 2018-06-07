@@ -1,0 +1,5 @@
+AWS Config Now Supports Retrieval of Current Configuration for Multiple Resources 
+Posted On: Mar 20, 2018 
+AWS Config now supports a new API to fetch the current configuration information for one or more resources that are being recorded in your AWS account. Previously you could retrieve the current resource configuration along with the historical configuration information for one resource at a time. Now you can obtain your current resource configurations for multiple resources using the new API . You can still obtain the historical information for individual resource configurations using the existing API . 
+The new API is available in all AWS public regions where AWS Config is offered and in the AWS GovCloud (US) region. To see the full list of supported regions, visit AWS Regions and Endpoints in the AWS General Reference. 
+For more information on AWS Config: 

@@ -1,0 +1,11 @@
+Why it is probably a good idea to delete Facebook from your phone by Email 
+It records your phone details 
+Even if you think keeping Facebook on your computer is a good idea, it might not be sensible to keep the software on your mobile phone. 
+A New Zealand man was looking through the data Facebook had collected from him in an archive he had pulled down from the social networking site when he found that it had been recording all the details of his phone calls. 
+Dylan McKay discovered Facebook also had about two years worth of phone call metadata from his Android phone, including names, phone numbers, and the length of each call made or received. Apparently, he is not the only one. 
+Lots of users have found that their Facebook data archive contained call-log data for a particular Android device used in 2015 and 2016, along with SMS and MMS message metadata. 
+A Facebook spokesperson said that it was no accident either: "The most important part of apps and services that help you make connections is to make it easy to find the people you want to connect. So, the first time you sign in on your phone to a messaging or social app, it's a widely used practice to begin by uploading your phone contacts." 
+The spokesperson pointed out that contact uploading is optional and installation of the application explicitly requests permission to access contacts. And users can delete contact data from their profiles using a tool accessible via the Web browser. 
+So if you granted permission to read contacts during Facebook's installation on Android a few versions ago -- specifically before Android 4.1 (Jelly Bean) -- that permission also allowed Facebook access to call and message logs by default. 
+The permission structure was changed in the Android API in version 16. But Android applications could bypass this change if they were written to earlier versions of the API, so Facebook API could continue to gain access to call and SMS data by specifying a more previous Android SDK version. 
+Google deprecated version 4.0 of the Android API in October 2017 -- the point at which the latest call metadata in Facebook user's data was found. Apple iOS has never allowed silent access to call data.

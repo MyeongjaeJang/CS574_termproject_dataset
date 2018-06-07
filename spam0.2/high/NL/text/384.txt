@@ -1,0 +1,5 @@
+P4 joins ONF, Linux Foundation organisations Monday 19 March 2018 | 11:28 CET | News 
+The Open Networking Foundation (ONF) welcomed the P4 Language Consortium (P4.org), creator of the P4 programming language, as a member. P4.org also became part of the Linux Foundation (LF) portfolio for the purposes of strategic alignment across the open source ecosystem. 
+Since its creation in 2013, P4 has been gaining adoption at an exponential rate, rapidly becoming the standard way to describe how packets are forwarded by networking devices including NICs, switches and routers. 
+The P4 language was originally created by a group of engineers and researchers from Google, Intel, Microsoft Research, Barefoot, Princeton and Stanford. Free Headlines in your E-mail 
+Every day we send out a free e-mail with the most important headlines of the last 24 hours.

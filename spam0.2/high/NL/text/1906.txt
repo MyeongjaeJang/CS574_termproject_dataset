@@ -1,0 +1,5 @@
+Husky UGV used for 3D mapping in Mars simulation March 20, 2018 by Anna 
+The Austrian Space Forum (OeWF), in partnership with international research organisations including Oman Astronomical Society, conducted a four-week Mars simulation mission in the Arabian desert in Oman. 
+The study was to simulate a typical day on Mars. Tasks performed in the study included 3D mapping, minerology, evaluation of biological habitats, and preparation of food. 
+The Husky UGV from Clearpath Robotics , was used for 3D mapping of the Oman terrain and transportation in the simulated mission, with the help of a 260 degree scanner laser. Once the Husky mapped environments, it was able to identify potential hazards, move around and collect data for the astronauts. 
+Watch the video here

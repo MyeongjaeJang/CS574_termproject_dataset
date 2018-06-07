@@ -1,0 +1,11 @@
+-Enables Alfa to evolve its network using Nokias AirScale systems, puts Alfa on evolutionary path to 5G -Nokias 5G-ready AirScale base stations to be deployed in -Lebanon for the first time -Alfa will use Nokias AirScale equipment to launch VoLTE and LTE-A services Beirut, Lebanon 
+Nokias AirScale Single Radio Access Network (SRAN) solution will be used to deploy 3G and LTE-A Pro. The 4G LTE-A utilizes carrier aggregation technology, which brings together spectrum from two frequency bands for improved speed and spectral efficiency. Nokia will combine spectrum from 800 MHz and 1800 MHz frequency bands for the implementation of LTE-A 
+Marwan Hayek, Chairman and CEO at Alfa Lebanon, said: 
+Roger Ghorayeb, customer team head for growth in West MEA at Nokia, said: 
+The Nokia AirScale Base Station 
+Nokia professional services , including Network Planning and Optimization , Project Management , and Network Implementation 
+About Alfa 
+About Orascom Telecom Media and Technology OTMT is a holding company that has investments in companies with operations mainly in Egypt, North Korea, Pakistan, Lebanon and other North African and Middle-Eastern countries. The activities of OTMT are mainly divided into its GSM, media and technology and cable businesses. The GSM activities include mobile telecommunications operations in Egypt, North Korea and Lebanon. The media 
+About Nokia 
+Nokia is enabling the infrastructure for 5G and the Internet of Things, and shaping the future of technology to transform the human experience. 
+( Press Release Image: https://photos.webwire.com/prmedia/6/221590/221590-1.jpg

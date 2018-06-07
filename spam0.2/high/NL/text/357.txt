@@ -1,0 +1,3 @@
+VoIPGrid starts hardware sales with BNS logistics   14:30 CET | News 
+Dutch provider VoIPGrid has started selling hardware to its telephony customers. This includes products from Cisco, Gigaset, Grandstream, Yealink, Linksys and Plantronics. The company partnered with BNS Data Logistics for the sales. 
+BNS linked its in-house software platform Cosmos with VoIPGRID's platform to help manage the sales process and inventory. BNS will provide much of the hardware ready for direct use with pre-installation and auto-provisioning. The products can be managed from order to delivery to customers through the management platform.  

@@ -1,0 +1,9 @@
+Nvidia releases Geforce 391.24 WHQL driver by Email 
+Support for Sea of Thieves and bunch of bug fixes 
+Nvidia has released its newest Geforce 391.24 WHQL graphics card driver which brings optimizations for the Sea of Thieves game as well as fixes a bunch of bugs seen with the earlier driver releases. 
+According to the release notes, the major update is the support for Sea of Thieves but also the new filters for the Nvidia FreeStyle, "Old Film" and "Tilt-Shift". 
+In addition, the new Geforce 391.24 WHQL driver also fixes the big issue with HTC Vive and Oculus Rift VR headsets where the headset stopped working after several launches of the application or after resume from system hibernate mode. 
+The rest of the bug fixes include disabling Nvidia FreeStyle in unsupported games, a fix for stuttering issue with Media Player Classic Home Cinema, fix for stuttering and drop frame rate issue when switching tasks with G-Sync enabled and V-Sync is on in games, fix for driver TDR error in Firefox, blue-screen crash when installing the drive on Surface, fix for display flickering issue after disabling and enabling GPU with device manager, and fix for flickering and corruption issues in the in game options UI in Rise of Tomb Rider on GTX 1060 graphics cards. 
+Nvidia was also keen to note that the new driver brings support for Nvidia Ansel in Pure Farming 2018, Q.U.B.E. 2 and Star Wars Battlefront II, and support for Nvidia Highlights in Call of Duty: WWII, Dying Light: Bad Blood, Escape From Tarkov, and Tekken 7. 
+The new Geforce 391.24 WHQL and Game Ready driver supports all Nvidia Geforce graphics cards since Fermi-based Geforce GT 420 and mobile Geforce 405M and is available for Windows 10, Windows 8.1, Windows 8 and Windows 7 in both 32-bit and 64-bit versions. 
+As always, you can download the new Geforce 391.24 WHQL for your OS over at Nvidia's driver support page . 

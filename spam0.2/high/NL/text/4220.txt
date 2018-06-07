@@ -1,0 +1,8 @@
+Clearpath makes Turtlebot Euclid open source March 26, 2018 by Anna 
+Clearpath Robotics , a global provider of mobile robots for research and development, is cancelling the offering of the Turtlebot Euclid platform and will open source all development work. 
+The company will make the code, electrical and mechanical design, parts list, and assembly instructions available online for free. 
+“By open sourcing TurtleBot Euclid, we hope to encourage members of the robotics community to build on the extensive design and engineering effort we’ve put into Turtlebot Euclid,” said Julian Ware, General Manager for Research Solutions at Clearpath Robotics. 
+“This work provides a great starting point for roboticists wanting to use either the Intel Euclid Development Kit or the Create2 in a mobile robotics application, and could be used as the basis of a competition or education platform.” 
+While TurtleBot Euclid will no longer be sold commercially, the company will continue to sell and support the TurtleBot 2 robotics learning kit. 
+TurtleBot 2 consists of a Kobuki mobile robot base, provided by Yujin Robot, a dual-core netbook, Orbbec Astra Pro sensor, and gyroscope – all integrated to deliver an out-of-the-box development platform. 
+“TurtleBot 2 continues to be the most popular reference platform for learning ROS and advanced robotics concepts,” Ware added. “We didn’t feel that by offering a new variant we could offer our users a superior experience.” Share this:

@@ -1,0 +1,6 @@
+No Broadcom takeover, says Mediatek by Email 
+Rumours are wrong MediaTek has dismissed a rumour circulating in the Taiwan media that Broadcom had approached it about a takeover. 
+For those who came in late, Broadcom is understood to be shopping for a chip outfit now that its deal with Qualcomm had gone tits up. The source of the rumors appears to have come from US business website Motley Fool about Broadcom's likely buyout targets after its failed bid to acquire Qualcomm. This prompted the Taiwan media to have a go at standing up the story that a deal between Broadcom and MediaTek could be underway. 
+MediaTek chairman MK Tsai met Broadcom CEO Hock Tan told the Chinese language Economic Daily News (EDN) that the rumours were news to him. 
+"There has been no discussion or contact between Broadcom and MediaTek concerning the subject matter of such media claims", MediaTek said in a company filing with the Taiwan Stock Exchange responding to the EDN report. 
+According to the Motley Fool post, Cirrus Logic and Xilinx are other potential targets. Cirrus' top customer is Apple, while Xilinx is rivaling Intel in the FPGA market.

@@ -1,0 +1,4 @@
+EC clears Ofcom plan for Openreach wholesale access regulation   10:15 CET | News 
+The European Commission has cleared UK regulator Ofcom's plan to regulate wholesale access to the BT Openreach network. The Commission said it "particularly approves" of Ofcom's efforts to make it more attractive for alternative operators to use Openreach's physical infrastructure, such as through improved and cheaper access to ducts, which should help in rolling out their own fibre networks. 
+In addition, the Commission welcomed Ofcom's proposal to continue to allow Openreach a degree of pricing flexibility for very high-speed virtual access the network. This should help strengthen the incentive for Openreach to invest in more very high capacity networks, the Commission said. 
+Commission clearance was the last hurdle before Ofcom can issue its final decision on wholesale broadband access.  

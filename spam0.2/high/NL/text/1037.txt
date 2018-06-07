@@ -1,0 +1,6 @@
+Can't touch this 
+IBM has been showing off what it calls the world's smallest computer. 
+The computer is 1mm x 1mm, smaller than a grain of fancy salt, and costs less than ten cents to manufacture. The picture shows two chips on 64 motherboards. It is half the size of the last "world's smallest computer" which was shown off in 2015 and was a bulky 2mm across. 
+Feature-wise, the computer has a processor with “several hundred thousand” transistors, SRAM memory, a photo-voltaic cell for power, and a communications unit that uses an LED and a photo-detector to talk with the outside world. 
+Powerwise it is not the greatest. Biggish Blue says that is about the same as an x86 chip from 1990 which means that it can play the original Doom. But hell, the technological achievement for that is pretty high. 
+IBM’s actual application for this chip seems mostly centred on supply chain management and counterfeit protection and might be part of IBM's “blockchain” moves. The chip is just one of many “crypto-anchors” IBM is developing for this purpose. What follows is a blueprint for those who like that sort of thing.

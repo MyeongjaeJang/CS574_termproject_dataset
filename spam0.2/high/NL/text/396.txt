@@ -1,0 +1,14 @@
+OldTwitter 
+However, in 2013 he made some very interesting comments on bitcoin. We quote a rough translation reporting Yi Gang said back then: 
+“On November 20, Yi Gang, deputy governor of the People’s Bank of China, first talked about Bitcoin in a forum. 
+Yi Gang stated that from the perspective of the People’s Bank, it is impossible to recognize the legitimacy of Bitcoin in the near future. But at the same time, he also believes that bitcoin trading is a kind of buying and selling activity on the Internet, and ordinary people have the freedom to participate. 
+In addition, Yi Gang pointed out that Bitcoin is “very characteristic” and “inspiring”, and he will maintain long-term perspective.” 
+There are suggestions usage of bitcoin in China continues, and is even accepted for payments of goods. But much activity is probably happening in neighboring countries, with an explosion of trading volumes in South Korea coinciding with the Chinese ban of crypto-exchanges. 
+South Koreans have now seemingly settled on simply taxing the exchanges, so gaining hundreds of millions in revenue. 
+The most important aspect China might be missing on, however, might be talent. We reported yesterday an interesting finding showing Chinese interest in coding aspects of ethereum, such as smart contracts or its programming language solidity, have exploded recently. 
+The reason is probably because the best way to understand blockchain technology and its potential is to get your hands dirty with coding ethereum as it has smart contracts. 
+Moreover, most of the mature and advanced knowledge of blockchain tech is in public blockchains, which have it all running and have developed it all from grounds up. 
+Crypto and blockchain , therefore, can’t easily be separated. That’s especially the case when it comes to Dapps, which usually are funded through ICOs. 
+Most dapps that get decent funding are from respected and experienced mainly eth coders who use the public and permissionless platform to innovate in real time and get real market feedback, with some succeeding in gaining many users and then, eventually, one would think revenue. 
+As one can’t do much of the above in China, they might be limited to theoretical or book learning aspects only. As everyone knows, that’s useful, but very limited compared to actual hands on experience, especially when it comes to coding. 
+So the appointment of Yi Gang, which was “largely unexpected” according to the BBC, might suggest a uturn could be on the cards due to his previous friendly comments. But whether that’s actually the case, we’ll have to wait and see. 

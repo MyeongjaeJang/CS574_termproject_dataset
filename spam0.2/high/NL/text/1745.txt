@@ -1,0 +1,17 @@
+Kaspersky sets up in Swiss centre by Email 
+We need to show we are neutral 
+Security outfit Kaspersky is setting up a datacenter in Switzerland to counter moves in the United States, Britain and Lithuania last year to stop using the company’s products because of Russian government influence in the country. 
+The U.S. last year ordered civilian government agencies to remove the Kaspersky software from their networks and has filed a lawsuit against the US ban. 
+The U.S. allegations were the “trigger” for setting up the Swiss data centre, said the person familiar with Kapersky’s Switzerland plans, but not the only factor. 
+“The world is changing,” they said, speaking on condition of anonymity when discussing internal company business. “There is more Balkanisation and protectionism.” 
+In a statement, Kaspersky Lab said: “To further deliver on the promises of our Global Transparency Initiative, we are finalising plans for the opening of the company’s first transparency center this year, which will be located in Europe.” 
+“We understand that during a time of geopolitical tension, mirrored by an increasingly complex cyber-threat landscape, people may have questions and we want to address them.” 
+Kaspersky Lab launched a campaign in October to dispel concerns about possible cooperation with the Russian government by promising to let independent experts scrutinise its software for security vulnerabilities and “back doors” that governments could exploit to spy on its customers. 
+The company also said at the time that it would open “transparency centres” in Asia, Europe and the United States but did not provide details. The new Swiss facility is dubbed the Swiss Transparency Centre, according to the documents. 
+Work in Switzerland is due to begin “within weeks” and be completed by early 2020, said the person with knowledge of the matter. 
+The plans have been approved by Kaspersky Lab CEO and founder Eugene Kaspersky, who owns a majority of the privately held company, and will be announced publicly in the coming months, according to the source. 
+Ironically the move could be derailed by the Russian security services, who might resist moving the data centre outside of their jurisdiction. 
+The Swiss centre will collect and analyse files identified as suspicious on the computers of tens of millions of Kaspersky customers in the United States and European Union. Data from other customers will continue to be sent to a Moscow data centre for review and analysis. 
+Files would only be transmitted from Switzerland to Moscow in cases when anomalies are detected that require manual review, the person said, adding that about 99.6 percent of such samples do not currently undergo this process. 
+A third party will review the centre’s operations to make sure that all requests for such files are appropriately signed, stored and available for review by outsiders including foreign governments, the person said. 
+Moving operations to Switzerland will address concerns about laws that enable Russian security services to monitor data transmissions inside Russia and force companies to assist law enforcement agencies, according to the documents describing the plan. 

@@ -1,0 +1,5 @@
+SMME IoT, SqwidNet aim to connect 1 mln devices   13:44 CET | News 
+South African network provider Sqwidnet has signed a channel partnership agreement with SMME IOT, an ecosystem management systems and Internet of things (IOT) strategy provider, to connect 1 million devices within the next 3-5 years, reports ITWeb. SqwidNet says this partnership will allow the company to provide its proposition of low-cost, long-range, low-power modules and devices to the existing network of partners that SMME IOT services. 
+SMME IOT, in alliance with Visiosoft (an IOT device-maker), has already installed just over 2 500 water meter reader units across the country. 
+The analytics platform connected to these devices receives the consumption data every 30 minutes. These are active sites, that send data from the devices into a cloud platform. This data is then used to understand the consumption patterns of the area, resulting in responsible usage of water in various suburbs and communities. SMME IOT offers end-to-end solutions using leading technologies and sustainable partnerships to grow and support various businesses in South Africa. 
+ 

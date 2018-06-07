@@ -1,0 +1,8 @@
+LG releases open-sourced version of webOS by 
+Wants it adopted beyond LG tellies 
+LG just released an open-sourced version of webOS which it hopes will drive further adoption of webOS beyond LG televisions, smart refrigerators, and the never-released smartwatch. 
+This is the second time an open-source version of webOS has been released. HP had a go at it when it ran the project. The inspiration for the move appears to have come from Samsung which develops and uses the open-sourced Tizen operating system on a variety of devices including smartwatches, televisions, Blu-ray players, and robotic vacuums. 
+WebOS was developed by Palm and LG bought it from HP back in 2013. 
+LG Chief Technology Officer, Dr I.P. Park, said that when LG adopted webOS for our popular smart TV lineup in 2013, it did so with the knowledge that webOS had tremendous potential. 
+"WebOS has come a long way since then and is now a mature and stable platform ready to move beyond TVs.” 
+LG is working with the National IT Industry Promotion Agency (NIPA) to find suitable webOS business proposals and will provide logistical and technical support to any viable candidates with commercialisation as the end goal. ”As we move from an app-based environment to a web-based one, we believe the true potential of webOS has yet to be seen”, said Park. Last modified on 

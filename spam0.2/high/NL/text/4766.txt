@@ -1,0 +1,7 @@
+AMD releases Radeon Software 18.3.4 driver by Email 
+One to have for Far Cry 5 
+AMD has released its latest Radeon Software Adrenalin Edition 18.3.4 driver which brings day-one support for the Far Cry 5 game as well as fixing some earlier problems. 
+According to the release notes, the new Radeon Software Adrenalin Edition 18.3.4 driver should provide optimizations for Ubisoft's Far Cry 5 game, expected to launch today, March 27th. 
+In addition to the Far Cry 5 support, the latest Radeon Software 18.3.4 driver also fixes a couple of issues, including the one where some blockchain workloads may experience lower performance than expected when compared to previous Radeon Software releases as well as bright lighting effects issue in specific map locations in Final Fantasy XV game. 
+Among current known issues is the one that might not be that great for cryptocurrency miners, where there is a random system hang after extended periods of use on configurations with 12 GPUs set for compute workloads. There are also some other minor bugs in Far Cry on multi-GPU Configurations, minor issues in Destiny 2 and problems with Radeon Overlay and resizing Radeon Settings. 
+The Radeon Software Adrenalin Edition 18.3.4 supports all graphics cards since Radeon HD 7700/7900 series and is available over at AMD's support page for Windows 7 and Windows 10 in both 32-bit and 64-bit versions. 

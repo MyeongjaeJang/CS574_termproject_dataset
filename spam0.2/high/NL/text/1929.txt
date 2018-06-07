@@ -1,0 +1,36 @@
+
+App Developer Says He Is Scapegoat In Facebook Data Row 
+
+
+The academic behind an app that harvested data from millions of Facebook users said Wednesday he was being scapegoated in an online privacy row that has rocked the social media giant. 
+British data firm Cambridge Analytica (CA) and Facebook are accused of improperly using the data for US President Donald Trump’s election 2016 campaign. 
+The scandal, which has seen the suspension of CA’s chief executive, wiped out $60 billion of Facebook ‘s market value since the start of the week, Bloomberg News reported Wednesday. 
+However, both firms have denied any wrongdoing and instead blamed the app’s inventor, Aleksandr Kogan, for misusing the information. 
+But Kogan hit back Wednesday, saying that CA had assured him his activities were “perfectly legal and within the terms of service” of Facebook . 
+“I’m being basically used as a scapegoat by both Facebook and Cambridge Analytica,” he said. 
+“We thought we were acting perfectly appropriately. We thought we were doing something that was really normal. 
+“We were assured by Cambridge Analytica that everything was perfectly legal and within the terms of service.” 
+The University of Cambridge psychologist behind the personality survey This Is Your Digital Life told the BBC that around 200,000 people used his app and around 30 million US Facebook users’ details were harvested. 
+The app’s vast reach beyond its users happened by scooping up data from their friends on Facebook , which says the data was taken without its knowledge. 
+Kogan said CA approached him to do the work but did not know how the firm would use the personal data collected, leaving him “stunned” by the allegations against him. 
+Kogan said he strongly regretted not asking more questions about the work he did for CA. 
+“One of the great mistakes I did here was I just didn’t ask enough questions,” he said. 
+“I had never done a commercial project, I didn’t really have any reason to doubt their sincerity. 
+He added: “My motivation was to get a dataset I could do research on; I have never profited from this in any way personally.” Pressure on Facebook, CA 
+The scandal erupted over the weekend after a CA whistleblower said the CA was able to create psychological profiles on 50 million Facebook users via a personality prediction app developed by Kogan and downloaded by 270,000 people. 
+Lawmakers on both sides of the Atlantic have demanded answers in the scandal, which has ratcheted up the pressure on Facebook — already under fire for allowing fake news to proliferate on its platform during the US presidential election. 
+Kogan said he would be prepared to appear before British or US lawmakers if requested. 
+CA suspended its chief executive Alexander Nix on Tuesday over the row as recordings emerged of him boasting that the firm played an expansive role in Trump’s 2016 election campaign, doing all of its research, analytics as well as digital and television campaigns. 
+In undercover filming captured by Channel 4 television, he is also seen boasting about entrapping politicians and secretly operating in elections around the world through shadowy front companies. 
+In the footage, Nix slights US representatives on the House Intelligence Committee to whom he gave evidence last year, claiming its Democrats are motivated by “sour grapes” and Republicans asked few questions. 
+“They’re politicians, they’re not technical. They don’t understand how it works,” he told an undercover reporter. 
+He also outlines the use of a secret self-destructing email system. 
+“There’s no evidence, there’s no paper trail, there’s nothing,” he said of the tool, which deletes emails two hours after they have been read. Facebook ‘outraged’ 
+US media reported Tuesday evening that the Federal Trade Commission is investigating Facebook over the data scandal. 
+Facebook said its top executives were “working around the clock to get all the facts”. 
+“The entire company is outraged we were deceived. We are committed to vigorously enforcing our policies to protect people’s information and will take whatever steps are required to see that this happens,” the firm said. 
+Facebook shares fell 2.6 percent on Tuesday to close at $168.15, adding to Monday’s big decline. 
+European Union officials have called for an urgent investigation while British, US and EU lawmakers have asked Facebook boss Mark Zuckerberg to give evidence. 
+Andrea Jelinek, chair of the EU’s WP29 data protection regulator, said: “Personal data cannot be used without full transparency on how it is used and with whom it is shared. 
+“This is, therefore, a very serious allegation with far-reaching consequences for data protection rights of individuals and the democratic process.” 
+AFP 

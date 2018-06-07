@@ -1,0 +1,19 @@
+This story was shared from this site 
+The Clarifying Lawful Overseas Use of Data (CLOUD) Act was passed along with the federal spending bill on Friday, March 23 rd , 2018. The act allows law enforcement agencies to demand access to online information from any country in the world. 
+The CLOUD Act was introduced by Republican Senator Orrin Hatch , with the support of both Republican and Democratic Senators. It allows law enforcement agencies an easier route to access users electronic data such as emails, messages, and files, even if it’s stored on servers in another country. The act also creates a framework for U.S lawmakers to send information from U.S based servers to other countries on a case-by-case basis. 
+Hatch states: 
+The CLOUD Act bridges the divide that sometimes exists between law enforcement and the tech sector by giving law enforcement the tools it needs to access data throughout the world while at the same time creating a commonsense framework to encourage international cooperation to resolve conflicts of law. Bitcoin and Digital Rights Experts Express Concerns Over Privacy 
+Some, including influential speaker and author of Mastering Bitcoin , Andreas Antonopoulos, have criticized how the act was passed without debate and the act’s implications for privacy. The CLOUD Act passed. It destroys privacy globally, so it had to be snuck into the $1.3 trillion omnibus without debate. 
+Encrypt. Encrypt. Encrypt. Go Dark. 
+When privacy is criminalized, only criminals have privacy. We got sold out, again. pic.twitter.com/Ms5bm1opBo 
+— Andreas M. Antonopoulos (@aantonop) March 23, 2018 
+Digital rights group the Electronic Frontier Foundation (EFF) believe the act bypasses the Fourth Amendment which demands that “probable cause”, translating as a high level of suspicion, is required for any investigation. The EFF also argues the act could result in the U.S giving individuals’ data to law enforcement agencies in countries known for abusing the rights of their citizens. 
+The American Civil Liberties Union (ACLU) said the law: 
+Threatens human rights, jeopardizes the Fourth Amendment interests of individuals inside the US, and provides an alarming level of discretion to the executive branch at the expense of congressional authority. 
+Technology companies storing data will have the opportunity to refuse to share user data if they feel requests are not part of a legitimate criminal investigation. Instead, asking for the current legal solution process, a mutual legal assistance treaty (MLAT), to be followed. Microsoft, Apple, Facebook, Google and Yahoo Support the CLOUD Act 
+Microsoft President and Chief Legal Officer Brad Smith included in a statement issued on March 21 st , 2018: 
+The proposed CLOUD Act creates a modern legal framework for how law enforcement agencies can access data across borders. It’s a strong statute and a good compromise. 
+Apple, Facebook, Google, Microsoft and Yahoo also issued a joint letter in support of the bill on February 6 th , 2018 which said: 
+Introduction of this bipartisan legislation is an important step toward enhancing and protecting individual privacy rights, reducing international conflicts of law and keeping us all safer. The CLOUD Act encourages diplomatic dialogue, but also gives the technology sector two distinct statutory rights to protect consumers and resolve conflicts of law if they do arise. The legislation provides mechanisms to notify foreign governments when a legal request implicates their residents, and to initiate a direct legal challenge when necessary. 
+Do you agree with Andreas Antonopoulos’ criticism of the CLOUD Act? How does its passing impact the cryptocurrency community? Let us know in the comments below. 
+Images courtesy of iStockPhoto, Twitter

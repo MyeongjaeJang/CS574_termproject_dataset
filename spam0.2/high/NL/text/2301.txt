@@ -1,0 +1,25 @@
+The head of Facebook has apologised for the "major breach of trust" the social media platform committed, when it allowed personal information of 50 million users from being collected by a data mining company linked to President Donald Trump's 2016 campaign .
+Mark Zuckerberg , however, could not explain why it took almost three years for Facebook to take action when it learned about the data breach as early as 2015.
+"I am really sorry that this happened," he said in an interview with US cable channel CNN on Wednesday.
+"We have a basic responsibility to protect people's data, and if we can't do that, then we don't deserve the opportunity to serve people," he said.
+In a separate statement posted on the social media platform he founded, Zuckerberg acknowledged that "mistakes" were made, adding "there's more to do, and we need to step up and do it". 
+INSIDE STORY: Is privacy really possible in this age of social media? (25:00) "This was a breach of trust between Kogan, Cambridge Analytica and Facebook," he said, referring to Aleksandr Kogan, a Cambridge University researcher who created an app that collected personal data of users, and then sold the information to the data mining company linked to Trump.
+"It was also a breach of trust between Facebook and the people who share their data with us and expect us to protect it. We need to fix that."
+Zuckerberg was forced to apologise following reports that the US Federal Trade Commission (FTC), an independent government body governing privacy policies, is looking into whether Facebook violated the 2011 rules on consent.
+If Facebook is found to have violated the terms of the consent decree, the FTC can fine the social network more than $40,000 a day per violation.
+US Senator Amy Klobuchar has also formally asked for a judicial hearing on the issue. 
+Cambridge Analytica controversy The UK's privacy regulator, the Information Commissioner's office, said on Monday it would request a warrant to search the offices of the political consultancy.
+Cambridge Analytica stands accused of using data mined from Facebook in the voter research it conducted for President Trump during the 2016 elections campaign.
+Facebook's price at the stock market also fell, losing $60bn in value in the last five days following the revelation.
+An undercover investigation by the UK-based Channel 4 revealed that Cambridge Analytica may have engaged in ethically and legally questionable practices.
+WATCH: UK seeks warrant to access Cambridge Analytica servers (2:42) The firm's chief executive, Alexander Nix, was approached by an undercover reporter posing as a fixer for a potential client.
+Nix reportedly told the fixer that his company's litany of services included sending escorts to political opponents, bribing them and leaking recordings to the press as well as pushing compromising material in a discreet manner on social media.
+Nix has since been suspended.
+Mark Turnbull, Cambridge Analytica's managing director for political operations, said that once information is published online, the team will ensure that the content remains relevant.
+In his statement late on Wednesday, Zuckerberg vowed to fix policies at Facebook to prevent similar breaches in the future.
+"At the end of the day, I'm responsible for what happens on our platform," he said.
+"We will learn from this experience to secure our platform further and make our community safer for everyone going forward."
+In an interview with Al Jazeera, Larry Magid, a technology journalist and internet safety advocate, said: "there are a lot of culpable organisations and individuals" involved in the controversy.
+Meanwhile, Jason Moon, an expert on internet security, said it is important to remember that "it is how Facebook makes its money."
+"I think it is morally repugnant what happened. Facebook provided the facility for this abuse to take place," he said, but added that the blame goes around.
+SOURCE: Al Jazeera News

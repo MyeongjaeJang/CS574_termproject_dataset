@@ -1,0 +1,11 @@
+100 TB SSD is with us by Email 
+Nimbus Data beats Samsung and Seagate 
+Nimbus Data has released its ExaDrive DC100 SSD which can manage 100TB – much more than Samsung's 30TB SSD and Seagate's 60TB SSD monsters. 
+
+To be fair Samsung and Seagate's huge SSDs have not been seen in the wild so Nimbus Data and its ExaDrive DC100 is undoubtedly a record beater. 
+Nimbus Data is claiming that the ExaDrive DC100 consumes 85 percent less power per TB (just 0.1W). The ExaDrive uses both conventional SATA and SAS (Serial Attached SCSI) and uses a multi-processor architecture which splits data between multiple NAND controllers. 
+In a press release, the company said that conventional SSDs are based on a single flash controller. As flash capacity increases, this monolithic architecture does not scale, overwhelmed by error correction operations and the sheer amount of flash that must be managed. In contrast, ExaDrive is based on a distributed multiprocessor architecture. Inside an ExaDrive-powered SSD, multiple ultra-low power ASICs exclusively handle error correction, while an intelligent flash processor provides wear-levelling and capacity management in software. 
+Nimbus Data claims up to 100K IOPS in random read/write workloads which is rather fast for writes. Overall drive throughput is listed at 500MBps. If all this is correct you are looking at an SSD capable of sustaining 500MBps of throughput can write a gigabyte of data in two seconds. 
+The ExaDrive DC series includes both 100 TB and 50 TB models. The company said it is currently sampling to strategic customers and will be available in summer 2018. Nimbus Data has qualified the DC series in storage and server enclosures from major vendors. 
+Pricing will be similar to existing enterprise SSDs on a per-terabyte basis while offering 85 percent lower operating costs. Overall, the ExaDrive DC series will cost 42 percent less per terabyte over a 5-year period compared to existing enterprise SSDs, the company said. 
+In other words, if you are asking about how much it will cost to house your HD porn collection chances are you can't afford it. Last modified on 

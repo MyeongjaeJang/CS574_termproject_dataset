@@ -1,0 +1,3 @@
+Lithuania watchdog launches new tool to verify web certificates   15:37 CET | News 
+Lithuania's national telecommunications regulator RRT has introduced a new website to verify certificates used for electronic signatures and secure websites. The new site will provide visitors with detailed information on the certificates and their holders. 
+The website also includes a remote learning module for the use of electronic signatures.  

@@ -1,0 +1,5 @@
+Amazon RDS now supports MariaDB Minor Versions 10.0.34, 10.1.31 and 10.2.12 
+Posted On: Mar 21, 2018 
+Amazon RDS for MariaDB now supports MariaDB Server minor versions 10.0.34, 10.1.31 and 10.2.12 in all AWS Regions. These new versions include a number of fixes and functionality improvements for the MariaDB database engine. 
+We encourage you to consider upgrading your RDS for MariaDB database instances at your convenience. You can upgrade your database instance with just a few clicks in the AWS Management Console . Learn more about upgrading your database instances from the Amazon RDS User Guide . 
+You can find the release notes for the new minor versions here: 

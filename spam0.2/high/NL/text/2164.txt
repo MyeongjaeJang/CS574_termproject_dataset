@@ -1,0 +1,19 @@
+by Expert Zuckerberg on #deletefacebook: ‘You know, it’s not good’ 
+Following what felt like years of silence on a plethora of issues, Facebook founder and CEO Mark Zuckerberg has gone on an interview rampage (but not us — was it my editorial ?). Although he mainly plugs away at the points he made in today’s blog post , there are a few items worth noting. 
+Regarding the company’s acceptance at face value that Cambridge Analytica had deleted the data they weren’t supposed to have (to Recode ): 
+At the time it didn’t seem like we needed to go further on that. Given what we know now we clearly should have followed up and we’re never going to make that mistake again. 
+And what about the thousands of apps that may have performed similar data grabs during the many years it was possible? 
+The data isn’t on our servers, so it would require us sending out forensic auditors to different apps. 
+How many apps are we talking about here? (to the New York Times ) 
+It will be in the thousands. 
+Will the 50 million estimated to be affected by the data collected by Aleksandr Kogan be notified to what extent their data was shared? 
+Yes. We’re going to tell anyone whose data may have been shared. 
+Presumably the same will be true for anyone found to be affected by other unsavory apps. 
+What about the public response? What does he think about #deletefacebook ? 
+I don’t think we’ve seen a meaningful number of people act on that, but, you know, it’s not good. 
+As for preventing future manipulation of the system during a major election year (not just here but around the world): 
+In 2017 with the special election in Alabama, we deployed some new A.I. tools to identify fake accounts and false news, and we found a significant number of Macedonian accounts that were trying to spread false news, and were able to eliminate those. 
+It’s the first time he’s talked about it, apparently. Hopefully they’ll prove as effective during larger campaigns. 
+Zuckerberg also goes off on some interesting tangents with Wired , for instance the efficacy of AI in certain situations and the status of the Cambridge Analytica audit in the UK. As for whether he’ll appear in front of Congress: 
+If it is ever the case that I am the most informed person at Facebook in the best position to testify, I will happily do that. 
+If I had to guess, I’d say that hour fast approaches. Share this:

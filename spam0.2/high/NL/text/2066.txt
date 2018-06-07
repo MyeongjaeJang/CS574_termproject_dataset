@@ -1,0 +1,4 @@
+Technical fault at ING: 3 million transactions debited twice   09:32 . ING building in Amsterdam Zuidoost (Picture: Wikimedia Commons/Pieter Delicaat) 
+A technical failure at ING resulted in 3 million transactions being debited twice, a spokesperson for the bank confirmed to NU.nl after countless customer complaints on social media. 
+The double transactions mainly concern debit card payments that were processed on March 19th. According to the spokesperson, due to the fault a specific 'batch' of payment data was processed twice. It is possible that some customers had multiple transactions debited twice. 
+ING will correct the mistakes as soon as possible, but until then customers will have less money in their accounts. The bank calls on people facing financial problems because of this to contact the bank. "We apologize to customers who are inconvenienced by this", the spokesperson said to the newspaper. He could not say when the mistakes will be fixed.

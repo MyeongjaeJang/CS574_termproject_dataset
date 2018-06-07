@@ -1,0 +1,3 @@
+Viber says it cannot present encryption keys to Russian govt   13:58 CET | News 
+The messenger Viber cannot present its encryption keys to provide user data access to Russian governmental institutions, reports Vedomosti citing Michael Shmilov, the CEO of Viber Media. It simply does not have these keys, he said. All the main functions of the messenger are protected using end-to-end encryption, so only the users are able to present the encryption keys. 
+In January, Viber had 9.6 million users in Russian cities of more than 100,000 residents. The figure for VKontakte was 22.6 million, WhatsApp followed with 12.23 million, and the user bases of Odnoklassniki, Facebook and Telegram were 7.4 million, 5 million and 2.5 million respectively.  

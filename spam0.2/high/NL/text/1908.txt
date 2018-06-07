@@ -1,0 +1,9 @@
+Large-scale battery to counter power outages launched March 20, 2018 by Anna 
+Murata Manufacturing Co., Ltd. has developed a container-type large-scale energy storage system for instantaneous voltage drop countermeasures, and has released the developed system to the market in cooperation with Japan Facility Solutions, Inc., a 100％ subsidiary of Tepco Energy Partner, Inc. 
+The energy storage block of this system uses the olivine-type iron phosphate lithium-ion battery “Fortelion”, manufactured by Murata subsidiary Tohoku Murata Manufacturing Co., Ltd., and is used in combination with an AC-DC converter made by Meidensha Corporation or Yamabishi Corporation. 
+Instantaneous voltage drop (a momentary drop in power system voltage) such as due to lightning strikes to power transmission lines may have a large impact, such as stopping production in factories. 
+Data centers and factories that manufacture high value-added products, such as precision instruments, require a more stable power supply than ever before. 
+Murata’s newly developed container-type large-scale energy storage system uses olivine-type iron phosphate as the cathode material, which has a high safety standard without concerns of fire and realizes a useful lifespan of up to fifteen years. 
+In addition, the developed system provides a higher amount of power than that of general lithium-ion batteries, which leads to installation space savings. 
+It also has a demand response function that can help to level power supply by making use of energy storage to achieve efficient energy use. 
+Murata will continue to develop high input (2C charging) high output (6C discharge) large-scale energy storage systems, and provide various solutions that realize not just instantaneous voltage drop compensation measures and demand response, but also mitigation of short-term fluctuations and adjustment of frequencies. Share this:

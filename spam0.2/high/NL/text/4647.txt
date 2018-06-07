@@ -1,0 +1,4 @@
+Telegram loses appeal against Russian fine Monday 26 March 2018 | 16:01 CET | News 
+The Moscow city court has rejected an appeal from messaging app Telegram against a RUB 800,000 fine, reports Tdaily.ru. The fine was imposed after Telegram refused to hand over encryption keys to the Federal Security Service. The appeal was rejected for formal reasons. 
+The Russian Supreme Court had earlier rejected an appeal from Telegram against the Federal Security Service's request for the company to disclose encryption keys to access messages from Telegram users. Russian federal telecommunications regulator Roskomnadzor ordered Telegram to fulfill the requirement within 15 days. The watchdog plans to block the messenger if the company refuses to disclose the keys. 
+Telegram resisted the blanket access to its platform, saying access to private correspondence should be possible only with a court warrant.  

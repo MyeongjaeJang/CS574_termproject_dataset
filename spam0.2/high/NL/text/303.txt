@@ -1,0 +1,5 @@
+Etisalat Digital and CyberSponse join hands for digital security   13:20 CET | News 
+Etisalat Digital havs signed a Memorandum of Understanding with CyberSponse, a provider of automated incident response (IR) software for cyber security threat management, to deliver advanced digital security solutions in the UAE. 
+The strategic agreement was signed at the end of the Dubai Future Accelerators (DFA) programme where Etisalat Digital Security challenged innovators to reduce digital risks in the UAE by 50 percent in the coming five years by building and delivering cutting edge digital security solutions focusing on areas of Industrial Control Systems (ICS) security, Internet of Things (IoT) security and Incident Response (IR). 
+The Etisalat Digital and CyberSponse collaboration will facilitate the acceleration of automation and orchestration of security operations within the UAE, in an effort to improve digital security incident response for robust resilience. 
+ 

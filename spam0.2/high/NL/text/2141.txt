@@ -1,0 +1,4 @@
+Neverfail opens cloud services data centre in Sydney Wednesday 21 March 2018 | 19:43 CET | News 
+Neverfail announced that its new data centre in Sydney, Australia, went live from February and is serving a variety of Neverfail’s enterprise and ISV clients. The company said the new data centre is a key component in its ongoing global expansion of its cloud and software product offerings, and makes it easier for customers to serve the Asia Pacific (APAC) region. The new facility is already hosting production servers and disaster recovery backup services for 38 Neverfail clients. 
+Like Neverfail’s other data centres, the new Sydney facility offers world-class reliability and operational excellence with full UPS power, back-up systems, N+1 redundancy and >99. percent uptime, the company said in a press release. The facilities are certified compliant with SSAE16 and ISO/IEC 27001 standards for information security management systems. 
+ 

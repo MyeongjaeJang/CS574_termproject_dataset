@@ -1,0 +1,6 @@
+
+Hail Hydra 
+A slide of an octocore intel chip benchmark has leaked onto the worldwide wibble. 
+Sharp-eyed hacks at VideoCardz found the following on the 3D Mark database and it claims that Chipzilla has a octa-core Coffee Lake-S SKU in the works 
+OK, the leak does not show much. Just an Intel CPU, running at 2.2GHz, but the important bit is that it has eight cores and 16 logical processors. The system ran Windows 10 64-bit, was equipped with 16GB of RAM, and a 1TB fixed storage. It had an Intel CoffeeLake S 82 UDIMM RVP which is an engineering board. There are somethings wrong too – the TDP of the installed processor as 0 watts which would be somewhat of a feat. 
+The leak also fails to say if this octa-core Coffee Lake-S processor of be launched as a part of a 9 th generation Core series. Other roadmaps have suggested that the first 8C/16T enthusiast desktop parts should arrive in the summer when Intel releases its Z390 platform. Last modified on 

@@ -1,0 +1,9 @@
+Home » News » Radeon Software Adrenalin Edition 18.3.3 Radeon Software Adrenalin Edition 18.3.3 
+Radeon Software Adrenalin Edition 18.3.3 Highlights 
+Support For 
+A Way Out™ Vulkan®1.1 Support Product is conformant with the Vulkan® 1.1 Specification. Vulkan and the Vulkan logo are registered trademarks of the Khronos Group Inc. 
+Fixed Issues 
+Forza® Motorsport 7 may experience intermittent stutter during gameplay. Some Radeon ReLive recorded clips may experience corruption or audio distortion when played back. Final Fantasy® XV may experience flickering or disappearing objects during some gameplay in multi GPU enabled system configurations. Star Wars® Battlefront™ 2 may experience a system hang on the initial splash screen in multi GPU enabled system configurations. 
+Known Issues 
+A random system hang may be experienced after extended periods of use on system configurations using 12 GPU’s for compute workloads. Destiny 2™ may experience an application hang in the mission “Heist” on some Radeon GCN1.0 products. Destiny 2™ may experience long load times when the application has been open for extended periods of time. Radeon Overlay may intermittently fail to enable when toggled in some games. FFmpeg application may experience corrupted output for H264 video streams. Resizing Radeon Settings may cause the window to intermittently stutter. 
+Package Contents The Radeon Software Adrenalin Edition 18.3.3 installation package contains the following: Radeon Software Adrenalin Edition 18.3.3 Driver Version 17.50.33.01 (Windows Driver Store Version 23.20.15033.1003)

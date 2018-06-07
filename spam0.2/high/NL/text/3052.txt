@@ -1,0 +1,11 @@
+by Expert Telegram chalks up 200M MAUs for its messaging app 
+Another usage milestone for messaging platform Telegram: It’s announced passing 200M monthly active users “within the last 30 days”. 
+The platform passed 100M MAUs back in February 2016 , when it held a lavish party at the Mobile World Congress tradeshow in Barcelona to celebrate the metric. At the time it said it was adding 350k new users daily and that there were 15 billion messages generated daily. 
+Since then Telegram has kept its powder fairly dry on the usage metrics front — presumably waiting to be able to announce 200M. 
+Its blog post is not revealing of any other details about usage. Rather founder Pavel Durov uses the space to give thanks to Telegram users for getting the company to the milestone, and takes a sideswipe at other “popular apps” which he says — unlike Telegram — monetize via advertising and/or pass data on to third parties. 
+Safe to say, it doesn’t take much imagination to figure out who he might be thinking of … 
+“Since the day we launched in August 2013 we haven’t disclosed a single byte of our users’ private data to third parties,” he writes (emphasis his). “We operate this way because we don’t regard Telegram as an organization or an app. For us, Telegram is an idea ; it is the idea that everyone on this planet has a right to be free .” 
+We’ve reached out to Durov to see if he’ll give up any more Telegram usage tidbits and will update this post if so. 
+While he writes confidently now that “Telegram doesn’t… do deals with marketers, data miners or government agencies”, it’s not clear how much longer he’ll be able to stand up that claim — given the legal pressure being applied, for example, in Russia to hand over encryption keys or face being blocked. Telegram has also faced restrictions in Iran . 
+It told Bloomberg it plans to appeal the Russian ruling in a process that may last into the summer, according to company lawyer, Ramil Akhmetgaliev. 
+Durov also tweeted that: “Threats to block Telegram unless it gives up private data of its users won’t bear fruit. Telegram will stand for freedom and privacy.” Share this:

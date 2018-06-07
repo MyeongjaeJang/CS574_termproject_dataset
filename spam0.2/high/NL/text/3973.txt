@@ -1,0 +1,28 @@
+Forgot your wallet at home? Samsung and Apple have you covered March 26, 2018 7:00 am 
+The Roads and Transport Authority (RTA) in Dubai recently announced on Twitter that Samsung Pay and Apple Pay could be used on Taxis in Dubai. 
+However, this is not a first for payments made with your mobile; China has had it for a few years now. 
+E-commerce wars have begun 
+Paper and coins are dying 
+“I carry $10 in cash for emergencies for the whole month,” said a teenage Chinese local, in a recent interview by CNBC. 
+WeChat and Alipay dominate the mobile payment markets in China, reaching a staggering $5.5 trillion in transactions in 2016, according to South China Morning Post. 
+Samsung Pay and Apple Pay dominate the mobile payment market in the West, and according to Samsung, you can use Samsung Pay at 350,000 merchants across the US. 
+This massive push to a mobile payment only age has made companies, vendors and banks in the Middle-East start considering evolving to incorporate it. 
+Samsung is putting its heart into a new feature: Does it have enough pulse? 
+Why are you still carrying a wallet? 
+As reported by The National, Ahmed Bahrozyan, Chief Executive of the RTA’s Public Transport Agency said, 8,000 taxis are already using this new point of sale. 
+Samsung Pay launched last year, and it uses Magnetic Secure Transmission (MST) and Near Field Communication (NFC) technologies to make mobile payments happen. 
+MST technology allows you to use this type of payment even in places that don’t have NFC pads specific for transactions with a mobile. 
+Apple Pay launched at the end of 2017, allowing users to pay at certain establishments that have an NFC pad for transactions. Six banks already support this payment as per Apple’s official website’s claims. 
+Both solutions are very safe, requiring you to authenticate the transaction using either a passcode, a fingerprint or Face ID, as reported by Business.com. 
+Apple Pay sends merchants only some part of your information when you authorize payments. 
+Samsung Pay never uses your credit card details to authorize payments but instead sends a “token” to the Point of Service (POS) machine. 
+Taxi tokens 
+Here’s the future scenario shaping up using token payments. 
+The idea is that companies using blockchain technology are beginning to launch cryptos (tokens) as a way to digitally pay for things like real estate transactions or in this case taxi rides. 
+The difference here is that the more the company behind these tokens gets its products used or traded (square footage in the case of properties, or mileage in the case of cab rides), the higher the value of the crypto you own or trade. 
+So your investment in these company cryptos in essence not only provide a currency exchange model but one that rises (or drops) in value with time. 
+Vimana, headquartered in Redwood City, CA, and with offices in the United States, Middle East, India, Singapore, Malaysia and Russia, introduced the first blockchain airspace platform for managing autonomous aerial vehicle flight routes in smart cities around the world. 
+It plans for a Dubai launch as soon as regulatory and infrastructure challenges are resolved. 
+A company called Blockchain.aero Consortium is another such startup that will provide the complete package of technologies for the urban air taxi grid. 
+McFly.aero is a Technology and Business Incubator on the emerging urban air taxi market. 
+A token launch starts on the 5th of April 2018 through an ICO.

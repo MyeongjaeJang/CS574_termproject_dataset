@@ -1,0 +1,8 @@
+Nvidia caught with slower Geforce MX150 for Ultrabooks by Email 
+The MX150 1D12 is 20-25 percent slower 
+Nvidia has quietly launched a new version of the Geforce MX150 mobile GPU for Ultrabooks which is actually quite slower than the original one. 
+According to findings from Notebookcheck.net , there are actually two version of the MX150 GPU, the 1D10, and the 12D12 version. 
+The "standard" Geforce MX150 1D10 works at 1469MHz GPU base and 1532MHz GPU Boost clock, while its GDDR5 memory was working at 1502MHz on a 64-bit memory interface. While this might not get you anywhere in most games with a decent level of details, it was a decent replacement for the old Geforce 940MX. 
+Unfortunately, Nvidia did not reveal that there are actually two versions of the MX150, as noticed by Notebookcheck, with the second one being much slower, by 20 to 25 percent. In order to fit into 10W TDP for Ultrabooks, Nvidia significantly lowered clocks on the Geforce MX150 1D12, pushing it down to 937MHz GPU base and 1038MHz GPU Boost clocks, while memory got lowered down to 1253MHz. 
+Notebookcheck.net actually discovered a total of five notebooks with the underclocked MX150 1D12 GPU, including the Lenovo IdeaPad 320S, ZenBook 13 UX331UN, Xiaomi Mi Notebook Air 13.3, HP Envy 13, and ZenBook UX331UA. 
+As we said, the standard Geforce MX150 GPU is not a big performer in any case and considering that Nvidia did not actually list any specifications on its product page, other than it comes with GDDR5 memory, it isn't much you can do. Of course, tech-savvy buyers should keep an eye when buying a notebook with this GPU. 

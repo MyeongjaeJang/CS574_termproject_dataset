@@ -1,0 +1,85 @@
+Interview: A new type of networking that is claimed to be faster and more reliable March 21, 2018 by Abdul Montaqim 
+In this exclusive interview, Todd Rigby of Rajant talks about a new type of networking technology that he claims is faster and more reliable 
+A growing number of factories, warehouses and other industrial facilities are installing computer networks in order to make the most of the opportunities offered by the internet of things. 
+Typically, sensors are connected to traditional machinery, and then those sensors are connected to what are referred to as “gateway” devices, which are like routers. 
+This gateway can send the data collected and sent to it by the sensor either to a computer on-site or in the cloud through an internet connection. 
+There is a huge range of options when it comes to the type, make and model of the sensor and the gateway used to create a network, but more often than not in industrial settings, a combination of Ethernet cables and Wi-Fi are preferred. 
+Most readers will be familiar with Ethernet cables and Wi-Fi because they are part of the architecture used for home networks as well. A home router can connect many devices – including desktop computers, smartphones and other things – to the internet. 
+Sometimes it might stop working for some reason, and usually, a restart solves the problem. 
+However, in an industrial facility, a networking problem that causes an outage can cost a lot of money, even if the network is unavailable for a few minutes. 
+Moreover, Ethernet cables for industrial applications are slightly different, and there are different protocols – such as Modbus, Profinet and so on – along with the perhaps more familiar TCP/IP. 
+Mission-critical networks – which tend to refer to law enforcement and military as well as strategic installations like public utilities and infrastructure – require a more robust network that not only distributes data faster and more efficiently than other types of networks. 
+These are situations where perhaps different solutions – such as point-to-point radio connections – are chosen rather than, or as well as, Wi-Fi and Ethernet. 
+In this exclusive interview, Todd Rigby, director of sales at Rajant , tells us about the company’s proprietary networking solution, which is used by police departments and military units because of its highly stable nature. 
+Rajant is looking to expand further into the industrial space and build on the successes it has already achieved with what it calls its “Kinetic Mesh” networking system and its “Breadcrumb” device, which is like the internet gateway mentioned earlier. 
+Although Rajant has proprietary protocol and its own gateway device, all of its technologies are compatible with industry standard protocols and systems, and can be used as part of a broader, integrated, hybrid solution. 
+Networking for beginners 
+Having already offered a basic overview of networking, it’s probably a good time to delve a little deeper into the pros and cons of different methods. 
+Rigby helps us out by offering his thoughts on two of the main networking methods that one might use in, for example, a warehouse to connect autonomous mobile robots – namely, Wi-Fi and cellular networks, or LTE, which stands for long-term evolution – the term given to the latest fourth-generation, or 4G, telecommunications networks. 
+However, although the use case discussed below is mobile robots, the networking technologies would be applicable to fixed or stationary robots as well as other types of machinery – industrial or otherwise. 
+Rajant’s main markets are police, military, mining and public utilities and infrastructure. 
+But Rigby says the company has been growing fast in the automation market, although he says he cannot provide examples because of non-disclosure agreements. 
+Also, automakers which put their vehicles through endurance testing use Rajant networking technology. 
+Rigby explains that often these endurance tests involve no human drivers, although not necessarily because the car being tested is intended as a driverless offering. 
+This sort of application – where a fast-moving machine needs to be connected to computers on a network which can collect and analyse data from it – is where Rajant says it excels. 
+Let’s start with Wi-Fi Todd Rigby, Rajant 
+“There’s three basic, common ways you can connect autonomous mobile robots,” says Rigby. 
+“Wi-Fi is an easy one. LTE is an option. Rajant’s Kinetic Mesh is another option. 
+“Let me describe to you some of the practical conditions that exist when using those three technologies. 
+“We do work with several autonomous companies, more so on the mobility side, less so with fixed robots in the manufacturing facility that are controlled by PLCs [programmable logic controllers]. 
+“Wi-Fi has the limitation that you can have only one connection at a time. There are some practical problems with that single connection in that you may want your autonomous robot to move outside of the range of its access point. 
+“And if that’s the case, you’re going to have a break in communications where the robot will not be connected to the network for some period of time. 
+“Now, most autonomous systems have a built-in safety mechanism, so if there’s a loss of connectivity for more than a couple of seconds, the autonomous vehicle will stop as a safety measure to prevent it from crashing or hurting someone. 
+“So, the ideal is that you need to try to design your network without having lengthy breaks. But in a Wi-Fi network, you cannot entirely avoid having breaks because the whole nature of the Wi-Fi protocol is that it has to break a connection before it can make a new connection. 
+“Now, a couple of other conditions exist in that, before it breaks, we can assume the robot is moving – either it’s getting closer to an access point or farther away from an access point. 
+“This is important because throughput, or the amount of data you can pass through a wireless connection, is completely correlated to the signal quality, and the farther you get from an access point, the lower your throughput will be. 
+“Now, many autonomous vehicles demand a certain amount of throughput. 
+“One of the companies we work with is Sharp Electronics, with their Intellos autonomous ground vehicle security robot. 
+“Rajant is the only certified network for use with the Intellos robot. 
+“They have a certain bandwidth demand that they need all the time and they can’t have less than that or they’re not getting full functionality out of the robot. 
+“Which is why they didn’t go with Wi-Fi as their primary communications because not only will you have a weak signal if you’re on the fringe of the coverage area, but Wi-Fi has an additional disadvantage in that an access point cannot transmit data faster that its weakest client can receive it. 
+“So if you had any other device using Wi-Fi connected to the same access point as the robot that had a weak connection, every user would suffer the same degraded performance as a result of the robot being on the fringe of coverage. 
+“So, one problem starts creating another. 
+“I’m not trying to badmouth Wi-Fi. I’m talking to you over a Wi-Fi connection. I connect my computer over Wi-Fi, all day, every day. It’s a great, convenient method for communicating, but it works best when you can be fairly stationary within a reasonably close range of the access point such that you can maintain a high-quality connection so that you can have some semblance of consistent performance. 
+“When you apply Wi-Fi across a broad area in an industrial application, where you’re dependent on receiving data back from your robot, and that connection is inconsistent from a performance standpoint, it doesn’t work very well, to rely on it for mission-critical communications.” One of the Rajant Breadcrumb devices 
+Evolution through devolution 
+One of the other key differences between a Wi-Fi network and a Rajant Kinetic Mesh network is that whereas a large-area Wi-Fi network tends to have what’s called a “master route node” to act as the central brain, Rajant’s Kinetic Mesh operates by places a little bit of brain in each Breadcrumb in what might be called a distributed intelligence network. 
+But that’s Wi-Fi. What about LTE? 
+Rigby continues: “Another common option for setting up a network might be LTE or cellular data. If you’re lucky, you live or work in an area where you have LTE, which is the most advanced network people have today. 
+“The biggest problem with trying to use LTE for industrial communications is that every cellular provider in the world configures their network to support smartphone, and the reason they do that is because smartphones are the number-one consumer of cellular data. 
+“So it’s logical that you would tune your network to deliver the best service to your number-one user. 
+“But in doing that o n a cellular network, you have to define how much of your total bandwidth is dedicated to upload and download. 
+“I’m sure you’ve had the opportunity to watch a video clip on your smartphone, whether you’re on the train or bus on the way home or whatever, something that maybe someone’s sent you by email, or something on YouTube. 
+“You saw a video clip and maybe you were able to stream it very efficiently to your phone. 
+“That’s because most of the bandwidth on an LTE network – or even down to a 3G network – most of the bandwidth is dedicated to downloading to the client device. 
+“The problem when you’re trying to connect an industrial client like a robot is that, in an industrial application, the end client is not the consumer of data, it’s the generator of data. 
+“And if you’re trying to use an LTE network, where the majority of the bandwidth resources are committed to download instead of upload, you’ll find that the network isn’t capable of receiving all the data that’s being generated from the end client or robot. 
+“Uploading data – even on a smartphone or computer – is a fraction of the speed of downloading because there’s far less bandwidth dedicated to the upload. 
+“So, in general, for automation applications, for robotics, LTE is not a mission-critical network because you’re not their number-one user, where you have a smartphone and just want to download data. 
+“Also, if you are an industrial user and you have robotic operations, you want to pick a network that will never lose connectivity. 
+“Now, the reason Rajant doesn’t lose connectivity is because we run a proprietary protocol called InstaMesh. 
+“InstaMesh allows each radio transceiver in a Breadcrumb to have multiple active connections. 
+“It can add additional connections without the requirement of breaking or dropping a connection first.” 
+Highly evolved and multi-skilled 
+Rigby moves on to talking about Rajant and pointing out the crucial advantage he says it has – multiple, simultaneous, two-way data connections. 
+This is something referred to in the industry as “full duplex”, meaning a Rajant Breadcrumb can send and receive data at the same time. 
+Wi-Fi networks are generally “half-duplex”, which means they either receive data or send data – but not do both at the same time. 
+A similar thing is true for LTE. 
+Rigby explains: “It’s true that in an LTE network a cellphone can have multiple connections, but only one of them is active. 
+“If you have the luxury of knowing your carrier’s special codes to type into your smartphone, you could see all the sectors of all the surrounding cell sites that you could potentially communicate with, and you could also see the signal strength, but the phone is co-ordinating with the cell towers and only carrying an active connection across a single connection. 
+“If you start to move, it will work out and co-ordinate a fairly elegant handoff to a different sector to a different cell site so that you are able to maintain pretty seamless communication, but you still have that inconsistent throughput, where uploading is far slower than downloading. 
+“But with a Rajant network, you have equal upload and download bandwidth capability, and you have redundant active connections. 
+“Each Breadcrumb refreshes those connections and recalculates the position between 50 and 200 times a second. 
+“So, you could have a very high-speed robot – or even a racing car – and still be unable to outrun the networking protocol.” 
+Fast cars 
+Rajant networking technology was used by Nascar, the famous US motor racing series, to set up a high-speed continuous connectivity network. 
+Incidentally, Sharp’s Intellos robot was the “official security robot” for the Indianapolis Motor Speedway, something which seemed to make the robot develop a more proud posture – or maybe that’s just our imagination. 
+“We set up a Kinetic Mesh network around the racetrack,” says Rigby. 
+“We also put Breadcrumbs on two of these cars, and each car had four high-definition video cameras and we were then transmitting eight streams of high-definition video across our network and they were all being recording onto a laptop that was plugged into one of the Breadcrumbs. 
+“Video is one of those Breadcrumbs out the front of the second race car. 
+“And the video quality is completely consistent, very high quality, even at speeds of up to 135 miles an hour. 
+“That’s as far as the cars could go.” 
+Typically, a motor racing event like that would use point-to-point radio connections with operators – sometimes in helicopters – manually directing a satellite dish at a car in order to get the video feed from. 
+Also typically, racing event television coverage tends to show only one or two “in-car” video feeds at the same time. Rigby says this is because of the limitations of the networking technology, and that if they used Rajant, they could transmit all of the cars’ video feeds simultaneously to viewers. 
+Essentially, says Rigby, Rajant’s Kinetic Mesh offers a good alternative option, especially for mobile applications, which is why ASI Robotics – a developer of many autonomous vehicle technologies – “only uses Rajant”, claims Rigby. 
+“With a Rajant network, at any point in time, if you’re mobile, you may have some connections that are weak and some connections that are strong, but because the Breadcrumb will always transmit data at the very best connection, you’re always maintaining that high level of performance through having a high-quality connections, so the performance is very consistent.” Share this:

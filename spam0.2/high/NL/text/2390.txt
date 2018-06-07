@@ -1,0 +1,5 @@
+ 01 CET | 
+ZTE has unveiled an end-to-end container networking solution for development of open-source NFV. The Knitter container networking solution is based on the company's unified ICT PaaS platform, TECS OpenPalette, using container and Kubernetes cluster management technologies. It is designed to serve not only governments and enterprises with PaaS, but also the telco NFV field. 
+In addition to supporting the native Kubernetes network, it offers a complete set of end-to-end container networking functions for NFV, including multiple network planes, static application IP address, IP address migration, configurable IP resources and high-performance forwarding, ZTE said. 
+ZTE actively participates in and contributes to open-source communities, such as Kubernetes and Docker. With the open-source carrier-grade network solution Knitter, ZTE aims to extend its cooperation with the industry. 
+  m

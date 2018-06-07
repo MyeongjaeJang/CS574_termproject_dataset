@@ -1,0 +1,23 @@
+Legislators for the European Union have announced an investigation after allegations user data of 50 million Facebook accounts were misused.
+The investigation comes after Christopher Wylie, a whistle-blower who worked for data analytics company Cambridge Analytica, said on Saturday data of the 50 million users were harvested without their knowledge or consent.
+Antonio Tajani, p resident of the European Parliament, said on Twitter the allegations, if true, constitute "an unacceptable violation of our citizens' privacy rights".
+"The European Parliament will investigate fully, calling digital platforms to account," he said.
+Allegations of misuse of Facebook user data is an unacceptable violation of our citizens' privacy rights. The European Parliament will investigate fully, calling digital platforms to account. #CambridgeAnalytics #CambridgeAnalyticaFiles 
+— Antonio Tajani (@EP_President) March 19, 2018 The UK 's Information Commissioner's Office, which concerns itself with privacy and data protection, reiterated on Monday it is also investigating the issue.
+"A full understanding of the facts, data flows and data uses is imperative for my ongoing investigation. This includes any new information, statements or evidence that have come to light in recent days," Elizabeth Denham, information commissioner, said.
+{articleGUID} "This is a complex and far-reaching investigation for my office and any criminal or civil enforcement actions arising from it will be pursued vigorously."
+On Friday, the New York Times and London Observer broke a story about how Cambridge Analytica paid for illegally obtained personal information of 50 million Facebook users.
+The company, which worked on Donald Trump 's 2016 presidential campaign and the pro-Brexit campaign as a consultant, then used that information to build a software program which could target potential swing voters, the newspapers found.
+Cambridge Analytica allegedly got the data of the 50 million people from Aleksandr Kogan, a Russian-American researcher.
+He built an app called 'thisisyourdigitallife' that collected data for "academic research".
+However, the app not only collected personal information of the people who downloaded the app and consented to having their data used, but also of unknowing friends, according to the newspapers' investigation.
+{articleGUID} Cambridge Analytica, who paid Kogan's company and to build the app, was then able to create highly detailed profiles of 50 million people.
+That data was subsequently used for several political campaigns, among them Trump's and Ted Cruz's presidential runs, as well as the Brexit campaign in the UK.
+According to the Facebook terms of services, the sale of information to third parties is not allowed.
+As a result of the news, Facebook shares have plummeted.
+The company said in a response all parties involved, including the whistle-blower Wylie, had been suspended pending an internal investigation.
+Facebook, whose headquarters are based in Ireland, added on Saturday the data gathered were not the result of a breach, but that people knowingly provided their information and no sensitive pieces of information were stolen.
+Suspended by @facebook . For blowing the whistle. On something they have known privately for 2 years. pic.twitter.com/iSu6VwqUdG 
+— Christopher Wylie (@chrisinsilico) March 18, 2018 {articleGUID} Cambridge Analytica has claimed in a statement that it did not use the gathered data for its work with the Trump presidential campaign and that has followed Facebook's terms of services.
+Funding for Cambridge Analytica came from former White House adviser Steve Bannon and hedge-fund financiers Robert and Rebekah Mercer, who supported the Trump campaign.
+SOURCE: Al Jazeera News
